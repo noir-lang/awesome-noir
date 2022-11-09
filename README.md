@@ -11,9 +11,13 @@ A curated list of resources for learning and programming in Noir.
 - [Official Resources](#official-resources)
 - [Talks & Workshops](#talks--workshops)
 - [Get Coding](#get-coding)
+  - [Dev Tools](#dev-tools)
   - [Boilerplates](#boilerplates)
-  - [Project Examples](#project-examples)
-- [Community](#community)
+- [Projects](#projects)
+  - [Authentication](#authentication)
+  - [Education](#education)
+  - [Gaming](#gaming)
+  - [Governance](#governance)
 - [Contribute](#contribute)
 
 ---
@@ -32,17 +36,33 @@ A curated list of resources for learning and programming in Noir.
 
 ### Dev Tools
 
-- [VSCode Extension](https://marketplace.visualstudio.com/items?itemName=noir-lang.noir-programming-language-syntax-highlighter) - Syntax Highlighter
+- [VSCode Extension](https://marketplace.visualstudio.com/items?itemName=noir-lang.noir-programming-language-syntax-highlighter) - Syntax highlighter
 
 ### Boilerplates
 
-- [nplate](https://github.com/whitenois3/nplate)
+- [nplate](https://github.com/whitenois3/nplate) - Minimalist template for Noir projects
 
-### Project Examples
+## Projects
 
-- [Basic Example](https://github.com/vezenovm/basic_mul_noir_example)
+A curated list of projects powered by Noir.
+
+### Authentication
+
+- [Cyclone](https://github.com/TalDerei/cyclone) - Anonymous proof of access / subscription framework
+
+### Education
+
+- [Basic Example](https://github.com/vezenovm/basic_mul_noir_example) - Demonstrate Noir interactions in TypeScript
+- [Proof of Membership](https://github.com/vezenovm/simple_shield) - Example of anonymous Merkle membership proof
+
+### Gaming
+
+- [Battleship](https://github.com/snjax/zkships)
 - [Mastermind](https://github.com/vezenovm/mastermind-noir)
-- [Proof of Membership](https://github.com/vezenovm/simple_shield)
+
+### Governance
+
+- [MeloCafe](https://github.com/MeloCafe) - Anonymous on-chain voting
 
 ## Contribute
 
