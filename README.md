@@ -1,6 +1,10 @@
-# Awesome Noir [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+# Awesome Noir
 
-> A curated list of awesome things related to learning and programming in Noir.
+A curated list of resources for learning and programming in Noir.
+
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/Aztec.svg?style=social&label=Follow%20%40Aztec)](https://twitter.com/aztecnetwork)
+[![Discord](https://img.shields.io/discord/563037431604183070?logo=discord)](https://discord.gg/aztec)
 
 ## Contents
 
@@ -35,10 +39,6 @@
 - [Basic Example](https://github.com/vezenovm/basic_mul_noir_example)
 - [Mastermind](https://github.com/vezenovm/mastermind-noir)
 - [Proof of Membership](https://github.com/vezenovm/simple_shield)
-
-## Community
-
-- [Discord](https://discord.gg/aztec)
 
 ## Contribute
 
