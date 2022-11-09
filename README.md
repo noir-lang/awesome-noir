@@ -30,6 +30,10 @@ A curated list of resources for learning and programming in Noir.
 
 ## Get Coding
 
+### Dev Tools
+
+- [VSCode Extension](https://marketplace.visualstudio.com/items?itemName=noir-lang.noir-programming-language-syntax-highlighter) - Syntax Highlighter
+
 ### Boilerplates
 
 - [nplate](https://github.com/whitenois3/nplate)
