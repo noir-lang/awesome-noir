@@ -52,8 +52,9 @@ A curated list of projects powered by Noir.
 
 ### Education
 
-- [Basic Example](https://github.com/vezenovm/basic_mul_noir_example) - Demonstrate Noir interactions in TypeScript
-- [Proof of Membership](https://github.com/vezenovm/simple_shield) - Example of anonymous Merkle membership proof
+- [Crypdoku](https://github.com/guipublic/crypdoku) - Sudoku in Noir
+- [Basic Mul](https://github.com/vezenovm/basic_mul_noir_example) - Demonstrate Noir interactions in TypeScript
+- [Private Value Tranfer](https://github.com/vezenovm/simple_shield) - Example implementation of Tornado-like private asset transfer using Merkle proofs
 
 ### Gaming
 
