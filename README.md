@@ -13,6 +13,7 @@ A curated list of resources for learning and programming in Noir.
 - [Get Coding](#get-coding)
   - [Dev Tools](#dev-tools)
   - [Boilerplates](#boilerplates)
+  - [Libraries](#libraries)
 - [Projects](#projects)
   - [Authentication](#authentication)
   - [Education](#education)
