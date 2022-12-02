@@ -32,6 +32,7 @@ A curated list of resources for learning and programming in Noir.
 
 - [Private Value Transfer in 10 Lines](https://www.youtube.com/watch?v=wYqqXas8_O4)
 - [Writing Circuits with Noir](https://www.youtube.com/watch?v=I5M8LhOECpM&t=2879s)
+- [ZK HACK III - Introduction to Noir](https://www.youtube.com/watch?v=5CziMfChveY)
 
 ## Get Coding
 
