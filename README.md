@@ -44,6 +44,7 @@ A curated list of resources for learning and programming in Noir.
 ### Boilerplates
 
 - [nplate](https://github.com/whitenois3/nplate) - Minimalist template for Noir projects
+- [hello-noir](https://github.com/socathie/hello-noir) + [hello-noir-ui](https://github.com/socathie/hello-noir-ui/) - Simple template with frontend Noir interactions
 
 ### Libraries
 
