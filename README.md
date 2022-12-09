@@ -56,8 +56,9 @@ A curated list of projects powered by Noir.
 
 ### Authentication
 
-- [Sequi](https://github.com/sequi-xyz) - Anonymous proof of payment
-- [Cyclone](https://github.com/TalDerei/cyclone) - Anonymous proof of access / subscription
+- Anonymous proof of token ownership on Aztec (for token-gated access)
+  - [Sequi](https://github.com/sequi-xyz)
+  - [Cyclone](https://github.com/TalDerei/cyclone)
 
 ### Education
 
