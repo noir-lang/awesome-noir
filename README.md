@@ -56,7 +56,8 @@ A curated list of projects powered by Noir.
 
 ### Authentication
 
-- [Cyclone](https://github.com/TalDerei/cyclone) - Anonymous proof of access / subscription framework
+- [Sequi](https://github.com/sequi-xyz) - Anonymous proof of payment
+- [Cyclone](https://github.com/TalDerei/cyclone) - Anonymous proof of access / subscription
 
 ### Education
 
