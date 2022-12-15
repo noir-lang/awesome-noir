@@ -62,14 +62,15 @@ A curated list of projects powered by Noir.
 
 ### Education
 
+- [Mastermind](https://github.com/vezenovm/mastermind-noir) - Mastermind in Noir
 - [Crypdoku](https://github.com/guipublic/crypdoku) - Sudoku in Noir
 - [Basic Mul](https://github.com/vezenovm/basic_mul_noir_example) - Demonstrate Noir interactions in TypeScript
 - [Private Value Tranfer](https://github.com/vezenovm/simple_shield) - Example implementation of Tornado-like private asset transfer using Merkle proofs
 
 ### Gaming
 
-- [Battleship](https://github.com/snjax/zkships)
-- [Mastermind](https://github.com/vezenovm/mastermind-noir)
+- [BattleZips](https://github.com/BattleZips/BattleZips-Noir) - ZK Battleship 
+- [zkShips](https://github.com/snjax/zkships) - ZK Battleship (ETHBogota hackathon 1st place)
 
 ### Governance
 
