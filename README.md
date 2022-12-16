@@ -30,9 +30,10 @@ A curated list of resources for learning and programming in Noir.
 
 ## Talks & Workshops
 
-- [Private Value Transfer in 10 Lines](https://www.youtube.com/watch?v=wYqqXas8_O4)
-- [Writing Circuits with Noir](https://www.youtube.com/watch?v=I5M8LhOECpM&t=2879s)
-- [ZK HACK III - Introduction to Noir](https://www.youtube.com/watch?v=5CziMfChveY)
+- [20m] [Private Value Transfer in 10 Lines](https://www.youtube.com/watch?v=wYqqXas8_O4)
+- [10m] [Writing Circuits with Noir](https://www.youtube.com/watch?v=I5M8LhOECpM&t=2879s)
+- [2h] [ZK HACK III - Introduction to Noir](https://www.youtube.com/watch?v=5CziMfChveY)
+- [1.5h] [Sudoku in Noir](https://drive.google.com/file/d/1D4XCdiIZVjUW1JHDoMW3pG-15mgjMm9E/)
 
 ## Get Coding
 
