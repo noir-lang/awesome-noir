@@ -30,10 +30,15 @@ A curated list of resources for learning and programming in Noir.
 
 ## Talks & Workshops
 
-- [20m] [Private Value Transfer in 10 Lines](https://www.youtube.com/watch?v=wYqqXas8_O4)
-- [10m] [Writing Circuits with Noir](https://www.youtube.com/watch?v=I5M8LhOECpM&t=2879s)
-- [2h] [ZK HACK III - Introduction to Noir](https://www.youtube.com/watch?v=5CziMfChveY)
-- [1.5h] [Sudoku in Noir](https://drive.google.com/file/d/1D4XCdiIZVjUW1JHDoMW3pG-15mgjMm9E/)
+- [20 mins] [Private Value Transfer in 10 Lines](https://www.youtube.com/watch?v=wYqqXas8_O4) ([Source Code](https://github.com/vezenovm/simple_shield))
+  - Tornado-like private asset transfer using Merkle proofs
+- [10 mins] [Writing Circuits with Noir](https://www.youtube.com/watch?v=I5M8LhOECpM&t=2879s) ([Source Code](https://github.com/vezenovm/basic_mul_noir_example))
+  - Nargo setup
+  - Basic Noir syntax
+  - Noir interactions in TypeScript
+- [2 hrs] [ZK HACK III - Introduction to Noir](https://www.youtube.com/watch?v=5CziMfChveY) ([Souce Code](https://github.com/joss-aztec/quadratic_voting_noir))
+  - Code-together: Quadratic Voting
+- [1.5 hrs] [Sudoku in Noir](https://drive.google.com/file/d/1D4XCdiIZVjUW1JHDoMW3pG-15mgjMm9E/) ([Source Code](https://github.com/guipublic/crypdoku))
 
 ## Get Coding
 
@@ -41,7 +46,7 @@ A curated list of resources for learning and programming in Noir.
 
 - [VSCode Extension](https://marketplace.visualstudio.com/items?itemName=noir-lang.noir-programming-language-syntax-highlighter) - Syntax highlighter
 - [Vim Plugin](https://github.com/Louis-Amas/noir-vim-support) - Syntax highlighter
-- [hardhat-noir](https://www.npmjs.com/package/hardhat-noir) - Hardhat Plugin
+- [hardhat-noir](https://www.npmjs.com/package/hardhat-noir) - Hardhat plugin
 
 ### Boilerplates
 
@@ -66,9 +71,6 @@ A curated list of projects powered by Noir.
 ### Education
 
 - [Mastermind](https://github.com/vezenovm/mastermind-noir) - Mastermind in Noir
-- [Crypdoku](https://github.com/guipublic/crypdoku) - Sudoku in Noir
-- [Basic Mul](https://github.com/vezenovm/basic_mul_noir_example) - Demonstrate Noir interactions in TypeScript
-- [Private Value Tranfer](https://github.com/vezenovm/simple_shield) - Example implementation of Tornado-like private asset transfer using Merkle proofs
 
 ### Gaming
 
