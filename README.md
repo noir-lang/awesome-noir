@@ -44,9 +44,10 @@ A curated list of resources for learning and programming in Noir.
 
 ### Dev Tools
 
-- [VSCode Extension](https://marketplace.visualstudio.com/items?itemName=noir-lang.noir-programming-language-syntax-highlighter) - Syntax highlighter
-- [Vim Plugin](https://github.com/Louis-Amas/noir-vim-support) - Syntax highlighter
-- [hardhat-noir](https://www.npmjs.com/package/hardhat-noir) - Hardhat plugin
+- [Noir Editor](https://noir-lang.github.io/noir-cra/)   - Browser IDE ([Souce Code](https://github.com/noir-lang/noir-cra))
+- [VSCode Extension](https://marketplace.visualstudio.com/items?itemName=noir-lang.noir-programming-language-syntax-highlighter) - Syntax highlight ([Source Code](https://github.com/noir-lang/vscode-noir))
+- [Vim Plugin](https://github.com/Louis-Amas/noir-vim-support) - Syntax highlight
+- [hardhat-noir](https://www.npmjs.com/package/hardhat-noir) - Hardhat plugin ([Source Code](https://github.com/spalladino/hardhat-noir))
 
 ### Boilerplates
 
