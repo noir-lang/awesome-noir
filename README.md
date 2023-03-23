@@ -39,7 +39,8 @@ A curated list of resources for learning and programming in Noir.
 - [2 hrs] [ZK HACK III - Introduction to Noir](https://www.youtube.com/watch?v=5CziMfChveY) ([Souce Code](https://github.com/joss-aztec/quadratic_voting_noir))
   - Code-together: Quadratic Voting
 - [1.5 hrs] [Sudoku in Noir](https://drive.google.com/file/d/1D4XCdiIZVjUW1JHDoMW3pG-15mgjMm9E/) ([Source Code](https://github.com/guipublic/crypdoku))
-- [BattleZips-Noir](https://www.youtube.com/watch?v=25_FzjlG7ZU&list=PLabpoAlaCBY3SM6xHmZCOhPHlmLB4EY6H), building a fully onchain battleships game in Noir
+- [BattleZips-Noir](https://www.youtube.com/playlist?list=PLWACGbvIsEgnR2aUCr9i-PpmTVhF5Zuik) ([Source Code](https://github.com/BattleZips/BattleZips-Noir))
+  - Walkthrough of building an on-chain Battleships game in Noir
 
 ## Get Coding
 
