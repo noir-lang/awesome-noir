@@ -25,7 +25,7 @@ A curated list of resources for learning and programming in Noir.
 
 ## Official Resources
 
-- [Book](https://noir-lang.org/)
+- [Docs](https://noir-lang.org/)
 - [GitHub](https://github.com/noir-lang/noir)
 
 ## Talks & Workshops
