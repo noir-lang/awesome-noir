@@ -77,8 +77,7 @@ A curated list of projects powered by Noir.
 
 ### Gaming
 
-- [BattleZips](https://github.com/BattleZips/BattleZips-Noir) - ZK Battleship 
-- [zkShips](https://github.com/snjax/zkships) - ZK Battleship (ETHBogota hackathon 1st place)
+- [BattleZips](https://github.com/BattleZips/BattleZips-Noir) - ZK Battleship
 - [Sudoku, Wordle, and Trivia](https://github.com/ruizehung/Zero-Knowledge-Sudoku-Wordle-Trivia) - Sudoku, Wordle, and Trivia games
 
 ### Governance
