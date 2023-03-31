@@ -73,6 +73,7 @@ A curated list of projects powered by Noir.
 
 ### Education
 
+- [circuit-examples](https://github.com/thor314/circuit-examples) - Dot Product & Merkle Proof in Circom, Noir and RISC0
 - [Mastermind](https://github.com/vezenovm/mastermind-noir) - Mastermind in Noir
 
 ### Gaming
