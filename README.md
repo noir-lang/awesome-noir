@@ -36,6 +36,10 @@ A curated list of resources for learning and programming in Noir.
   - Nargo setup
   - Basic Noir syntax
   - Noir interactions in TypeScript
+- [1 hr] [Circuit Safety and an Introduction to Noir](https://www.youtube.com/watch?v=rLvu61DA-hk)
+  - Common circuit bugs
+  - Proving system vulnerabilities
+  - Unconstrained functions
 - [2 hrs] [ZK HACK III - Introduction to Noir](https://www.youtube.com/watch?v=5CziMfChveY) ([Souce Code](https://github.com/joss-aztec/quadratic_voting_noir))
   - Code-together: Quadratic Voting
 - [1.5 hrs] [Sudoku in Noir](https://drive.google.com/file/d/1D4XCdiIZVjUW1JHDoMW3pG-15mgjMm9E/) ([Source Code](https://github.com/guipublic/crypdoku))
