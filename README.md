@@ -62,7 +62,7 @@ A curated list of resources for learning and programming in Noir.
 - [hello-noir](https://github.com/socathie/hello-noir) + [hello-noir-ui](https://github.com/socathie/hello-noir-ui/) - React template
 - [noir-web-starter-next](https://github.com/noir-lang/noir-web-starter-next) - Next.js template
 - [noir-hardhat-template](https://github.com/hooperben/noir-hardhat-template) - Hardhat template
-- [noir-started](https://github.com/signorecello/noir-starter) - Next.js + Hardhat template
+- [noir-starter](https://github.com/signorecello/noir-starter) - Next.js + Hardhat template
 
 ### Libraries
 
