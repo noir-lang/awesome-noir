@@ -62,7 +62,9 @@ A curated list of resources for learning and programming in Noir.
 - [hello-noir](https://github.com/socathie/hello-noir) + [hello-noir-ui](https://github.com/socathie/hello-noir-ui/) - React template
 - [noir-web-starter-next](https://github.com/noir-lang/noir-web-starter-next) - Next.js template
 - [noir-hardhat-template](https://github.com/hooperben/noir-hardhat-template) - Hardhat template
-
+- [nplate](https://github.com/whitenois3/nplate) - Minimalist template
+- [noir-started](https://github.com/signorecello/noir-starter) - Next.js + Hardhat template
+- 
 ### Libraries
 
 - [Standard Library](https://github.com/noir-lang/noir/tree/master/noir_stdlib)
@@ -86,6 +88,7 @@ A curated list of projects powered by Noir.
 
 - [BattleZips](https://battlezips.com/) ([Source Code](https://github.com/BattleZips/BattleZips-Noir)) - On-chain Battleship
 - [Sudoku, Wordle, and Trivia](https://github.com/ruizehung/Zero-Knowledge-Sudoku-Wordle-Trivia) - Sudoku, Wordle, and Trivia games
+- [ZCaptcha](https://github.com/signorecello/zcaptcha) - A ZK version of Captcha
 
 ### Governance
 
