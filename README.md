@@ -27,7 +27,8 @@ A curated list of resources for learning and programming in Noir.
 
 - [Docs](https://noir-lang.org/)
 - [GitHub](https://github.com/noir-lang/noir)
-- [Forum](https://discourse.aztec.network/c/noir/7) 
+- [Forum](https://discourse.aztec.network/c/noir/7)
+- [noir-starter repo](https://github.com/noir-lang/noir-starter)
 
 ## Talks & Workshops
 
@@ -60,7 +61,7 @@ A curated list of resources for learning and programming in Noir.
 
 - [nplate](https://github.com/whitenois3/nplate) - Minimalist template
 - [noir-hardhat-template](https://github.com/hooperben/noir-hardhat-template) - Hardhat template
-- [noir-starter](https://github.com/noir-lang/noir-starter) - Next.js + Hardhat template
+- [noir-starter](https://github.com/noir-lang/noir-starter) - Template repository containing example projects using Noir (Next.js + Hardhat, Foundry, etc.)
 
 ### Libraries
 
