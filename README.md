@@ -10,6 +10,7 @@ A curated list of resources for learning and programming in Noir.
 
 - [Official Resources](#official-resources)
 - [Talks & Workshops](#talks--workshops)
+- [Blog Posts & Articles](#blog-posts--articles)
 - [Get Coding](#get-coding)
   - [Dev Tools](#dev-tools)
   - [Boilerplates](#boilerplates)
@@ -54,6 +55,9 @@ A curated list of resources for learning and programming in Noir.
 - [Video Series] [BattleZips-Noir](https://www.youtube.com/playlist?list=PLWACGbvIsEgnR2aUCr9i-PpmTVhF5Zuik) ([Source Code](https://github.com/BattleZips/BattleZips-Noir))
   - Walkthrough of building an on-chain Battleships game in Noir
 
+
+## Blog Posts & Articles
+- [Understanding the Technical Aspects of Aztec and Noir](https://hackmd.io/XZX9_pZ8Q1aa_ySDPeQopg)
 ## Get Coding
 
 ### Dev Tools
@@ -76,6 +80,7 @@ A curated list of resources for learning and programming in Noir.
 - [BigInt](https://github.com/okuyiga/noir-bigint/tree/master)
 - [Ecrecover](https://github.com/colinnielsen/ecrecover-noir/tree/main) - a library to verify an ECDSA signature and return the source Ethereum address 
 - [Sparse Merkle Tree Verifier](https://github.com/vocdoni/smtverifier-noir/tree/main)
+
 
 ## Projects
 
