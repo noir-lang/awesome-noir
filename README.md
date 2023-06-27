@@ -9,15 +9,16 @@ A curated list of resources for learning and programming in Noir.
 ## Contents
 
 - [Official Resources](#official-resources)
-- [Talks & Workshops](#talks--workshops)
-- [Blog Posts & Articles](#blog-posts--articles)
+- [Learning](#learning)
+  - [Learning by Doing](#learning-by-doing)
+  - [Talks & Workshops](#talks--workshops)
+  - [Blog Posts & Articles](#blog-posts--articles)
 - [Get Coding](#get-coding)
   - [Dev Tools](#dev-tools)
   - [Boilerplates](#boilerplates)
   - [Libraries](#libraries)
 - [Projects](#projects)
   - [Authentication](#authentication)
-  - [Education](#education)
   - [Gaming](#gaming)
   - [Governance](#governance)
 - [Contribute](#contribute)
@@ -31,7 +32,21 @@ A curated list of resources for learning and programming in Noir.
 - [Forum](https://discourse.aztec.network/c/noir/7)
 - [noir-starter repo](https://github.com/noir-lang/noir-starter)
 
-## Talks & Workshops
+## Learning
+
+### Learning By Doing
+
+- [Practice Exercises] [Noir-by-example](https://noir-by-example.org/)
+  - An introduction to Noir with a bunch of simple examples 
+  - Learn how to organize your Noir logic, write For Loops, and create complex package structures  
+- [Video Series] [BattleZips-Noir](https://www.youtube.com/playlist?list=PLWACGbvIsEgnR2aUCr9i-PpmTVhF5Zuik) ([Source Code](https://github.com/BattleZips/BattleZips-Noir))
+  - Walkthrough of building an on-chain Battleships game using zero-knowledge
+  - Follow along and build your own game using Noir
+- [Practice Exercises] [Circuit Examples](https://github.com/thor314/circuit-examples)
+  - Demonstration of dot products & Merkle proofs in Noir, in comparison to Circom and RISC0
+  
+
+### Talks & Workshops
 
 - [10 mins] [Writing Circuits with Noir](https://www.youtube.com/watch?v=I5M8LhOECpM&t=2879s) ([Source Code](https://github.com/vezenovm/basic_mul_noir_example))
   - Nargo setup
@@ -52,12 +67,10 @@ A curated list of resources for learning and programming in Noir.
 - [1.5 hrs] [Sudoku in Noir](https://drive.google.com/file/d/1D4XCdiIZVjUW1JHDoMW3pG-15mgjMm9E/) ([Source Code](https://github.com/guipublic/crypdoku))
 - [2 hrs] [ZK HACK III - Introduction to Noir](https://www.youtube.com/watch?v=5CziMfChveY) ([Souce Code](https://github.com/joss-aztec/quadratic_voting_noir))
   - Code-together: Quadratic Voting
-- [Video Series] [BattleZips-Noir](https://www.youtube.com/playlist?list=PLWACGbvIsEgnR2aUCr9i-PpmTVhF5Zuik) ([Source Code](https://github.com/BattleZips/BattleZips-Noir))
-  - Walkthrough of building an on-chain Battleships game in Noir
 
-
-## Blog Posts & Articles
+### Blog Posts & Articles
 - [Understanding the Technical Aspects of Aztec and Noir](https://hackmd.io/XZX9_pZ8Q1aa_ySDPeQopg)
+
 ## Get Coding
 
 ### Dev Tools
@@ -92,13 +105,9 @@ A curated list of projects powered by Noir.
   - [Sequi](https://github.com/sequi-xyz)
   - [Cyclone](https://github.com/TalDerei/cyclone)
 
-### Education
-
-- [circuit-examples](https://github.com/thor314/circuit-examples) - Dot Product & Merkle Proof in Circom, Noir and RISC0
-- [Mastermind](https://github.com/vezenovm/mastermind-noir) - Mastermind in Noir
-
 ### Gaming
 
+- [Mastermind](https://github.com/vezenovm/mastermind-noir) - Mastermind in Noir
 - [BattleZips](https://battlezips.com/) ([Source Code](https://github.com/BattleZips/BattleZips-Noir)) - On-chain Battleship
 - [Sudoku, Wordle, and Trivia](https://github.com/ruizehung/Zero-Knowledge-Sudoku-Wordle-Trivia) - Sudoku, Wordle, and Trivia games
 - [ZCaptcha](https://github.com/signorecello/zcaptcha) - A ZK version of Captcha
