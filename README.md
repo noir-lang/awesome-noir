@@ -93,6 +93,7 @@ A curated list of resources for learning and programming in Noir.
 - [BigInt](https://github.com/okuyiga/noir-bigint/tree/master)
 - [Ecrecover](https://github.com/colinnielsen/ecrecover-noir/tree/main) - a library to verify an ECDSA signature and return the source Ethereum address 
 - [Sparse Merkle Tree Verifier](https://github.com/vocdoni/smtverifier-noir/tree/main)
+- [RLP Decoding & Ethereum Storage Proof](https://github.com/aragonzkresearch/noir-trie-proofs/) - proves any piece of data on Ethereum (e.g. token ownership, historical prices, etc.)
 
 
 ## Projects
