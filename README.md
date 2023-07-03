@@ -21,6 +21,7 @@ A curated list of resources for learning and programming in Noir.
   - [Authentication](#authentication)
   - [Gaming](#gaming)
   - [Governance](#governance)
+  - [Social](#social)
 - [Contribute](#contribute)
 
 ---
@@ -64,7 +65,7 @@ A curated list of resources for learning and programming in Noir.
   - Common circuit bugs
   - Proving system vulnerabilities
   - Unconstrained functions
-- [1 hr] [Introduction to Noir in Spanish](https://www.youtube.com/watch?v=m4P-sAqa8_o)([Written Tutorial and Code](https://dev.to/turupawn/circuitos-de-aztec-noir-en-tu-navegador-zk-es-semana-3-78a))
+- [1 hr] [Introduction to Noir in Spanish](https://www.youtube.com/watch?v=m4P-sAqa8_o) ([Written Tutorial and Code](https://dev.to/turupawn/circuitos-de-aztec-noir-en-tu-navegador-zk-es-semana-3-78a))
 - [1.5 hrs] [Sudoku in Noir](https://drive.google.com/file/d/1D4XCdiIZVjUW1JHDoMW3pG-15mgjMm9E/) ([Source Code](https://github.com/guipublic/crypdoku))
 - [2 hrs] [ZK HACK III - Introduction to Noir](https://www.youtube.com/watch?v=5CziMfChveY) ([Souce Code](https://github.com/joss-aztec/quadratic_voting_noir))
   - Code-together: Quadratic Voting
@@ -90,10 +91,11 @@ A curated list of resources for learning and programming in Noir.
 
 ### Libraries
 
-- [Standard Library](https://github.com/noir-lang/noir/tree/master/noir_stdlib)
-- [BigInt](https://github.com/shuklaayush/noir-bigint)
-- [Ecrecover](https://github.com/colinnielsen/ecrecover-noir/tree/main) - a library to verify an ECDSA signature and return the source Ethereum address 
-- [Sparse Merkle Tree Verifier](https://github.com/vocdoni/smtverifier-noir/tree/main)
+- [Standard Library](https://github.com/noir-lang/noir/tree/master/noir_stdlib) - the Noir Standard Library 
+- [Ethereum Storage Proof Verification](https://github.com/aragonzkresearch/noir-trie-proofs) - a library that contains the primitives necessary for RLP decoding (in the form of look-up table construction) and Ethereum state and storage proof verification (or verification of any trie proof involving 32-byte long keys)
+- [BigInt](https://github.com/shuklaayush/noir-bigint) - a library that provides a custom BigUint56 data type, allowing for computations on large unsigned integers 
+- [ECrecover](https://github.com/colinnielsen/ecrecover-noir/tree/main) - a library to verify an ECDSA signature and return the source Ethereum address 
+- [Sparse Merkle Tree Verifier](https://github.com/vocdoni/smtverifier-noir/tree/main) - a library for verification of sparse Merkle trees
 
 
 ## Projects
@@ -116,6 +118,10 @@ A curated list of projects powered by Noir.
 ### Governance
 
 - [MeloCafe](https://github.com/MeloCafe) - Anonymous on-chain voting
+
+### Social
+
+- [FruityFriends](https://github.com/guelowrd/fruity-lib) - Various circuits (Proof of Intersection, Proof of Proximity, Proof of Proper Secret) to be used in social applications
 
 ## Contribute
 
