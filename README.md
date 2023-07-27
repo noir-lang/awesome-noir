@@ -61,6 +61,8 @@ A curated list of resources for learning and programming in Noir.
 - [25 mins] [Noir as a Smart Contract Language](https://www.youtube.com/watch?v=tYdUaCbACtk)
   - Noir as the smart contract language for the Aztec rollup
   - Noir smart contracts
+- [45 mins] [Outlandish Noir Stuff; Workshop at ETHCC](https://www.youtube.com/watch?v=pdrZ7Y__obU)
+  - How to use Noir to build a bunch of outlandish stuff 
 - [1 hr] [Circuit Safety and an Introduction to Noir](https://www.youtube.com/watch?v=rLvu61DA-hk)
   - Common circuit bugs
   - Proving system vulnerabilities
@@ -122,6 +124,7 @@ A curated list of projects powered by Noir.
 ### Governance
 
 - [MeloCafe](https://github.com/MeloCafe) - Anonymous on-chain voting
+- [Nouns Research Sprint](https://github.com/aragonzkresearch/nouns-anonymous-voting) -  Anonymous voting research sprint solution with NounsDAO
 
 ### Social
 
