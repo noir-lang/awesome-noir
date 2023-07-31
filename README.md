@@ -84,6 +84,8 @@ A curated list of resources for learning and programming in Noir.
 - [Vim Plugin](https://github.com/Louis-Amas/noir-vim-support) - Syntax highlight
 - [Emacs Plugin](https://melpa.org/#/noir-mode) - Syntax highlight ([Source Code](https://github.com/hhamud/noir-mode))
 - [hardhat-noir](https://www.npmjs.com/package/hardhat-noir) - Hardhat plugin ([Source Code](https://github.com/spalladino/hardhat-noir))
+- [Python2Noir](https://github.com/storswiftlabs/python2noir) - From Python to Noir language transpiler
+
 
 ### Boilerplates
 
