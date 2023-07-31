@@ -84,6 +84,8 @@ A curated list of resources for learning and programming in Noir.
 - [Vim Plugin](https://github.com/Louis-Amas/noir-vim-support) - Syntax highlight
 - [Emacs Plugin](https://melpa.org/#/noir-mode) - Syntax highlight ([Source Code](https://github.com/hhamud/noir-mode))
 - [hardhat-noir](https://www.npmjs.com/package/hardhat-noir) - Hardhat plugin ([Source Code](https://github.com/spalladino/hardhat-noir))
+- [Python2Noir](https://github.com/storswiftlabs/python2noir) - From Python to Noir language transpiler
+
 
 ### Boilerplates
 
@@ -131,9 +133,6 @@ A curated list of projects powered by Noir.
 
 - [FruityFriends](https://github.com/guelowrd/fruity-lib) - Various circuits (Proof of Intersection, Proof of Proximity, Proof of Proper Secret) to be used in social applications
 
-### transpiler
-
-- [Python2Noir](https://github.com/storswiftlabs/python2noir) - From Python to Noir language transpiler 
 ## Contribute
 
 Propose link additions by visiting [README.md](./README.md) and click the "pen" icon in the top right corner. Make changes to the file and follow the instructions to create a pull request.
