@@ -131,6 +131,9 @@ A curated list of projects powered by Noir.
 
 - [FruityFriends](https://github.com/guelowrd/fruity-lib) - Various circuits (Proof of Intersection, Proof of Proximity, Proof of Proper Secret) to be used in social applications
 
+### transpiler
+
+- [Python2Noir](https://github.com/storswiftlabs/python2noir) - From Python to Noir language transpiler 
 ## Contribute
 
 Propose link additions by visiting [README.md](./README.md) and click the "pen" icon in the top right corner. Make changes to the file and follow the instructions to create a pull request.
