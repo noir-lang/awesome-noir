@@ -110,6 +110,7 @@ A curated list of resources for learning and programming in Noir.
 - [SKProof](https://github.com/0x3327/skproof) - a Scikit-learn compatible Python library for generating ZK proofs of execution
 - [ZKFloat](https://github.com/0x3327/ZKFloat) - a floating point library for Noir
 - [Rate Limiting Nullifiers](https://github.com/Rate-Limiting-Nullifier/noir-rln) - a zero-knowledge gadget that enables spam prevention in anonymous environments
+- [Quantized arithmetic](https://github.com/storswiftlabs/quantized_arithmetic) - a library for quantized value operations of zero-point quantization
 
 
 
