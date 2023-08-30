@@ -88,7 +88,6 @@ A curated list of resources for learning and programming in Noir.
 - [hardhat-noir](https://www.npmjs.com/package/hardhat-noir) - Hardhat plugin ([Source Code](https://github.com/spalladino/hardhat-noir))
 - [Python2Noir](https://github.com/storswiftlabs/python2noir) - From Python to Noir language transpiler
 
-
 ### Boilerplates
 
 - [nplate](https://github.com/whitenois3/nplate) - Minimalist template
@@ -114,17 +113,16 @@ A curated list of resources for learning and programming in Noir.
 
 
 
-
-
 ## Projects
 
 A curated list of projects powered by Noir.
 
 ### Authentication
 
-- Anonymous proof of token ownership on Aztec (for token-gated access)
+- Anonymous proof of token ownership on Aztec for token-gated access
   - [Sequi](https://github.com/sequi-xyz)
   - [Cyclone](https://github.com/TalDerei/cyclone)
+- [SafeRecover](https://github.com/porco-rosso-j/safe-recovery-noir) - Recovery of ownership of Gnosis Safe accounts
 
 ### Gaming
 
@@ -132,6 +130,7 @@ A curated list of projects powered by Noir.
 - [BattleZips](https://battlezips.com/) ([Source Code](https://github.com/BattleZips/BattleZips-Noir)) - On-chain Battleship
 - [Sudoku, Wordle, and Trivia](https://github.com/ruizehung/Zero-Knowledge-Sudoku-Wordle-Trivia) - Sudoku, Wordle, and Trivia games
 - [ZCaptcha](https://github.com/signorecello/zcaptcha) - A ZK version of Captcha
+- [Hangman](https://github.com/resurgencelabs/hangman) - Simple implementation of the Hangman game
 
 ### Governance
 
