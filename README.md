@@ -95,6 +95,7 @@ A curated list of resources for learning and programming in Noir.
 - [nplate](https://github.com/whitenois3/nplate) - Minimalist template
 - [noir-hardhat-template](https://github.com/hooperben/noir-hardhat-template) - Hardhat template
 - [noir-starter](https://github.com/noir-lang/noir-starter) - Template repository containing example projects using Noir (Next.js + Hardhat, Foundry, etc.)
+- [noir-starter-nuxt](https://github.com/iam-robi/noir-starter-nuxt) - Template repository containing example minimal project using Noir, Nuxt and Hardhat
 
 ### Libraries
 
