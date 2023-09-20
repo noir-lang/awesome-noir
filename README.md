@@ -37,6 +37,9 @@ A curated list of resources for learning and programming in Noir.
 
 ### Learning By Doing
 
+- [Educational Curriculum] [ZKCamp's Open Source Noir course](https://github.com/ZKCamp/aztec-noir-course)
+  - 6 lectures to give participants the knowledge and skills necessary to build decentralized applications based on ZKPs using Noir
+  - Lessons include ZKP Fundamentals; An Introduction to Aztec Ecosystem; Noir Basics; Building a Noir Application; and Advanced Noir  
 - [Practice Exercises] [Noir-by-example](https://noir-by-example.org/)
   - An introduction to Noir with a bunch of simple examples 
   - Learn how to organize your Noir logic, write For Loops, and create complex package structures  
