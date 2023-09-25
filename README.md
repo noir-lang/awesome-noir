@@ -41,7 +41,7 @@ A curated list of resources for learning and programming in Noir.
   - 6 lectures to give participants the knowledge and skills necessary to build decentralized applications based on ZKPs using Noir
   - Lessons include ZKP Fundamentals; An Introduction to Aztec Ecosystem; Noir Basics; Building a Noir Application; and Advanced Noir  
 - [Practice Exercises] [Noir-by-example](https://noir-by-example.org/)
-  - An introduction to Noir with a bunch of simple examples 
+  - An introduction to Noir with a bunch of simple examples
   - Learn how to organize your Noir logic, write For Loops, and create complex package structures  
 - [Video Series] [BattleZips-Noir](https://www.youtube.com/playlist?list=PLWACGbvIsEgnR2aUCr9i-PpmTVhF5Zuik) ([Source Code](https://github.com/BattleZips/BattleZips-Noir))
   - Walkthrough of building an on-chain Battleships game using zero-knowledge
@@ -49,7 +49,6 @@ A curated list of resources for learning and programming in Noir.
 - [Practice Exercises] [Circuit Examples](https://github.com/thor314/circuit-examples)
   - Demonstration of dot products & Merkle proofs in Noir, in comparison to Circom and RISC0
   
-
 ### Talks & Workshops
 
 - [10 mins] [Writing Circuits with Noir](https://www.youtube.com/watch?v=I5M8LhOECpM&t=2879s) ([Source Code](https://github.com/vezenovm/basic_mul_noir_example))
@@ -65,7 +64,7 @@ A curated list of resources for learning and programming in Noir.
   - Noir as the smart contract language for the Aztec rollup
   - Noir smart contracts
 - [45 mins] [Outlandish Noir Stuff; Workshop at ETHCC](https://www.youtube.com/watch?v=pdrZ7Y__obU)
-  - How to use Noir to build a bunch of outlandish stuff 
+  - How to use Noir to build a bunch of outlandish stuff
 - [1 hr] [Circuit Safety and an Introduction to Noir](https://www.youtube.com/watch?v=rLvu61DA-hk)
   - Common circuit bugs
   - Proving system vulnerabilities
@@ -77,8 +76,9 @@ A curated list of resources for learning and programming in Noir.
   - Code-together: Quadratic Voting
 
 ### Blog Posts & Articles
+
 - [Understanding the Technical Aspects of Aztec and Noir](https://hackmd.io/XZX9_pZ8Q1aa_ySDPeQopg)
-- Noir 101 for Solidity devs in ([English](https://mirror.xyz/crisgarner.eth/IRRxnP-HVP-7qLZ-bTI2HRpKTmSRPCDl-Q6gm2NTj4g)) and ([Spanish](https://mirror.xyz/crisgarner.eth/Iek7PhbhU4WpIJ6eixFq80_7R6czH7fbdCoN0Bd7NfI)) 
+- Noir 101 for Solidity devs in ([English](https://mirror.xyz/crisgarner.eth/IRRxnP-HVP-7qLZ-bTI2HRpKTmSRPCDl-Q6gm2NTj4g)) and ([Spanish](https://mirror.xyz/crisgarner.eth/Iek7PhbhU4WpIJ6eixFq80_7R6czH7fbdCoN0Bd7NfI))
 
 ## Get Coding
 
@@ -99,12 +99,13 @@ A curated list of resources for learning and programming in Noir.
 - [noir-hardhat-template](https://github.com/hooperben/noir-hardhat-template) - Hardhat template
 - [noir-starter](https://github.com/noir-lang/noir-starter) - Template repository containing example projects using Noir (Next.js + Hardhat, Foundry, etc.)
 - [noir-starter-nuxt](https://github.com/iam-robi/noir-starter-nuxt) - Template repository containing example minimal project using Noir, Nuxt and Hardhat
+- [noir-vite-starter](https://github.com/HaMMeRSI/noir-vite-starter) - Template repository contiaining example minimal project using Noir and Vite
 
 ### Libraries
 
-- [Standard Library](https://github.com/noir-lang/noir/tree/master/noir_stdlib) - the Noir Standard Library 
+- [Standard Library](https://github.com/noir-lang/noir/tree/master/noir_stdlib) - the Noir Standard Library
 - [Ethereum Storage Proof Verification](https://github.com/aragonzkresearch/noir-trie-proofs) - a library that contains the primitives necessary for RLP decoding (in the form of look-up table construction) and Ethereum state and storage proof verification (or verification of any trie proof involving 32-byte long keys)
-- [BigInt](https://github.com/shuklaayush/noir-bigint) - a library that provides a custom BigUint56 data type, allowing for computations on large unsigned integers 
+- [BigInt](https://github.com/shuklaayush/noir-bigint) - a library that provides a custom BigUint56 data type, allowing for computations on large unsigned integers
 - [ECrecover](https://github.com/colinnielsen/ecrecover-noir/tree/main) - a library to verify an ECDSA signature and return the source Ethereum address
 - [U(int)2B(tyes)](https://github.com/colinnielsen/noir-u2b/tree/main) - a library for converting `u8`->`u120`s to `[u8]` array
 - [Sparse Merkle Tree Verifier](https://github.com/vocdoni/smtverifier-noir/tree/main) - a library for verification of sparse Merkle trees
@@ -120,8 +121,6 @@ A curated list of resources for learning and programming in Noir.
 - [zkML-Noir](https://github.com/storswiftlabs/zkml-noir) - a library for Python ML model transcoding Noir, including various algorithms such as Decision tree, K-Means, XGBoost, FNN, CNN
 - [Matrix Operations](https://github.com/storswiftlabs/matrix_operations) - a library for matrix operations provides functionality for performing various matrix operations
 - [Convolution](https://github.com/storswiftlabs/convolution) - a library for Convolutional Neural Network (CNN) library in Noir, including Convolutional layers, Pooling layers, and Linear (fully connected) layers.
-
-
 
 ## Projects
 
