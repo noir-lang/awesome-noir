@@ -13,6 +13,7 @@ A curated list of resources for learning and programming in Noir.
   - [Learning by Doing](#learning-by-doing)
   - [Talks & Workshops](#talks--workshops)
   - [Blog Posts & Articles](#blog-posts--articles)
+  - [Benchmarks](#benchmarks)
 - [Get Coding](#get-coding)
   - [Dev Tools](#dev-tools)
   - [Boilerplates](#boilerplates)
