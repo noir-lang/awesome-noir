@@ -123,7 +123,7 @@ A curated list of resources for learning and programming in Noir.
 - [U(int)2B(ytes)](https://github.com/colinnielsen/noir-u2b/tree/main) - a library for converting `u8`->`u120`s to `[u8]` array
 - [ZKFloat](https://github.com/0x3327/ZKFloat) - a floating point library for Noir
 
-#### Cryptograpy
+#### Cryptography
 
 - [Sparse Merkle Tree Verifier](https://github.com/vocdoni/smtverifier-noir/tree/main) - a library for verification of sparse Merkle trees
 - [RSA](https://github.com/SetProtocol/noir-rsa) - this repository contains an implementation of a RSA signature verify for the Noir language
