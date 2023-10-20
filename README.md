@@ -4,7 +4,6 @@ A curated list of resources for learning and programming in Noir.
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/Noir.svg?style=social&label=Follow%20%40Noir)](https://twitter.com/NoirLang)
-[![Discord](https://img.shields.io/discord/563037431604183070?logo=discord)](https://discord.gg/aztec)
 
 ## Contents
 
