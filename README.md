@@ -128,6 +128,7 @@ A curated list of resources for learning and programming in Noir.
 - [Merkle Root](https://github.com/tomoima525/noir-merkle-root) - a library for calculating Merkle root from given inputs. Using the Poseidon function for hashing
 - [Quantized arithmetic](https://github.com/storswiftlabs/quantized_arithmetic) - a library for quantized value operations of zero-point quantization
 - [SHA-1](https://github.com/michaelelliot/noir-sha1) - a library for generating hashes using SHA-1 hashing function
+- [SHA-1](https://github.com/michaelelliot/noir-sha2) - a library for generating hashes using SHA-2 hashing function
 - [Hydra for BN254](https://github.com/TaceoLabs/noir-hydra) - symmetric encryption and decryption in Noir
 
 #### Ethereum
