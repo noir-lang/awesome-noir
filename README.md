@@ -171,10 +171,16 @@ A curated list of projects powered by Noir.
 
 - [MeloCafe](https://github.com/MeloCafe) - Anonymous on-chain voting
 - [Nouns Research Sprint](https://github.com/aragonzkresearch/nouns-anonymous-voting) -  Anonymous voting research sprint solution with NounsDAO
+- [Billion Secret Voters](https://github.com/jordan-public/billion-zk-voters) - Massive scale secret voting with on-chain results
 
 ### Social
 
 - [FruityFriends](https://github.com/guelowrd/fruity-lib) - Various circuits (Proof of Intersection, Proof of Proximity, Proof of Proper Secret) to be used in social applications
+- [ZKMSocial](https://github.com/Volthai7us/ZKML-Censorship) - A new take on social media, using ZKML to ensure posts are honest and giving users more control over what they see
+
+### Miscellaneous
+
+- [ZKP-Hype](https://github.com/armanthepythonguy/ZKP-Hype-ETHOnline) - verify proofs on L2, where execution is cheaper
 
 ## Contribute
 
