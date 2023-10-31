@@ -53,6 +53,9 @@ A curated list of resources for learning and programming in Noir.
   - Follow along and build your own game using Noir
 - [Practice Exercises] [Circuit Examples](https://github.com/thor314/circuit-examples)
   - Demonstration of dot products & Merkle proofs in Noir, in comparison to Circom and RISC0
+- [Educational Demo] [scaffold-eth-2-noir](https://github.com/Kryha/scaffold-eth-2-noir)
+  - Small demo of a dApp with ZK-age restriction. UI, smart contracts and ZK-circuits.
+  - Built with [scaffold-eth](https://github.com/scaffold-eth/scaffold-eth-2).
   
 ### Talks & Workshops
 
