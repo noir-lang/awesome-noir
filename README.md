@@ -132,8 +132,10 @@ A curated list of resources for learning and programming in Noir.
 - [Quantized arithmetic](https://github.com/storswiftlabs/quantized_arithmetic) - a library for quantized value operations of zero-point quantization
 - [SHA-1](https://github.com/michaelelliot/noir-sha1) - a library for generating hashes using SHA-1 hashing function
 - [SHA-2](https://github.com/michaelelliot/noir-sha2) - a library for generating hashes using SHA-2 hashing function
-- [Hydra for BN254](https://github.com/TaceoLabs/noir-hydra) - symmetric encryption and decryption in Noir
-- [ElGamal Encryption](https://github.com/jat9292/noir-elgamal/) - Exponential ElGamal Encryption on the Baby Jubjub curve.
+- [Hydra for BN254](https://github.com/TaceoLabs/noir-hydra) - symmetric encryption and decryption
+- [Griffin for BN254](https://github.com/TaceoLabs/noir-griffin) - zk-friendly hash function 
+- [AES](https://github.com/TaceoLabs/noir-aes) - a (naive) implementation of AES encryption and decryption 
+- [ElGamal Encryption](https://github.com/jat9292/noir-elgamal/) - Exponential ElGamal Encryption on the Baby Jubjub curve
 
 #### Ethereum
 - [Ethereum Storage Proof Verification](https://github.com/aragonzkresearch/noir-trie-proofs) - a library that contains the primitives necessary for RLP decoding (in the form of look-up table construction) and Ethereum state and storage proof verification (or verification of any trie proof involving 32-byte long keys)
@@ -147,9 +149,6 @@ A curated list of resources for learning and programming in Noir.
 - [Matrix Operations](https://github.com/storswiftlabs/matrix_operations) - a library for matrix operations provides functionality for performing various matrix operations
 - [Convolution](https://github.com/storswiftlabs/convolution) - a library for Convolutional Neural Network (CNN) library in Noir, including Convolutional layers, Pooling layers, and Linear (fully connected) layers.
 
-#### Miscellaneous
-
-- [Rate Limiting Nullifiers](https://github.com/Rate-Limiting-Nullifier/noir-rln) - a zero-knowledge gadget that enables spam prevention in anonymous environments
 
 
 ## Projects
@@ -184,6 +183,7 @@ A curated list of projects powered by Noir.
 
 ### Miscellaneous
 
+- [Rate Limiting Nullifiers](https://github.com/Rate-Limiting-Nullifier/noir-rln) - a zero-knowledge gadget that enables spam prevention in anonymous environments
 - [ZKP-Hype](https://github.com/armanthepythonguy/ZKP-Hype-ETHOnline) - verify proofs on L2, where execution is cheaper
 
 ## Contribute
