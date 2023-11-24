@@ -136,6 +136,7 @@ A curated list of resources for learning and programming in Noir.
 - [Griffin for BN254](https://github.com/TaceoLabs/noir-griffin) - zk-friendly hash function 
 - [AES](https://github.com/TaceoLabs/noir-aes) - a (naive) implementation of AES encryption and decryption 
 - [ElGamal Encryption](https://github.com/jat9292/noir-elgamal/) - Exponential ElGamal Encryption on the Baby Jubjub curve
+- [BLS12_381 Elliptic Curve Pairing and Signature Verification Library](https://github.com/onurinanc/noir-bls-signature)
 
 #### Ethereum
 - [Ethereum Storage Proof Verification](https://github.com/aragonzkresearch/noir-trie-proofs) - a library that contains the primitives necessary for RLP decoding (in the form of look-up table construction) and Ethereum state and storage proof verification (or verification of any trie proof involving 32-byte long keys)
