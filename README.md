@@ -42,6 +42,9 @@ A curated list of resources for learning and programming in Noir.
 
 ### Learning By Doing
 
+- [Practice Exercises] [NoirGuardians](https://www.noirguardians.io/)
+  - 3 quests that use storytelling and lore to teach basic programming in Noir, along with some advanced features that Noir offers
+  - Get a first introduction to the Noir language, and learn how to integrate Noir programs into Solidity contracts
 - [Educational Curriculum] [ZKCamp's Open Source Noir course](https://github.com/ZKCamp/aztec-noir-course)
   - 6 lectures to give participants the knowledge and skills necessary to build decentralized applications based on ZKPs using Noir
   - Lessons include ZKP Fundamentals; An Introduction to Aztec Ecosystem; Noir Basics; Building a Noir Application; and Advanced Noir  
@@ -167,7 +170,7 @@ A curated list of projects powered by Noir.
 
 ### Gaming
 
-- [Dappicom](https://tonk-gg.github.io/dappicom-site/) - zk NES emulation
+- [Dappicom](https://tonk-gg.github.io/dappicom-site/) - zk Nintendo Entertainment System (NES) emulation
 - [Mastermind](https://github.com/vezenovm/mastermind-noir) - Mastermind in Noir
 - [BattleZips](https://battlezips.com/) ([Source Code](https://github.com/BattleZips/BattleZips-Noir)) - On-chain Battleship
 - [Sudoku, Wordle, and Trivia](https://github.com/ruizehung/Zero-Knowledge-Sudoku-Wordle-Trivia) - Sudoku, Wordle, and Trivia games
