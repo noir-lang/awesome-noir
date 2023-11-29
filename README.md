@@ -103,6 +103,7 @@ A curated list of resources for learning and programming in Noir.
 - [Emacs Tree-sitter Plugin](https://melpa.org/#/noir-ts-mode) - Syntax highlight ([Source Code](https://github.com/hhamud/noir-ts-mode))
 - [hardhat-noir](https://www.npmjs.com/package/hardhat-noir) - Hardhat plugin ([Source Code](https://github.com/spalladino/hardhat-noir))
 - [Python2Noir](https://github.com/storswiftlabs/python2noir) - From Python to Noir language transpiler
+- [Noir Playground](https://github.com/noir-playground/noir-playground) - The Noir Playground 
 
 ### Boilerplates
 
