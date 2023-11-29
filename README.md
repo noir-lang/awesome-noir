@@ -116,6 +116,7 @@ A curated list of resources for learning and programming in Noir.
 ### Libraries
 
 - [Standard Library](https://github.com/noir-lang/noir/tree/master/noir_stdlib) - the Noir Standard Library
+- [Base64](https://github.com/zkworks-xyz/noir-base64) - a library for base64 encoding
 
 #### Types
 
