@@ -121,6 +121,7 @@ A curated list of resources for learning and programming in Noir.
 - [Standard Library](https://github.com/noir-lang/noir/tree/master/noir_stdlib) - the Noir Standard Library
 - [Base64](https://github.com/zkworks-xyz/noir-base64) - a library for base64 encoding
 - [Complex Numbers](https://github.com/doctoruber/complexnr) - This library offers a comprehensive suite of operations for complex numbers.
+- [Fixed Point Library](https://github.com/doctoruber/noir-fixed-point) - The FixedPoint library offers precise fixed-point arithmetic operations tailored for Noir.
 
 #### Types
 
