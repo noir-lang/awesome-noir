@@ -120,6 +120,7 @@ A curated list of resources for learning and programming in Noir.
 
 - [Standard Library](https://github.com/noir-lang/noir/tree/master/noir_stdlib) - the Noir Standard Library
 - [Base64](https://github.com/zkworks-xyz/noir-base64) - a library for base64 encoding
+- [Complex Numbers](https://github.com/doctoruber/complexnr) - This library offers a comprehensive suite of operations for complex numbers.
 
 #### Types
 
@@ -154,8 +155,6 @@ A curated list of resources for learning and programming in Noir.
 - [zkML-Noir](https://github.com/storswiftlabs/zkml-noir) - a library for Python ML model transcoding Noir, including various algorithms such as Decision tree, K-Means, XGBoost, FNN, CNN
 - [Matrix Operations](https://github.com/storswiftlabs/matrix_operations) - a library for matrix operations provides functionality for performing various matrix operations
 - [Convolution](https://github.com/storswiftlabs/convolution) - a library for Convolutional Neural Network (CNN) library in Noir, including Convolutional layers, Pooling layers, and Linear (fully connected) layers.
-
-
 
 ## Projects
 
