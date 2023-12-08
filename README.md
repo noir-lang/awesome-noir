@@ -99,6 +99,7 @@ A curated list of resources for learning and programming in Noir.
 
 ### Dev Tools
 
+- [play.noir-lang.org](https://play.noir-lang.org) - Client-side Noir Playground. [Source Code](https://github.com/signorecello/noir-playground)
 - [VS Code Extension](https://marketplace.visualstudio.com/items?itemName=noir-lang.vscode-noir) - Syntax highlight, error highlight, codelens, etc. ([Source Code](https://github.com/noir-lang/vscode-noir))
 - [Vim Plugin](https://github.com/Louis-Amas/noir-vim-support) - Syntax highlight
 - [Emacs Plugin](https://melpa.org/#/noir-mode) - Syntax highlight ([Source Code](https://github.com/hhamud/noir-mode))
