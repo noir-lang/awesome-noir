@@ -109,6 +109,9 @@ A curated list of resources for learning and programming in Noir.
 - [Python2Noir](https://github.com/storswiftlabs/python2noir) - From Python to Noir language transpiler
 - [Noir Playground](https://github.com/noir-playground/noir-playground) - The Noir Playground 
 
+### GH Actions
+- [noir-gates-diff](https://github.com/TomAFrench/noir-gates-diff) - Compare Nargo gates reports on your PRs
+
 ### Boilerplates
 
 - [nplate](https://github.com/whitenois3/nplate) - Minimalist template
