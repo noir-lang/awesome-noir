@@ -137,6 +137,7 @@ A curated list of resources for learning and programming in Noir.
 
 - [Sparse Merkle Tree Verifier](https://github.com/vocdoni/smtverifier-noir/tree/main) - a library for verification of sparse Merkle trees
 - [Sparse Merkle Tree Implementation](https://github.com/jordan-public/zk-optimized-sparse-merkle-tree) - a typescript library to generate optimized sparse merkle trees
+- [Sparse Merkle Tree Verify/Add/Update/Delete](https://github.com/privacy-scaling-explorations/zk-kit/tree/main/packages/circuits/noir) - a Noir library to verify (non-)membership proofs and add/update/delete leafs with accompanying [JS implementation](https://github.com/privacy-scaling-explorations/zk-kit/tree/main/packages/smt)
 - [RSA](https://github.com/SetProtocol/noir-rsa) - this repository contains an implementation of a RSA signature verify for the Noir language
 - [Merkle Root](https://github.com/tomoima525/noir-merkle-root) - a library for calculating Merkle root from given inputs. Using the Poseidon function for hashing
 - [Quantized arithmetic](https://github.com/storswiftlabs/quantized_arithmetic) - a library for quantized value operations of zero-point quantization
