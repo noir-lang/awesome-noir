@@ -108,6 +108,9 @@ A curated list of resources for learning and programming in Noir.
 - [hardhat-noir](https://www.npmjs.com/package/hardhat-noir) - Hardhat plugin ([Source Code](https://github.com/spalladino/hardhat-noir))
 - [Python2Noir](https://github.com/storswiftlabs/python2noir) - From Python to Noir language transpiler
 - [Noir Playground](https://github.com/noir-playground/noir-playground) - The Noir Playground 
+- [noir_rs](https://github.com/visoftsolutions/noir_rs) - Rust-based zkSNARK Proving&Verifying tool for noir-lang
+- [noir_java](https://github.com/visoftsolutions/noir_java) - Java-based zkSNARK Proving&Verifying tool for noir-lang (Java & Android)
+- [noir_swift](https://github.com/visoftsolutions/noir_swift) - Swift-based zkSNARK Proving&Verifying tool for noir-lang (macOS & IOS & watchOS)
 
 ### Boilerplates
 
