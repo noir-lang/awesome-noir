@@ -128,6 +128,7 @@ A curated list of resources for learning and programming in Noir.
 - [Fixed Point Library](https://github.com/doctoruber/noir-fixed-point) - The FixedPoint library offers precise fixed-point arithmetic operations tailored for Noir.
 - [Statistical Library](https://github.com/doctoruber/statnr) - Noir Statistical Library is a comprehensive library for statistical computations in the Noir language.
 - [Noir Dates](https://github.com/madztheo/noir-date) - A Noir library to parse and abstract away Dates
+- [DateTimeNr](https://github.com/doctoruber/DateTimeNr) - A Noir library to parse and abstract away DateTime objects
 
 #### Types
 
