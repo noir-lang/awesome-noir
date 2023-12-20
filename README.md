@@ -129,6 +129,8 @@ A curated list of resources for learning and programming in Noir.
 - [Statistical Library](https://github.com/doctoruber/statnr) - Noir Statistical Library is a comprehensive library for statistical computations in the Noir language.
 - [Noir Dates](https://github.com/madztheo/noir-date) - A Noir library to parse and abstract away Dates
 - [DateTimeNr](https://github.com/doctoruber/DateTimeNr) - A Noir library to parse and abstract away DateTime objects
+- [String Utils](https://github.com/madztheo/noir-string-utils) - A wrapper for String in Noir that adds some useful methods for common string operations
+- [Cryptographically Secure Pseudo-Random Number Generator](https://github.com/doctoruber/CSPRNG)
 
 #### Types
 
