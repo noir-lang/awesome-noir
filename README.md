@@ -131,6 +131,7 @@ A curated list of resources for learning and programming in Noir.
 - [DateTimeNr](https://github.com/doctoruber/DateTimeNr) - A Noir library to parse and abstract away DateTime objects
 - [String Utils](https://github.com/madztheo/noir-string-utils) - A wrapper for String in Noir that adds some useful methods for common string operations
 - [Cryptographically Secure Pseudo-Random Number Generator](https://github.com/doctoruber/CSPRNG)
+- [JSON parser](https://github.com/RontoSOFT/noir-json-parser) - This library adheres to the revered [IETF RFC 8259](https://datatracker.ietf.org/doc/html/rfc8259) specifications, ensuring precise interpretation of JSON-friendly strings.
 
 #### Types
 
