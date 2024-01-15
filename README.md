@@ -151,6 +151,7 @@ A curated list of resources for learning and programming in Noir.
 - [Quantized arithmetic](https://github.com/storswiftlabs/quantized_arithmetic) - a library for quantized value operations of zero-point quantization
 - [SHA-1](https://github.com/michaelelliot/noir-sha1) - a library for generating hashes using SHA-1 hashing function
 - [SHA-2](https://github.com/michaelelliot/noir-sha2) - a library for generating hashes using SHA-2 hashing function
+- [Poseidon{2}](https://github.com/TaceoLabs/noir-poseidon) - an improved implementation of Poseidon and its successor Poseidon2
 - [Hydra for BN254](https://github.com/TaceoLabs/noir-hydra) - symmetric encryption and decryption
 - [Griffin for BN254](https://github.com/TaceoLabs/noir-griffin) - zk-friendly hash function 
 - [AES](https://github.com/TaceoLabs/noir-aes) - a (naive) implementation of AES encryption and decryption 
