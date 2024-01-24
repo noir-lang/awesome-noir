@@ -47,10 +47,10 @@ A curated list of resources for learning and programming in Noir.
   - Get a first introduction to the Noir language, and learn how to integrate Noir programs into Solidity contracts
 - [Educational Curriculum] [ZKCamp's Open Source Noir course](https://github.com/ZKCamp/aztec-noir-course)
   - 6 lectures to give participants the knowledge and skills necessary to build decentralized applications based on ZKPs using Noir
-  - Lessons include ZKP Fundamentals; An Introduction to Aztec Ecosystem; Noir Basics; Building a Noir Application; and Advanced Noir  
+  - Lessons include ZKP Fundamentals; An Introduction to Aztec Ecosystem; Noir Basics; Building a Noir Application; and Advanced Noir
 - [Practice Exercises] [Noir-by-example](https://noir-by-example.org/)
   - An introduction to Noir with a bunch of simple examples
-  - Learn how to organize your Noir logic, write For Loops, and create complex package structures  
+  - Learn how to organize your Noir logic, write For Loops, and create complex package structures
 - [Video Series] [BattleZips-Noir](https://www.youtube.com/playlist?list=PLWACGbvIsEgnR2aUCr9i-PpmTVhF5Zuik) ([Source Code](https://github.com/BattleZips/BattleZips-Noir))
   - Walkthrough of building an on-chain Battleships game using zero-knowledge
   - Follow along and build your own game using Noir
@@ -59,7 +59,7 @@ A curated list of resources for learning and programming in Noir.
 - [Educational Demo] [scaffold-eth-2-noir](https://github.com/Kryha/scaffold-eth-2-noir)
   - Small demo of a dApp with ZK-age restriction. UI, smart contracts and ZK-circuits.
   - Built with [scaffold-eth](https://github.com/scaffold-eth/scaffold-eth-2).
-  
+
 ### Talks & Workshops
 
 - [10 mins] [Writing Circuits with Noir](https://www.youtube.com/watch?v=I5M8LhOECpM&t=2879s) ([Source Code](https://github.com/vezenovm/basic_mul_noir_example))
@@ -107,10 +107,11 @@ A curated list of resources for learning and programming in Noir.
 - [Emacs Tree-sitter Plugin](https://melpa.org/#/noir-ts-mode) - Syntax highlight ([Source Code](https://github.com/hhamud/noir-ts-mode))
 - [hardhat-noir](https://www.npmjs.com/package/hardhat-noir) - Hardhat plugin ([Source Code](https://github.com/spalladino/hardhat-noir))
 - [Python2Noir](https://github.com/storswiftlabs/python2noir) - From Python to Noir language transpiler
-- [Noir Playground](https://github.com/noir-playground/noir-playground) - The Noir Playground 
+- [Noir Playground](https://github.com/noir-playground/noir-playground) - The Noir Playground
 - [noir_rs](https://github.com/visoftsolutions/noir_rs) - Rust-based zkSNARK Proving&Verifying tool for noir-lang
 - [noir_java](https://github.com/visoftsolutions/noir_java) - Java-based zkSNARK Proving&Verifying tool for noir-lang (Java & Android)
 - [noir_swift](https://github.com/visoftsolutions/noir_swift) - Swift-based zkSNARK Proving&Verifying tool for noir-lang (macOS & IOS & watchOS)
+- [hunter](https://github.com/nfurfaro/hunter) - A tool for performaing mutation-testing on Noir programs
 
 ### Boilerplates
 
@@ -153,8 +154,8 @@ A curated list of resources for learning and programming in Noir.
 - [SHA-2](https://github.com/michaelelliot/noir-sha2) - a library for generating hashes using SHA-2 hashing function
 - [Poseidon{2}](https://github.com/TaceoLabs/noir-poseidon) - an improved implementation of Poseidon and its successor Poseidon2
 - [Hydra for BN254](https://github.com/TaceoLabs/noir-hydra) - symmetric encryption and decryption
-- [Griffin for BN254](https://github.com/TaceoLabs/noir-griffin) - zk-friendly hash function 
-- [AES](https://github.com/TaceoLabs/noir-aes) - a (naive) implementation of AES encryption and decryption 
+- [Griffin for BN254](https://github.com/TaceoLabs/noir-griffin) - zk-friendly hash function
+- [AES](https://github.com/TaceoLabs/noir-aes) - a (naive) implementation of AES encryption and decryption
 - [ElGamal Encryption](https://github.com/jat9292/noir-elgamal/) - Exponential ElGamal Encryption on the Baby Jubjub curve
 - [BLS12_381 Elliptic Curve Pairing and Signature Verification Library](https://github.com/onurinanc/noir-bls-signature)
 
