@@ -83,7 +83,7 @@ A curated list of resources for learning and programming in Noir.
 - [1 hr] [Introduction to Noir in Spanish](https://www.youtube.com/watch?v=m4P-sAqa8_o) ([Written Tutorial and Code](https://dev.to/turupawn/circuitos-de-aztec-noir-en-tu-navegador-zk-es-semana-3-78a))
 - [1.5 hrs] [ZK dApps - Why, What and How?](https://www.youtube.com/watch?v=DpCbeGcX0cI)
 - [1.5 hrs] [Sudoku in Noir](https://drive.google.com/file/d/1D4XCdiIZVjUW1JHDoMW3pG-15mgjMm9E/) ([Source Code](https://github.com/guipublic/crypdoku))
-- [2 hrs] [ZK HACK III - Introduction to Noir](https://www.youtube.com/watch?v=5CziMfChveY) ([Souce Code](https://github.com/joss-aztec/quadratic_voting_noir))
+- [2 hrs] [ZK HACK III - Introduction to Noir](https://www.youtube.com/watch?v=5CziMfChveY) ([Source Code](https://github.com/joss-aztec/quadratic_voting_noir))
   - Code-together: Quadratic Voting
 
 ### Blog Posts & Articles
@@ -111,7 +111,7 @@ A curated list of resources for learning and programming in Noir.
 - [noir_rs](https://github.com/visoftsolutions/noir_rs) - Rust-based zkSNARK Proving&Verifying tool for noir-lang
 - [noir_java](https://github.com/visoftsolutions/noir_java) - Java-based zkSNARK Proving&Verifying tool for noir-lang (Java & Android)
 - [noir_swift](https://github.com/visoftsolutions/noir_swift) - Swift-based zkSNARK Proving&Verifying tool for noir-lang (macOS & IOS & watchOS)
-- [hunter](https://github.com/nfurfaro/hunter) - A tool for performaing mutation-testing on Noir programs
+- [hunter](https://github.com/nfurfaro/hunter) - A tool for performing mutation-testing on Noir programs
 
 ### Boilerplates
 
@@ -119,7 +119,7 @@ A curated list of resources for learning and programming in Noir.
 - [noir-hardhat-template](https://github.com/hooperben/noir-hardhat-template) - Hardhat template
 - [noir-starter](https://github.com/noir-lang/noir-starter) - Template repository containing example projects using Noir (Next.js + Hardhat, Foundry, etc.)
 - [noir-starter-nuxt](https://github.com/iam-robi/noir-starter-nuxt) - Template repository containing example minimal project using Noir, Nuxt and Hardhat
-- [noir-vite-starter](https://github.com/HaMMeRSI/noir-vite-starter) - Template repository contiaining example minimal project using Noir and Vite
+- [noir-vite-starter](https://github.com/HaMMeRSI/noir-vite-starter) - Template repository containing example minimal project using Noir and Vite
 
 ### Libraries
 
