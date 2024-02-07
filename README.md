@@ -208,6 +208,7 @@ A curated list of projects powered by Noir.
 
 - [Rate Limiting Nullifiers](https://github.com/Rate-Limiting-Nullifier/noir-rln) - a zero-knowledge gadget that enables spam prevention in anonymous environments
 - [ZKP-Hype](https://github.com/armanthepythonguy/ZKP-Hype-ETHOnline) - verify proofs on L2, where execution is cheaper
+- [ZKPic](https://github.com/0xrishabh/zkPic) - generate zero knowledge proofs for image edits
 - [Past hackathon winners](https://github.com/AztecProtocol/dev-rel/tree/main/hackathons#previous-winners)
 
 ## Contribute
