@@ -8,11 +8,6 @@ A curated list of resources for learning and programming in Noir.
 ## Contents
 
 - [Official Resources](#official-resources)
-- [Learning](#learning)
-  - [Learning by Doing](#learning-by-doing)
-  - [Talks & Workshops](#talks--workshops)
-  - [Blog Posts & Articles](#blog-posts--articles)
-  - [Benchmarks](#benchmarks)
 - [Get Coding](#get-coding)
   - [Dev Tools](#dev-tools)
   - [Boilerplates](#boilerplates)
@@ -22,6 +17,11 @@ A curated list of resources for learning and programming in Noir.
     - [Ethereum](#ethereum)
     - [Machine Learning](#machine-learning)
     - [Miscellaneous](#miscellaneous)
+- [Learning](#learning)
+  - [Learning by Doing](#learning-by-doing)
+  - [Talks & Workshops](#talks--workshops)
+  - [Blog Posts & Articles](#blog-posts--articles)
+  - [Benchmarks](#benchmarks)
 - [Projects](#projects)
   - [Authentication](#authentication)
   - [Gaming](#gaming)
@@ -37,63 +37,6 @@ A curated list of resources for learning and programming in Noir.
 - [GitHub](https://github.com/noir-lang/noir)
 - [Forum](https://discourse.aztec.network/c/noir/7)
 - [noir-starter repo](https://github.com/noir-lang/noir-starter)
-
-## Learning
-
-### Learning By Doing
-
-- [Practice Exercises] [NoirGuardians](https://www.noirguardians.io/)
-  - 3 quests that use storytelling and lore to teach basic programming in Noir, along with some advanced features that Noir offers
-  - Get a first introduction to the Noir language, and learn how to integrate Noir programs into Solidity contracts
-- [Educational Curriculum] [ZKCamp's Open Source Noir course](https://github.com/ZKCamp/aztec-noir-course)
-  - 6 lectures to give participants the knowledge and skills necessary to build decentralized applications based on ZKPs using Noir
-  - Lessons include ZKP Fundamentals; An Introduction to Aztec Ecosystem; Noir Basics; Building a Noir Application; and Advanced Noir
-- [Practice Exercises] [Noir-by-example](https://noir-by-example.org/)
-  - An introduction to Noir with a bunch of simple examples
-  - Learn how to organize your Noir logic, write For Loops, and create complex package structures
-- [Video Series] [BattleZips-Noir](https://www.youtube.com/playlist?list=PLWACGbvIsEgnR2aUCr9i-PpmTVhF5Zuik) ([Source Code](https://github.com/BattleZips/BattleZips-Noir))
-  - Walkthrough of building an on-chain Battleships game using zero-knowledge
-  - Follow along and build your own game using Noir
-- [Practice Exercises] [Circuit Examples](https://github.com/thor314/circuit-examples)
-  - Demonstration of dot products & Merkle proofs in Noir, in comparison to Circom and RISC0
-- [Educational Demo] [scaffold-eth-2-noir](https://github.com/Kryha/scaffold-eth-2-noir)
-  - Small demo of a dApp with ZK-age restriction. UI, smart contracts and ZK-circuits.
-  - Built with [scaffold-eth](https://github.com/scaffold-eth/scaffold-eth-2).
-
-### Talks & Workshops
-
-- [10 mins] [Writing Circuits with Noir](https://www.youtube.com/watch?v=I5M8LhOECpM&t=2879s) ([Source Code](https://github.com/vezenovm/basic_mul_noir_example))
-  - Nargo setup
-  - Basic Noir syntax
-  - Noir interactions in TypeScript
-- [20 mins] [Painless Zero-Knowledge Circuitry with Noir at ETHDam](https://www.youtube.com/watch?v=5KLTroMcldg&list=PLc5OGwyCUIhXny_mY4NPE5JfYNcTh8jUs&index=28)
-  - Introduction to Noir
-  - Simple demo and test
-- [20 mins] [Private Value Transfer in 10 Lines](https://www.youtube.com/watch?v=wYqqXas8_O4) ([Source Code](https://github.com/vezenovm/simple_shield))
-  - Tornado-like private asset transfer using Merkle proofs
-- [25 mins] [Noir as a Smart Contract Language](https://www.youtube.com/watch?v=tYdUaCbACtk)
-  - Noir as the smart contract language for the Aztec rollup
-  - Noir smart contracts
-- [45 mins] [Outlandish Noir Stuff; Workshop at ETHCC](https://www.youtube.com/watch?v=pdrZ7Y__obU)
-  - How to use Noir to build a bunch of outlandish stuff
-- [1 hr] [Circuit Safety and an Introduction to Noir](https://www.youtube.com/watch?v=rLvu61DA-hk)
-  - Common circuit bugs
-  - Proving system vulnerabilities
-  - Unconstrained functions
-- [1 hr] [Introduction to Noir in Spanish](https://www.youtube.com/watch?v=m4P-sAqa8_o) ([Written Tutorial and Code](https://dev.to/turupawn/circuitos-de-aztec-noir-en-tu-navegador-zk-es-semana-3-78a))
-- [1.5 hrs] [ZK dApps - Why, What and How?](https://www.youtube.com/watch?v=DpCbeGcX0cI)
-- [1.5 hrs] [Sudoku in Noir](https://drive.google.com/file/d/1D4XCdiIZVjUW1JHDoMW3pG-15mgjMm9E/) ([Source Code](https://github.com/guipublic/crypdoku))
-- [2 hrs] [ZK HACK III - Introduction to Noir](https://www.youtube.com/watch?v=5CziMfChveY) ([Source Code](https://github.com/joss-aztec/quadratic_voting_noir))
-  - Code-together: Quadratic Voting
-
-### Blog Posts & Articles
-
-- [Understanding the Technical Aspects of Aztec and Noir](https://hackmd.io/XZX9_pZ8Q1aa_ySDPeQopg)
-- Noir 101 for Solidity devs in ([English](https://mirror.xyz/crisgarner.eth/IRRxnP-HVP-7qLZ-bTI2HRpKTmSRPCDl-Q6gm2NTj4g)) and ([Spanish](https://mirror.xyz/crisgarner.eth/Iek7PhbhU4WpIJ6eixFq80_7R6czH7fbdCoN0Bd7NfI))
-
-### Benchmarks
-
- - [ZK-Bench](https://zkbench.dev) - Compare Noir to other ZK frameworks (Risc Zero, Leo, Miden, etc)
 
 ## Get Coding
 
@@ -163,6 +106,7 @@ A curated list of resources for learning and programming in Noir.
 - [ChaCha20 Implementation](https://github.com/SleepingShell/noir-chacha20) - a Noir implementation of ChaCha20 as defined by [RFC7539](https://www.rfc-editor.org/rfc/rfc7539)
 
 #### Ethereum
+
 - [Ethereum Storage Proof Verification](https://github.com/aragonzkresearch/noir-trie-proofs) - a library that contains the primitives necessary for RLP decoding (in the form of look-up table construction) and Ethereum state and storage proof verification (or verification of any trie proof involving 32-byte long keys)
 - [ECrecover](https://github.com/colinnielsen/ecrecover-noir/tree/main) - a library to verify an ECDSA signature and return the source Ethereum address
 
@@ -173,6 +117,63 @@ A curated list of resources for learning and programming in Noir.
 - [zkML-Noir](https://github.com/storswiftlabs/zkml-noir) - a library for Python ML model transcoding Noir, including various algorithms such as Decision tree, K-Means, XGBoost, FNN, CNN
 - [Matrix Operations](https://github.com/storswiftlabs/matrix_operations) - a library for matrix operations provides functionality for performing various matrix operations
 - [Convolution](https://github.com/storswiftlabs/convolution) - a library for Convolutional Neural Network (CNN) library in Noir, including Convolutional layers, Pooling layers, and Linear (fully connected) layers.
+
+## Learning
+
+### Learning By Doing
+
+- [Practice Exercises] [NoirGuardians](https://www.noirguardians.io/)
+  - 3 quests that use storytelling and lore to teach basic programming in Noir, along with some advanced features that Noir offers
+  - Get a first introduction to the Noir language, and learn how to integrate Noir programs into Solidity contracts
+- [Educational Curriculum] [ZKCamp's Open Source Noir course](https://github.com/ZKCamp/aztec-noir-course)
+  - 6 lectures to give participants the knowledge and skills necessary to build decentralized applications based on ZKPs using Noir
+  - Lessons include ZKP Fundamentals; An Introduction to Aztec Ecosystem; Noir Basics; Building a Noir Application; and Advanced Noir
+- [Practice Exercises] [Noir-by-example](https://noir-by-example.org/)
+  - An introduction to Noir with a bunch of simple examples
+  - Learn how to organize your Noir logic, write For Loops, and create complex package structures
+- [Video Series] [BattleZips-Noir](https://www.youtube.com/playlist?list=PLWACGbvIsEgnR2aUCr9i-PpmTVhF5Zuik) ([Source Code](https://github.com/BattleZips/BattleZips-Noir))
+  - Walkthrough of building an on-chain Battleships game using zero-knowledge
+  - Follow along and build your own game using Noir
+- [Practice Exercises] [Circuit Examples](https://github.com/thor314/circuit-examples)
+  - Demonstration of dot products & Merkle proofs in Noir, in comparison to Circom and RISC0
+- [Educational Demo] [scaffold-eth-2-noir](https://github.com/Kryha/scaffold-eth-2-noir)
+  - Small demo of a dApp with ZK-age restriction. UI, smart contracts and ZK-circuits.
+  - Built with [scaffold-eth](https://github.com/scaffold-eth/scaffold-eth-2).
+
+### Talks & Workshops
+
+- [10 mins] [Writing Circuits with Noir](https://www.youtube.com/watch?v=I5M8LhOECpM&t=2879s) ([Source Code](https://github.com/vezenovm/basic_mul_noir_example))
+  - Nargo setup
+  - Basic Noir syntax
+  - Noir interactions in TypeScript
+- [20 mins] [Painless Zero-Knowledge Circuitry with Noir at ETHDam](https://www.youtube.com/watch?v=5KLTroMcldg&list=PLc5OGwyCUIhXny_mY4NPE5JfYNcTh8jUs&index=28)
+  - Introduction to Noir
+  - Simple demo and test
+- [20 mins] [Private Value Transfer in 10 Lines](https://www.youtube.com/watch?v=wYqqXas8_O4) ([Source Code](https://github.com/vezenovm/simple_shield))
+  - Tornado-like private asset transfer using Merkle proofs
+- [25 mins] [Noir as a Smart Contract Language](https://www.youtube.com/watch?v=tYdUaCbACtk)
+  - Noir as the smart contract language for the Aztec rollup
+  - Noir smart contracts
+- [45 mins] [Outlandish Noir Stuff; Workshop at ETHCC](https://www.youtube.com/watch?v=pdrZ7Y__obU)
+  - How to use Noir to build a bunch of outlandish stuff
+- [1 hr] [Circuit Safety and an Introduction to Noir](https://www.youtube.com/watch?v=rLvu61DA-hk)
+  - Common circuit bugs
+  - Proving system vulnerabilities
+  - Unconstrained functions
+- [1 hr] [Introduction to Noir in Spanish](https://www.youtube.com/watch?v=m4P-sAqa8_o) ([Written Tutorial and Code](https://dev.to/turupawn/circuitos-de-aztec-noir-en-tu-navegador-zk-es-semana-3-78a))
+- [1.5 hrs] [ZK dApps - Why, What and How?](https://www.youtube.com/watch?v=DpCbeGcX0cI)
+- [1.5 hrs] [Sudoku in Noir](https://drive.google.com/file/d/1D4XCdiIZVjUW1JHDoMW3pG-15mgjMm9E/) ([Source Code](https://github.com/guipublic/crypdoku))
+- [2 hrs] [ZK HACK III - Introduction to Noir](https://www.youtube.com/watch?v=5CziMfChveY) ([Source Code](https://github.com/joss-aztec/quadratic_voting_noir))
+  - Code-together: Quadratic Voting
+
+### Blog Posts & Articles
+
+- [Understanding the Technical Aspects of Aztec and Noir](https://hackmd.io/XZX9_pZ8Q1aa_ySDPeQopg)
+- Noir 101 for Solidity devs in ([English](https://mirror.xyz/crisgarner.eth/IRRxnP-HVP-7qLZ-bTI2HRpKTmSRPCDl-Q6gm2NTj4g)) and ([Spanish](https://mirror.xyz/crisgarner.eth/Iek7PhbhU4WpIJ6eixFq80_7R6czH7fbdCoN0Bd7NfI))
+
+### Benchmarks
+
+- [ZK-Bench](https://zkbench.dev) - Compare Noir to other ZK frameworks (Risc Zero, Leo, Miden, etc)
 
 ## Projects
 
@@ -197,7 +198,7 @@ A curated list of projects powered by Noir.
 ### Governance
 
 - [MeloCafe](https://github.com/MeloCafe) - Anonymous on-chain voting
-- [Nouns Research Sprint](https://github.com/aragonzkresearch/nouns-anonymous-voting) -  Anonymous voting research sprint solution with NounsDAO
+- [Nouns Research Sprint](https://github.com/aragonzkresearch/nouns-anonymous-voting) - Anonymous voting research sprint solution with NounsDAO
 - [Billion Secret Voters](https://github.com/jordan-public/billion-zk-voters) - Massive scale secret voting with on-chain results
 
 ### Social
