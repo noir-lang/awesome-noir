@@ -120,6 +120,7 @@ A curated list of resources for learning and programming in Noir.
 - [noir-starter](https://github.com/noir-lang/noir-starter) - Template repository containing example projects using Noir (Next.js + Hardhat, Foundry, etc.)
 - [noir-starter-nuxt](https://github.com/iam-robi/noir-starter-nuxt) - Template repository containing example minimal project using Noir, Nuxt and Hardhat
 - [noir-vite-starter](https://github.com/HaMMeRSI/noir-vite-starter) - Template repository containing example minimal project using Noir and Vite
+- [noir-react-native-starter](https://github.com/madztheo/noir-react-native-starter) - Template repository containing an example minimal project using React Native
 
 ### Libraries
 
