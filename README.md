@@ -67,17 +67,6 @@ A curated list of resources for learning and programming in Noir.
 
 ### Libraries
 
-- [Standard Library](https://github.com/noir-lang/noir/tree/master/noir_stdlib) - the Noir Standard Library
-- [Base64](https://github.com/vlayer-xyz/noir-base64) - a library for base64 encoding
-- [Complex Numbers](https://github.com/doctoruber/complexnr) - This library offers a comprehensive suite of operations for complex numbers.
-- [Fixed Point Library](https://github.com/doctoruber/noir-fixed-point) - The FixedPoint library offers precise fixed-point arithmetic operations tailored for Noir.
-- [Statistical Library](https://github.com/doctoruber/statnr) - Noir Statistical Library is a comprehensive library for statistical computations in the Noir language.
-- [Noir Dates](https://github.com/madztheo/noir-date) - A Noir library to parse and abstract away Dates
-- [DateTimeNr](https://github.com/doctoruber/DateTimeNr) - A Noir library to parse and abstract away DateTime objects
-- [String Utils](https://github.com/madztheo/noir-string-utils) - A wrapper for String in Noir that adds some useful methods for common string operations
-- [Cryptographically Secure Pseudo-Random Number Generator](https://github.com/doctoruber/CSPRNG)
-- [JSON parser](https://github.com/RontoSOFT/noir-json-parser) - This library adheres to the revered [IETF RFC 8259](https://datatracker.ietf.org/doc/html/rfc8259) specifications, ensuring precise interpretation of JSON-friendly strings.
-
 #### Types
 
 - [BigInt](https://github.com/shuklaayush/noir-bigint) - a library that provides a custom BigUint56 data type, allowing for computations on large unsigned integers
@@ -85,6 +74,11 @@ A curated list of resources for learning and programming in Noir.
 - [Fraction](https://github.com/resurgencelabs/fraction) - a library for accessing fractional number data type in Noir, allowing results that aren't whole numbers
 - [U(int)2B(ytes)](https://github.com/colinnielsen/noir-u2b/tree/main) - a library for converting `u8`->`u120`s to `[u8]` array
 - [ZKFloat](https://github.com/0x3327/ZKFloat) - a floating point library for Noir
+- [Complex Numbers](https://github.com/doctoruber/complexnr) - This library offers a comprehensive suite of operations for complex numbers
+- [Fixed Point Library](https://github.com/doctoruber/noir-fixed-point) - The FixedPoint library offers precise fixed-point arithmetic operations tailored for Noir
+- [Noir Dates](https://github.com/madztheo/noir-date) - A Noir library to parse and abstract away Dates
+- [DateTimeNr](https://github.com/doctoruber/DateTimeNr) - A Noir library to parse and abstract away DateTime objects
+- [String Utils](https://github.com/madztheo/noir-string-utils) - A wrapper for String in Noir that adds some useful methods for common string operations
 
 #### Cryptography
 
@@ -117,6 +111,14 @@ A curated list of resources for learning and programming in Noir.
 - [zkML-Noir](https://github.com/storswiftlabs/zkml-noir) - a library for Python ML model transcoding Noir, including various algorithms such as Decision tree, K-Means, XGBoost, FNN, CNN
 - [Matrix Operations](https://github.com/storswiftlabs/matrix_operations) - a library for matrix operations provides functionality for performing various matrix operations
 - [Convolution](https://github.com/storswiftlabs/convolution) - a library for Convolutional Neural Network (CNN) library in Noir, including Convolutional layers, Pooling layers, and Linear (fully connected) layers.
+
+#### Miscellaneous
+
+- [Standard Library](https://github.com/noir-lang/noir/tree/master/noir_stdlib) - the Noir Standard Library
+- [Base64](https://github.com/vlayer-xyz/noir-base64) - a library for base64 encoding
+- [Statistical Library](https://github.com/doctoruber/statnr) - Noir Statistical Library is a comprehensive library for statistical computations in the Noir language
+- [Cryptographically Secure Pseudo-Random Number Generator](https://github.com/doctoruber/CSPRNG)
+- [JSON parser](https://github.com/RontoSOFT/noir-json-parser) - This library adheres to the revered [IETF RFC 8259](https://datatracker.ietf.org/doc/html/rfc8259) specifications, ensuring precise interpretation of JSON-friendly strings
 
 ## Learning
 
