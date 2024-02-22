@@ -35,8 +35,6 @@ A curated list of resources for learning and programming in Noir.
 
 - [Docs](https://noir-lang.org/)
 - [GitHub](https://github.com/noir-lang/noir)
-- [Forum](https://discourse.aztec.network/c/noir/7)
-- [noir-starter repo](https://github.com/noir-lang/noir-starter)
 
 ## Get Coding
 
@@ -58,11 +56,7 @@ A curated list of resources for learning and programming in Noir.
 
 ### Boilerplates
 
-- [nplate](https://github.com/whitenois3/nplate) - Minimalist template
-- [noir-hardhat-template](https://github.com/hooperben/noir-hardhat-template) - Hardhat template
-- [noir-starter](https://github.com/noir-lang/noir-starter) - Template repository containing example projects using Noir (Next.js + Hardhat, Foundry, etc.)
-- [noir-starter-nuxt](https://github.com/iam-robi/noir-starter-nuxt) - Template repository containing example minimal project using Noir, Nuxt and Hardhat
-- [noir-vite-starter](https://github.com/HaMMeRSI/noir-vite-starter) - Template repository containing example minimal project using Noir and Vite
+- [noir-starter](https://github.com/noir-lang/noir-starter) - Template repository containing example projects using Noir (Vite + Hardhat, Foundry, etc.)
 - [noir-react-native-starter](https://github.com/madztheo/noir-react-native-starter) - Template repository containing an example minimal project using React Native
 
 ### Libraries
