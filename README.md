@@ -177,35 +177,26 @@ A curated list of projects powered by Noir.
 
 ### Authentication
 
-- Anonymous proof of token ownership on Aztec for token-gated access
-  - [Sequi](https://github.com/sequi-xyz)
-  - [Cyclone](https://github.com/TalDerei/cyclone)
 - [SafeRecover](https://github.com/porco-rosso-j/safe-recovery-noir) - Recovery of ownership of Gnosis Safe accounts
 
 ### Gaming
 
 - [Dappicom](https://tonk-gg.github.io/dappicom-site/) - zk Nintendo Entertainment System (NES) emulation
-- [Mastermind](https://github.com/vezenovm/mastermind-noir) - Mastermind in Noir
 - [BattleZips](https://battlezips.com/) ([Source Code](https://github.com/BattleZips/BattleZips-Noir)) - On-chain Battleship
 - [Sudoku, Wordle, and Trivia](https://github.com/ruizehung/Zero-Knowledge-Sudoku-Wordle-Trivia) - Sudoku, Wordle, and Trivia games
 - [ZCaptcha](https://github.com/signorecello/zcaptcha) - A ZK version of Captcha
-- [Hangman](https://github.com/resurgencelabs/hangman) - Simple implementation of the Hangman game
 
 ### Governance
 
-- [MeloCafe](https://github.com/MeloCafe) - Anonymous on-chain voting
 - [Nouns Research Sprint](https://github.com/aragonzkresearch/nouns-anonymous-voting) - Anonymous voting research sprint solution with NounsDAO
-- [Billion Secret Voters](https://github.com/jordan-public/billion-zk-voters) - Massive scale secret voting with on-chain results
 
 ### Social
 
 - [FruityFriends](https://github.com/guelowrd/fruity-lib) - Various circuits (Proof of Intersection, Proof of Proximity, Proof of Proper Secret) to be used in social applications
-- [ZKMSocial](https://github.com/Volthai7us/ZKML-Censorship) - A new take on social media, using ZKML to ensure posts are honest and giving users more control over what they see
 
 ### Miscellaneous
 
 - [Rate Limiting Nullifiers](https://github.com/Rate-Limiting-Nullifier/noir-rln) - a zero-knowledge gadget that enables spam prevention in anonymous environments
-- [ZKP-Hype](https://github.com/armanthepythonguy/ZKP-Hype-ETHOnline) - verify proofs on L2, where execution is cheaper
 - [ZKPic](https://github.com/0xrishabh/zkPic) - generate zero knowledge proofs for image edits
 - [Past hackathon winners](https://github.com/AztecProtocol/dev-rel/tree/main/hackathons#previous-winners)
 
