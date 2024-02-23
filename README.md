@@ -28,6 +28,7 @@ A curated list of resources for learning and programming in Noir.
   - [Gaming](#gaming)
   - [Governance](#governance)
   - [Social](#social)
+  - [Miscellaneous](#miscellaneous-1)
 - [Contribute](#contribute)
 
 ---
@@ -228,6 +229,7 @@ A curated list of projects powered by Noir.
 
 ### Miscellaneous
 
+- [Graphite](https://github.com/AlexCheema/Graphite) - Python tool for proving graph algorithms
 - [zkVRF](https://github.com/zkvrf/zkvrf) - Provable random number generation service
 - [Past hackathon winners](https://github.com/AztecProtocol/dev-rel/tree/main/hackathons#previous-winners)
 
