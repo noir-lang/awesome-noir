@@ -115,22 +115,22 @@ A curated list of resources for learning and programming in Noir.
 
 #### Ethereum
 
-- [Ethereum Storage Proof Verification](https://github.com/aragonzkresearch/noir-trie-proofs) - a library that contains the primitives necessary for RLP decoding (in the form of look-up table construction) and Ethereum state and storage proof verification (or verification of any trie proof involving 32-byte long keys)
 - [ECrecover](https://github.com/colinnielsen/ecrecover-noir) - a library to verify an ECDSA signature and return the source Ethereum address
+- [Ethereum Storage Proof Verification](https://github.com/aragonzkresearch/noir-trie-proofs) - a library that contains the primitives necessary for RLP decoding (in the form of look-up table construction) and Ethereum state and storage proof verification (or verification of any trie proof involving 32-byte long keys)
 
 #### Machine Learning
 
-- [SKProof](https://github.com/0x3327/skproof) - a Scikit-learn compatible Python library for generating ZK proofs of execution
-- [ML](https://github.com/metavind/noir-ml) - a library for implementing neural networks in Noir
-- [zkML-Noir](https://github.com/storswiftlabs/zkml-noir) - a library for Python ML model transcoding Noir, including various algorithms such as Decision tree, K-Means, XGBoost, FNN, CNN
-- [Matrix Operations](https://github.com/storswiftlabs/matrix_operations) - a library for matrix operations provides functionality for performing various matrix operations
 - [Convolution](https://github.com/storswiftlabs/convolution) - a library for Convolutional Neural Network (CNN) library in Noir, including Convolutional layers, Pooling layers, and Linear (fully connected) layers.
+- [Matrix Operations](https://github.com/storswiftlabs/matrix_operations) - a library for matrix operations provides functionality for performing various matrix operations
+- [ML](https://github.com/metavind/noir-ml) - a library for implementing neural networks in Noir
 - [Quantized arithmetic](https://github.com/storswiftlabs/quantized_arithmetic) - a library for quantized value operations of zero-point quantization
+- [SKProof](https://github.com/0x3327/skproof) - a Scikit-learn compatible Python library for generating ZK proofs of execution
+- [zkML-Noir](https://github.com/storswiftlabs/zkml-noir) - a library for Python ML model transcoding Noir, including various algorithms such as Decision tree, K-Means, XGBoost, FNN, CNN
 
 #### Miscellaneous
 
-- [Standard Library](https://github.com/noir-lang/noir/tree/master/noir_stdlib) - the Noir Standard Library
 - [Base64](https://github.com/vlayer-xyz/noir-base64) - a library for base64 encoding
+- [Standard Library](https://github.com/noir-lang/noir/tree/master/noir_stdlib) - the Noir Standard Library
 - [Statistical Library](https://github.com/doctoruber/statnr) - Noir Statistical Library is a comprehensive library for statistical computations in the Noir language
 - [Cryptographically Secure Pseudo-Random Number Generator](https://github.com/doctoruber/CSPRNG)
 - [JSON parser](https://github.com/RontoSOFT/noir-json-parser) - This library adheres to the revered [IETF RFC 8259](https://datatracker.ietf.org/doc/html/rfc8259) specifications, ensuring precise interpretation of JSON-friendly strings
