@@ -113,6 +113,10 @@ A curated list of resources for learning and programming in Noir.
 - [Sparse Merkle Tree Verifier](https://github.com/vocdoni/smtverifier-noir) - a library for verification of sparse Merkle trees
 - [Sparse Merkle Tree Verify/Add/Update/Delete](https://github.com/privacy-scaling-explorations/zk-kit/tree/main/packages/circuits/noir) - a Noir library to verify (non-)membership proofs and add/update/delete leafs with accompanying [JS implementation](https://github.com/privacy-scaling-explorations/zk-kit/tree/main/packages/smt)
 
+##### Randomness
+
+- [Cryptographically Secure Pseudo-Random Number Generator](https://github.com/doctoruber/CSPRNG)
+
 #### Ethereum
 
 - [ECrecover](https://github.com/colinnielsen/ecrecover-noir) - a library to verify an ECDSA signature and return the source Ethereum address
@@ -132,7 +136,6 @@ A curated list of resources for learning and programming in Noir.
 - [Base64](https://github.com/vlayer-xyz/noir-base64) - a library for base64 encoding
 - [Standard Library](https://github.com/noir-lang/noir/tree/master/noir_stdlib) - the Noir Standard Library
 - [Statistical Library](https://github.com/doctoruber/statnr) - Noir Statistical Library is a comprehensive library for statistical computations in the Noir language
-- [Cryptographically Secure Pseudo-Random Number Generator](https://github.com/doctoruber/CSPRNG)
 - [JSON parser](https://github.com/RontoSOFT/noir-json-parser) - This library adheres to the revered [IETF RFC 8259](https://datatracker.ietf.org/doc/html/rfc8259) specifications, ensuring precise interpretation of JSON-friendly strings
 
 ## Learning
