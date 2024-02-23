@@ -63,20 +63,31 @@ A curated list of resources for learning and programming in Noir.
 
 #### Types
 
+##### Numerics
+
 - [BigInt](https://github.com/shuklaayush/noir-bigint) - a library that provides a custom BigUint56 data type, allowing for computations on large unsigned integers
 - [Signed Int](https://github.com/resurgencelabs/signed_int) - a library for accessing a custom Signed Integer data type, allowing access to negative numbers on Noir
 - [Fraction](https://github.com/resurgencelabs/fraction) - a library for accessing fractional number data type in Noir, allowing results that aren't whole numbers
-- [U(int)2B(ytes)](https://github.com/colinnielsen/noir-u2b/tree/main) - a library for converting `u8`->`u120`s to `[u8]` array
 - [ZKFloat](https://github.com/0x3327/ZKFloat) - a floating point library for Noir
 - [Complex Numbers](https://github.com/doctoruber/complexnr) - This library offers a comprehensive suite of operations for complex numbers
 - [Fixed Point Library](https://github.com/doctoruber/noir-fixed-point) - The FixedPoint library offers precise fixed-point arithmetic operations tailored for Noir
+
+##### Dates & Times
+
 - [Noir Dates](https://github.com/madztheo/noir-date) - A Noir library to parse and abstract away Dates
 - [DateTimeNr](https://github.com/doctoruber/DateTimeNr) - A Noir library to parse and abstract away DateTime objects
+
+##### Strings
+
 - [String Utils](https://github.com/madztheo/noir-string-utils) - A wrapper for String in Noir that adds some useful methods for common string operations
+
+##### Bytes
+
+- [U(int)2B(ytes)](https://github.com/colinnielsen/noir-u2b) - a library for converting `u8`->`u120`s to `[u8]` array
 
 #### Cryptography
 
-- [Sparse Merkle Tree Verifier](https://github.com/vocdoni/smtverifier-noir/tree/main) - a library for verification of sparse Merkle trees
+- [Sparse Merkle Tree Verifier](https://github.com/vocdoni/smtverifier-noir) - a library for verification of sparse Merkle trees
 - [Sparse Merkle Tree Implementation](https://github.com/jordan-public/zk-optimized-sparse-merkle-tree) - a typescript library to generate optimized sparse merkle trees
 - [Sparse Merkle Tree Verify/Add/Update/Delete](https://github.com/privacy-scaling-explorations/zk-kit/tree/main/packages/circuits/noir) - a Noir library to verify (non-)membership proofs and add/update/delete leafs with accompanying [JS implementation](https://github.com/privacy-scaling-explorations/zk-kit/tree/main/packages/smt)
 - [RSA](https://github.com/SetProtocol/noir-rsa) - this repository contains an implementation of a RSA signature verify for the Noir language
@@ -96,7 +107,7 @@ A curated list of resources for learning and programming in Noir.
 #### Ethereum
 
 - [Ethereum Storage Proof Verification](https://github.com/aragonzkresearch/noir-trie-proofs) - a library that contains the primitives necessary for RLP decoding (in the form of look-up table construction) and Ethereum state and storage proof verification (or verification of any trie proof involving 32-byte long keys)
-- [ECrecover](https://github.com/colinnielsen/ecrecover-noir/tree/main) - a library to verify an ECDSA signature and return the source Ethereum address
+- [ECrecover](https://github.com/colinnielsen/ecrecover-noir) - a library to verify an ECDSA signature and return the source Ethereum address
 
 #### Machine Learning
 
