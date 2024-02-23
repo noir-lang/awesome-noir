@@ -222,6 +222,7 @@ A curated list of projects powered by Noir.
 
 ### Miscellaneous
 
+- [zkVRF](https://github.com/zkvrf/zkvrf) - Provable random number generation service
 - [Past hackathon winners](https://github.com/AztecProtocol/dev-rel/tree/main/hackathons#previous-winners)
 
 ## Contribute
