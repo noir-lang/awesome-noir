@@ -178,13 +178,14 @@ A curated list of projects powered by Noir.
 ### Authentication
 
 - [SafeRecover](https://github.com/porco-rosso-j/safe-recovery-noir) - Recovery of ownership of Gnosis Safe accounts
+- [ZCaptcha](https://github.com/signorecello/zcaptcha) - A ZK version of Captcha
+- [ZKPic](https://github.com/0xrishabh/zkPic) - generate zero knowledge proofs for image edits
 
 ### Gaming
 
 - [Dappicom](https://tonk-gg.github.io/dappicom-site/) - zk Nintendo Entertainment System (NES) emulation
 - [BattleZips](https://battlezips.com/) ([Source Code](https://github.com/BattleZips/BattleZips-Noir)) - On-chain Battleship
 - [Sudoku, Wordle, and Trivia](https://github.com/ruizehung/Zero-Knowledge-Sudoku-Wordle-Trivia) - Sudoku, Wordle, and Trivia games
-- [ZCaptcha](https://github.com/signorecello/zcaptcha) - A ZK version of Captcha
 
 ### Governance
 
@@ -193,11 +194,10 @@ A curated list of projects powered by Noir.
 ### Social
 
 - [FruityFriends](https://github.com/guelowrd/fruity-lib) - Various circuits (Proof of Intersection, Proof of Proximity, Proof of Proper Secret) to be used in social applications
+- [Rate Limiting Nullifiers](https://github.com/Rate-Limiting-Nullifier/noir-rln) - a zero-knowledge gadget that enables spam prevention in anonymous environments
 
 ### Miscellaneous
 
-- [Rate Limiting Nullifiers](https://github.com/Rate-Limiting-Nullifier/noir-rln) - a zero-knowledge gadget that enables spam prevention in anonymous environments
-- [ZKPic](https://github.com/0xrishabh/zkPic) - generate zero knowledge proofs for image edits
 - [Past hackathon winners](https://github.com/AztecProtocol/dev-rel/tree/main/hackathons#previous-winners)
 
 ## Contribute
