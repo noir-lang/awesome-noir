@@ -12,7 +12,8 @@ A curated list of resources for learning and programming in Noir.
   - [Dev Tools](#dev-tools)
   - [Boilerplates](#boilerplates)
   - [Libraries](#libraries)
-    - [Types](#types)
+    - [Data Types](#data-types)
+    - [Data Type Manipulation](#data-type-manipulation)
     - [Cryptography](#cryptography)
     - [Ethereum](#ethereum)
     - [Machine Learning](#machine-learning)
@@ -61,7 +62,7 @@ A curated list of resources for learning and programming in Noir.
 
 ### Libraries
 
-#### Types
+#### Data Types
 
 ##### Numerics
 
@@ -76,13 +77,23 @@ A curated list of resources for learning and programming in Noir.
 - [Noir Dates](https://github.com/madztheo/noir-date) - A Noir library to parse and abstract away Dates
 - [DateTimeNr](https://github.com/doctoruber/DateTimeNr) - A Noir library to parse and abstract away DateTime objects
 
-##### Strings
+#### Data Type Manipulation
 
-- [String Utils](https://github.com/madztheo/noir-string-utils) - A wrapper for String in Noir that adds some useful methods for common string operations
+##### Numerics
+
+- [Matrix Operations](https://github.com/storswiftlabs/matrix_operations) - a library for matrix operations provides functionality for performing various matrix operations
+- [Statistical Library](https://github.com/doctoruber/statnr) - Noir Statistical Library is a comprehensive library for statistical computations in the Noir language
+- [Quantized arithmetic](https://github.com/storswiftlabs/quantized_arithmetic) - a library for quantized value operations of zero-point quantization
 
 ##### Bytes
 
 - [U(int)2B(ytes)](https://github.com/colinnielsen/noir-u2b) - a library for converting `u8`->`u120`s to `[u8]` array
+
+##### Text
+
+- [Base64](https://github.com/vlayer-xyz/noir-base64) - a library for base64 encoding
+- [JSON parser](https://github.com/RontoSOFT/noir-json-parser) - This library adheres to the revered [IETF RFC 8259](https://datatracker.ietf.org/doc/html/rfc8259) specifications, ensuring precise interpretation of JSON-friendly strings
+- [String Utils](https://github.com/madztheo/noir-string-utils) - A wrapper for String in Noir that adds some useful methods for common string operations
 
 #### Cryptography
 
@@ -124,19 +135,14 @@ A curated list of resources for learning and programming in Noir.
 
 #### Machine Learning
 
-- [Convolution](https://github.com/storswiftlabs/convolution) - a library for Convolutional Neural Network (CNN) library in Noir, including Convolutional layers, Pooling layers, and Linear (fully connected) layers.
-- [Matrix Operations](https://github.com/storswiftlabs/matrix_operations) - a library for matrix operations provides functionality for performing various matrix operations
+- [Convolution](https://github.com/storswiftlabs/convolution) - a library for Convolutional Neural Network (CNN) library in Noir, including Convolutional layers, Pooling layers, and Linear (fully connected) layers
 - [ML](https://github.com/metavind/noir-ml) - a library for implementing neural networks in Noir
-- [Quantized arithmetic](https://github.com/storswiftlabs/quantized_arithmetic) - a library for quantized value operations of zero-point quantization
 - [SKProof](https://github.com/0x3327/skproof) - a Scikit-learn compatible Python library for generating ZK proofs of execution
 - [zkML-Noir](https://github.com/storswiftlabs/zkml-noir) - a library for Python ML model transcoding Noir, including various algorithms such as Decision tree, K-Means, XGBoost, FNN, CNN
 
 #### Miscellaneous
 
-- [Base64](https://github.com/vlayer-xyz/noir-base64) - a library for base64 encoding
 - [Standard Library](https://github.com/noir-lang/noir/tree/master/noir_stdlib) - the Noir Standard Library
-- [Statistical Library](https://github.com/doctoruber/statnr) - Noir Statistical Library is a comprehensive library for statistical computations in the Noir language
-- [JSON parser](https://github.com/RontoSOFT/noir-json-parser) - This library adheres to the revered [IETF RFC 8259](https://datatracker.ietf.org/doc/html/rfc8259) specifications, ensuring precise interpretation of JSON-friendly strings
 
 ## Learning
 
