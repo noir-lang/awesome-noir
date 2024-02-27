@@ -192,6 +192,7 @@ A curated list of resources for learning and programming in Noir.
 - [1.5 hrs] [Sudoku in Noir](https://drive.google.com/file/d/1D4XCdiIZVjUW1JHDoMW3pG-15mgjMm9E/) ([Source Code](https://github.com/guipublic/crypdoku))
 - [2 hrs] [ZK HACK III - Introduction to Noir](https://www.youtube.com/watch?v=5CziMfChveY) ([Source Code](https://github.com/joss-aztec/quadratic_voting_noir))
   - Code-together: Quadratic Voting
+- [1.1 hrs] [Noir on Scroll Workshop](https://www.youtube.com/watch?v=xLQfMu-shYA) ([Part of Source Code](https://github.com/Turupawn/NoirScrollDemo))
 
 ### Blog Posts & Articles
 
