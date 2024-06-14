@@ -218,6 +218,7 @@ A curated list of projects powered by Noir.
 - [ZCaptcha](https://github.com/signorecello/zcaptcha) - A ZK version of Captcha
 - [ZKPic](https://github.com/0xrishabh/zkPic) - generate zero knowledge proofs for image edits
 - [Safecat](https://neimanslab.org/2024-02-19/safecat.html) - a simple CLI tool to generate, sign, and verify digital signatures using EdDSA Baby Jubjub Elliptic Curve signatures and a Poseidon hash function
+- [Cyclone](https://github.com/TalDerei/cyclone) - an anonymous proof of token ownership on Aztec for token-gated access
 
 ### Gaming
 
