@@ -13,6 +13,7 @@ A curated list of resources for learning and programming in Noir.
 - [Get Coding](#get-coding)
   - [Dev Tools](#dev-tools)
   - [Boilerplates](#boilerplates)
+  - [Proving Backends](#proving-backends)
   - [Libraries](#libraries)
     - [Data Types](#data-types)
     - [Data Type Manipulation](#data-type-manipulation)
@@ -64,6 +65,15 @@ A curated list of resources for learning and programming in Noir.
 
 - [noir-starter](https://github.com/noir-lang/noir-starter) - Template repository containing example projects using Noir (Vite + Hardhat, Foundry, etc.)
 - [noir-react-native-starter](https://github.com/madztheo/noir-react-native-starter) - Template repository containing an example minimal project using React Native
+
+### Proving Backends
+
+- [Barretenberg]([url](https://github.com/AztecProtocol/barretenberg)) by Aztec Labs 
+- [Plonky2](https://github.com/blocksense-network/noir) by Blocksense
+- [Plonky2](https://github.com/eryxcoop/acvm-backend-plonky2) by Eryx
+- [Halo2](https://github.com/Ethan-000/halo2_backend) by Ethan (needs updating?)
+- [Groth16](https://github.com/TomAFrench/acvm-backend-groth16) (needs updating)
+- [Marlin](https://github.com/noir-lang/marlin_arkworks_backend) (needs updating)
 
 ### Libraries
 
