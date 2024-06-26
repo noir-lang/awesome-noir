@@ -68,7 +68,7 @@ A curated list of resources for learning and programming in Noir.
 
 ### Proving Backends
 
-- [Barretenberg]([url](https://github.com/AztecProtocol/barretenberg)) by Aztec Labs 
+- [Barretenberg](https://github.com/AztecProtocol/barretenberg) by Aztec Labs 
 - [Plonky2](https://github.com/blocksense-network/noir) by Blocksense
 - [Plonky2](https://github.com/eryxcoop/acvm-backend-plonky2) by Eryx
 - [Halo2](https://github.com/Ethan-000/halo2_backend) by Ethan (needs updating?)
