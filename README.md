@@ -159,6 +159,7 @@ A curated list of resources for learning and programming in Noir.
 #### Miscellaneous
 
 - [Standard Library](https://github.com/noir-lang/noir/tree/master/noir_stdlib) - the Noir Standard Library
+- [nodash](https://github.com/olehmisar/nodash) - a generic utility library. "Lodash for Noir"
 
 ## Learning
 
