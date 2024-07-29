@@ -81,7 +81,7 @@ A curated list of resources for learning and programming in Noir.
 
 ##### Numerics
 
-- [BigInt](https://github.com/shuklaayush/noir-bigint) - a library that provides a custom BigUint56 data type, allowing for computations on large unsigned integers
+- [BigNum](https://github.com/noir-lang/noir-bignum) - a library for arithmetic computations of large unsigned integers of any length
 - [Fraction](https://github.com/resurgencelabs/fraction) - a library for accessing fractional number data type in Noir, allowing results that aren't whole numbers
 - [ZKFloat](https://github.com/0x3327/ZKFloat) - a floating point library for Noir
 - [Complex Numbers](https://github.com/doctoruber/complexnr) - This library offers a comprehensive suite of operations for complex numbers
@@ -130,8 +130,8 @@ A curated list of resources for learning and programming in Noir.
 
 ##### Signatures
 
+- [RSA](https://github.com/noir-lang/noir_rsa) - RSA signature verification
 - [BLS12_381 Elliptic Curve Pairing and Signature Verification Library](https://github.com/onurinanc/noir-bls-signature)
-- [RSA](https://github.com/SetProtocol/noir-rsa) - this repository contains an implementation of a RSA signature verify for the Noir language
 - [PLUME](https://github.com/distributed-lab/noir-plume) - Noir implementation of the https://blog.aayushg.com/nullifier/ library for zk-signatures
 
 ##### Merkle Trees
