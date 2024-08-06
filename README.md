@@ -74,6 +74,7 @@ A curated list of resources for learning and programming in Noir.
 - [Halo2](https://github.com/Ethan-000/halo2_backend) by Ethan (needs updating?)
 - [Groth16](https://github.com/TomAFrench/acvm-backend-groth16) (needs updating)
 - [Marlin](https://github.com/noir-lang/marlin_arkworks_backend) (needs updating)
+- [Nova, HyperNova](https://github.com/privacy-scaling-explorations/sonobe/tree/main) by 0xPARC and PSE
 
 ### Libraries
 
