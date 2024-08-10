@@ -46,7 +46,6 @@ A curated list of resources for learning and programming in Noir.
 
 ### Dev Tools
 
-- [play.noir-lang.org](https://play.noir-lang.org) - Client-side Noir Playground. [Source Code](https://github.com/signorecello/noir-playground)
 - [VS Code Extension](https://marketplace.visualstudio.com/items?itemName=noir-lang.vscode-noir) - Syntax highlight, error highlight, codelens, etc. ([Source Code](https://github.com/noir-lang/vscode-noir))
 - [Neovim Plugin](https://github.com/noir-lang/noir-nvim) - Syntax highlight, error highlight, etc.
 - [Emacs Plugin](https://melpa.org/#/noir-mode) - Syntax highlight ([Source Code](https://github.com/hhamud/noir-mode))
@@ -55,7 +54,6 @@ A curated list of resources for learning and programming in Noir.
 - [Emacs Tree-sitter Plugin](https://melpa.org/#/noir-ts-mode) - Syntax highlight ([Source Code](https://github.com/hhamud/noir-ts-mode))
 - [hardhat-noir](https://www.npmjs.com/package/hardhat-noir) - Hardhat plugin ([Source Code](https://github.com/spalladino/hardhat-noir))
 - [Python2Noir](https://github.com/storswiftlabs/python2noir) - From Python to Noir language transpiler
-- [Noir Playground](https://github.com/noir-playground/noir-playground) - The Noir Playground
 - [noir_rs](https://github.com/visoftsolutions/noir_rs) - Rust-based zkSNARK Proving&Verifying tool for noir-lang
 - [noir_java](https://github.com/visoftsolutions/noir_java) - Java-based zkSNARK Proving&Verifying tool for noir-lang (Java & Android)
 - [noir_swift](https://github.com/visoftsolutions/noir_swift) - Swift-based zkSNARK Proving&Verifying tool for noir-lang (macOS & IOS & watchOS)
