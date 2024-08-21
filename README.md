@@ -212,6 +212,7 @@ A curated list of resources for learning and programming in Noir.
 - [Understanding the Technical Aspects of Aztec and Noir](https://hackmd.io/XZX9_pZ8Q1aa_ySDPeQopg)
 - Noir 101 for Solidity devs in ([English](https://mirror.xyz/crisgarner.eth/IRRxnP-HVP-7qLZ-bTI2HRpKTmSRPCDl-Q6gm2NTj4g)) and ([Spanish](https://mirror.xyz/crisgarner.eth/Iek7PhbhU4WpIJ6eixFq80_7R6czH7fbdCoN0Bd7NfI))
 - [Privacy-preserving KYC with Noir](https://medium.com/@tisura/privacy-preserving-kyc-57002ab8d3f2)
+- [An incomplete guide to zk-KYC apps](https://medium.com/@tisura/an-incomplete-guide-to-zk-kyc-apps-d7b4c684795c)
 
 ### Benchmarks
 
@@ -237,6 +238,10 @@ A curated list of projects powered by Noir.
 ### Governance
 
 - [Nouns Anonymous Voting](https://github.com/aragonzkresearch/nouns-anonymous-voting) - Anonymous voting research project for NounsDAO
+
+### KYC
+
+- [Educational zk-KYC app](https://github.com/tisura-labs/zk-kyc-app) - NoirJS app to check age, country and recent salaries.
 
 ### Social
 
