@@ -126,7 +126,7 @@ A curated list of resources for learning and programming in Noir.
 - [ElGamal Encryption](https://github.com/jat9292/noir-elgamal/) - Exponential ElGamal Encryption on the Baby Jubjub curve
 - [Hydra for BN254](https://github.com/TaceoLabs/noir-hydra) - symmetric encryption and decryption
 - [ECIES](https://github.com/informalsystems/noir-ecies) - simple implementation of ECIES on the Baby Jubjub curve
-
+- [ECDH](https://github.com/privacy-scaling-explorations/zk-kit.noir/tree/main/packages/ecdh) - simple implementation of ECDH on the Baby Jubjub curve
 ##### Signatures
 
 - [RSA](https://github.com/noir-lang/noir_rsa) - RSA signature verification
@@ -261,3 +261,4 @@ Propose link additions by visiting [README.md](./README.md) and click the "pen" 
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
