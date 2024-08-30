@@ -9,30 +9,44 @@ A curated list of resources for learning and programming in Noir.
 
 ## Contents
 
-- [Official Resources](#official-resources)
-- [Get Coding](#get-coding)
-  - [Dev Tools](#dev-tools)
-  - [Boilerplates](#boilerplates)
-  - [Proving Backends](#proving-backends)
-  - [Libraries](#libraries)
-    - [Data Types](#data-types)
-    - [Data Type Manipulation](#data-type-manipulation)
-    - [Cryptography](#cryptography)
-    - [Ethereum](#ethereum)
-    - [Machine Learning](#machine-learning)
-    - [Miscellaneous](#miscellaneous)
-- [Learning](#learning)
-  - [Learning by Doing](#learning-by-doing)
-  - [Talks & Workshops](#talks--workshops)
-  - [Blog Posts & Articles](#blog-posts--articles)
-  - [Benchmarks](#benchmarks)
-- [Projects](#projects)
-  - [Authentication](#authentication)
-  - [Gaming](#gaming)
-  - [Governance](#governance)
-  - [Social](#social)
-  - [Miscellaneous](#miscellaneous-1)
-- [Contribute](#contribute)
+- [Awesome Noir](#awesome-noir)
+  - [Contents](#contents)
+  - [Official Resources](#official-resources)
+  - [Get Coding](#get-coding)
+    - [Dev Tools](#dev-tools)
+    - [Boilerplates](#boilerplates)
+    - [Proving Backends](#proving-backends)
+    - [Libraries](#libraries)
+      - [Data Types](#data-types)
+        - [Numerics](#numerics)
+        - [Dates \& Times](#dates--times)
+      - [Data Type Manipulation](#data-type-manipulation)
+        - [Numerics](#numerics-1)
+        - [Bytes](#bytes)
+        - [Text](#text)
+      - [Cryptography](#cryptography)
+        - [Hashes](#hashes)
+        - [Encryption](#encryption)
+        - [Signatures](#signatures)
+        - [Merkle Trees](#merkle-trees)
+        - [Randomness](#randomness)
+      - [Ethereum](#ethereum)
+      - [Machine Learning](#machine-learning)
+      - [Miscellaneous](#miscellaneous)
+  - [Learning](#learning)
+    - [Learning By Doing](#learning-by-doing)
+    - [Talks \& Workshops](#talks--workshops)
+    - [Blog Posts \& Articles](#blog-posts--articles)
+    - [Benchmarks](#benchmarks)
+  - [Projects](#projects)
+    - [Authentication](#authentication)
+    - [Gaming](#gaming)
+    - [Governance](#governance)
+    - [KYC](#kyc)
+    - [Social](#social)
+    - [Miscellaneous](#miscellaneous-1)
+  - [Contribute](#contribute)
+  - [License](#license)
 
 ---
 
@@ -126,7 +140,7 @@ A curated list of resources for learning and programming in Noir.
 - [ElGamal Encryption](https://github.com/jat9292/noir-elgamal/) - Exponential ElGamal Encryption on the Baby Jubjub curve
 - [Hydra for BN254](https://github.com/TaceoLabs/noir-hydra) - symmetric encryption and decryption
 - [ECIES](https://github.com/informalsystems/noir-ecies) - simple implementation of ECIES on the Baby Jubjub curve
-
+- [ECDH](https://github.com/privacy-scaling-explorations/zk-kit.noir/tree/main/packages/ecdh) - simple implementation of ECDH on the Baby Jubjub curve
 ##### Signatures
 
 - [RSA](https://github.com/noir-lang/noir_rsa) - RSA signature verification
