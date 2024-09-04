@@ -106,7 +106,7 @@ A curated list of resources for learning and programming in Noir.
 ##### Text
 
 - [Base64](https://github.com/vlayer-xyz/noir-base64) - a library for base64 encoding
-- [JSON parser](https://github.com/RontoSOFT/noir-json-parser) - This library adheres to the revered [IETF RFC 8259](https://datatracker.ietf.org/doc/html/rfc8259) specifications, ensuring precise interpretation of JSON-friendly strings
+- [JSON parser](https://github.com/noir-lang/noir_json_parser) - This library adheres to the revered [IETF RFC 8259](https://datatracker.ietf.org/doc/html/rfc8259) specifications, ensuring precise interpretation of JSON-friendly strings
 - [String Utils](https://github.com/madztheo/noir-string-utils) - A wrapper for String in Noir that adds some useful methods for common string operations
 
 #### Cryptography
