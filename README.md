@@ -63,6 +63,7 @@ A curated list of resources for learning and programming in Noir.
 
 - [noir-starter](https://github.com/noir-lang/noir-starter) - Template repository containing example projects using Noir (Vite + Hardhat, Foundry, etc.)
 - [noir-react-native-starter](https://github.com/madztheo/noir-react-native-starter) - Template repository containing an example minimal project using React Native
+- [noir-library-starter](https://github.com/noir-lang/noir-library-starter) - Template used by the noir-lang org when creating internally maintained libraries
 
 ### Proving Backends
 
