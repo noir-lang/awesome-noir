@@ -58,6 +58,7 @@ A curated list of resources for learning and programming in Noir.
 - [noir_java](https://github.com/visoftsolutions/noir_java) - Java-based zkSNARK Proving&Verifying tool for noir-lang (Java & Android)
 - [noir_swift](https://github.com/visoftsolutions/noir_swift) - Swift-based zkSNARK Proving&Verifying tool for noir-lang (macOS & IOS & watchOS)
 - [hunter](https://github.com/nfurfaro/hunter) - A tool for performing mutation-testing on Noir programs
+- [merkle tree generator](https://github.com/eyalron33/mpz/) - A tool to help generate Noir-optimized merkle trees
 
 ### Boilerplates
 
