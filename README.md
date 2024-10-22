@@ -130,6 +130,7 @@ A curated list of resources for learning and programming in Noir.
 - [Hydra for BN254](https://github.com/TaceoLabs/noir-hydra) - symmetric encryption and decryption
 - [ECIES](https://github.com/informalsystems/noir-ecies) - simple implementation of ECIES on the Baby Jubjub curve
 - [ECDH](https://github.com/privacy-scaling-explorations/zk-kit.noir/tree/main/packages/ecdh) - simple implementation of ECDH on the Baby Jubjub curve
+  
 ##### Signatures
 
 - [RSA](https://github.com/noir-lang/noir_rsa) - RSA signature verification
@@ -231,7 +232,8 @@ A curated list of projects powered by Noir.
 - [ZCaptcha](https://github.com/signorecello/zcaptcha) - A ZK version of Captcha
 - [ZKPic](https://github.com/0xrishabh/zkPic) - generate zero knowledge proofs for image edits
 - [Safecat](https://neimanslab.org/2024-02-19/safecat.html) - a simple CLI tool to generate, sign, and verify digital signatures using EdDSA Baby Jubjub Elliptic Curve signatures and a Poseidon hash function
-
+- [ZKEmail](https://github.com/zkemail/zkemail.nr) - a ZK Email version written in Noir. It is extremely performant on the client side, being ~2x faster on small proofs and ~5-10x speedups on the larger proofs, versus the Circom implementation of ZK Email.
+  
 ### Gaming
 
 - [BattleZips](https://battlezips.com/) ([Source Code](https://github.com/BattleZips/BattleZips-Noir)) - On-chain Battleship
