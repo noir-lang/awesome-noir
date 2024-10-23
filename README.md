@@ -111,6 +111,7 @@ A curated list of resources for learning and programming in Noir.
 - [Base64](https://github.com/vlayer-xyz/noir-base64) - a library for base64 encoding
 - [JSON parser](https://github.com/noir-lang/noir_json_parser) - This library adheres to the revered [IETF RFC 8259](https://datatracker.ietf.org/doc/html/rfc8259) specifications, ensuring precise interpretation of JSON-friendly strings
 - [String Utils](https://github.com/madztheo/noir-string-utils) - A wrapper for String in Noir that adds some useful methods for common string operations
+- [Base64 Lib](https://github.com/Envoy-VC/noir_base64_lib) - Extension of `noir_base64` with support for Vectors and Base64 URL encoding and decoding.
 
 #### Cryptography
 
@@ -121,6 +122,10 @@ A curated list of resources for learning and programming in Noir.
 - [Poseidon{2}](https://github.com/TaceoLabs/noir-poseidon) - an improved implementation of Poseidon and its successor Poseidon2
 - [SHA-1](https://github.com/michaelelliot/noir-sha1) - a library for generating hashes using SHA-1 hashing function
 - [SHA-2](https://github.com/michaelelliot/noir-sha2) - a library for generating hashes using SHA-2 hashing function
+
+##### Message Authentication Code (HMAC)
+
+- [Noir HMAC](https://github.com/Envoy-VC/noir_hmac) - HMAC implementation in Noir Language.
 
 ##### Encryption
 
@@ -163,6 +168,8 @@ A curated list of resources for learning and programming in Noir.
 
 - [Standard Library](https://github.com/noir-lang/noir/tree/master/noir_stdlib) - the Noir Standard Library
 - [nodash](https://github.com/olehmisar/nodash) - a generic utility library. "Lodash for Noir"
+- [Noir JWT](https://github.com/Envoy-VC/noir_jwt) - Verify JWTs and attest claims in Noir Language
+- [Noir Social Verify](https://github.com/Envoy-VC/noir_social_verify) - Wrapper around zkemailnr to verify social accounts and extract details like X username, and emails.
 
 ## Learning
 
