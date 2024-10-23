@@ -14,6 +14,7 @@ A curated list of resources for learning and programming in Noir.
   - [Dev Tools](#dev-tools)
   - [Boilerplates](#boilerplates)
   - [Proving Backends](#proving-backends)
+  - [Benchmarks](#benchmarks)
   - [Libraries](#libraries)
     - [Data Types](#data-types)
     - [Data Type Manipulation](#data-type-manipulation)
@@ -25,7 +26,7 @@ A curated list of resources for learning and programming in Noir.
   - [Learning by Doing](#learning-by-doing)
   - [Talks & Workshops](#talks--workshops)
   - [Blog Posts & Articles](#blog-posts--articles)
-  - [Benchmarks](#benchmarks)
+  - [International Resources](#international-resources)
 - [Projects](#projects)
   - [Authentication](#authentication)
   - [Gaming](#gaming)
@@ -76,6 +77,10 @@ A curated list of resources for learning and programming in Noir.
 - [Halo2](https://github.com/Ethan-000/halo2_backend) by Ethan (needs updating)
 - [Groth16](https://github.com/TomAFrench/acvm-backend-groth16) (needs updating)
 - [Marlin](https://github.com/noir-lang/marlin_arkworks_backend) (needs updating)
+
+### Benchmarks
+
+- [ZK-Bench](https://zkbench.dev) - Compare Noir to other ZK frameworks (Risc Zero, Leo, Miden, etc)
 
 ### Libraries
 
@@ -203,7 +208,6 @@ A curated list of resources for learning and programming in Noir.
   - Common circuit bugs
   - Proving system vulnerabilities
   - Unconstrained functions
-- [1 hr] [Introduction to Noir in Spanish](https://www.youtube.com/watch?v=m4P-sAqa8_o) ([Written Tutorial and Code](https://dev.to/turupawn/circuitos-de-aztec-noir-en-tu-navegador-zk-es-semana-3-78a))
 - [1.5 hrs] [ZK dApps - Why, What and How?](https://www.youtube.com/watch?v=DpCbeGcX0cI)
 - [1.5 hrs] [Sudoku in Noir](https://drive.google.com/file/d/1D4XCdiIZVjUW1JHDoMW3pG-15mgjMm9E/) ([Source Code](https://github.com/guipublic/crypdoku))
 - [2 hrs] [ZK HACK III - Introduction to Noir](https://www.youtube.com/watch?v=5CziMfChveY) ([Source Code](https://github.com/joss-aztec/quadratic_voting_noir))
@@ -217,9 +221,12 @@ A curated list of resources for learning and programming in Noir.
 - [Privacy-preserving KYC with Noir](https://medium.com/@tisura/privacy-preserving-kyc-57002ab8d3f2)
 - [An incomplete guide to zk-KYC apps](https://medium.com/@tisura/an-incomplete-guide-to-zk-kyc-apps-d7b4c684795c)
 
-### Benchmarks
+### International Resources
 
-- [ZK-Bench](https://zkbench.dev) - Compare Noir to other ZK frameworks (Risc Zero, Leo, Miden, etc)
+- [Introduction to Noir in Spanish](https://www.youtube.com/watch?v=m4P-sAqa8_o)
+   - ([Written Tutorial and Code](https://dev.to/turupawn/circuitos-de-aztec-noir-en-tu-navegador-zk-es-semana-3-78a))
+- [Building a ZK dApp in Cantonese](https://www.youtube.com/watch?v=IAQrO1j20pg)
+   - [Slides](https://docs.google.com/presentation/d/1Zh8McXfdjREg0Y6iG9Q1_d-8Sgi7QT_7gJdOSmLqEEI/)
 
 ## Projects
 
