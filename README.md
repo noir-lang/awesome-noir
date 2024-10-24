@@ -53,7 +53,7 @@ A curated list of resources for learning and programming in Noir.
 - [Zed Plugin](https://github.com/shuklaayush/zed-noir) - Syntax highlight, LSP support
 - [Tree-sitter-noir](https://github.com/hhamud/tree-sitter-noir) - Tree-sitter grammar for Noir language
 - [Emacs Tree-sitter Plugin](https://melpa.org/#/noir-ts-mode) - Syntax highlight ([Source Code](https://github.com/hhamud/noir-ts-mode))
-- [hardhat-noir](https://www.npmjs.com/package/hardhat-noir) - Hardhat plugin ([Source Code](https://github.com/spalladino/hardhat-noir))
+- [hardhat-noir](https://www.npmjs.com/package/hardhat-plugin-noir) - Hardhat plugin ([Source Code](https://github.com/olehmisar/hardhat-noir))
 - [Python2Noir](https://github.com/storswiftlabs/python2noir) - From Python to Noir language transpiler
 - [noir_rs](https://github.com/visoftsolutions/noir_rs) - Rust-based zkSNARK Proving&Verifying tool for noir-lang
 - [noir_java](https://github.com/visoftsolutions/noir_java) - Java-based zkSNARK Proving&Verifying tool for noir-lang (Java & Android)
@@ -64,6 +64,7 @@ A curated list of resources for learning and programming in Noir.
 ### Boilerplates
 
 - [noir-starter](https://github.com/noir-lang/noir-starter) - Template repository containing example projects using Noir (Vite + Hardhat, Foundry, etc.)
+- [hardhat-noir-starter](https://github.com/olehmisar/hardhat-noir-starter) - Hardhat starter that seamlessly integrates with Noir.
 - [noir-react-native-starter](https://github.com/madztheo/noir-react-native-starter) - Template repository containing an example minimal project using React Native
 - [noir-library-starter](https://github.com/noir-lang/noir-library-starter) - Template used by the noir-lang org when creating internally maintained libraries
 
@@ -145,6 +146,7 @@ A curated list of resources for learning and programming in Noir.
 - [RSA](https://github.com/noir-lang/noir_rsa) - RSA signature verification
 - [BLS12_381 Elliptic Curve Pairing and Signature Verification Library](https://github.com/onurinanc/noir-bls-signature)
 - [PLUME](https://github.com/distributed-lab/noir-plume) - Noir implementation of the https://blog.aayushg.com/nullifier/ library for zk-signatures
+- [WebAuthn/Passkeys](https://github.com/olehmisar/noir_webauthn) - WebAuthn/Passkeys signature verification. Verifies signatures produced by `credentials.get`
 
 ##### Merkle Trees
 
