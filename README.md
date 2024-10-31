@@ -85,6 +85,8 @@ A curated list of resources for learning and programming in Noir.
 
 ### Libraries
 
+[Noir Directory](https://noir.directory) - All Noir libraries in a single place. The npm of Noir.
+
 #### Data Types
 
 ##### Numerics
