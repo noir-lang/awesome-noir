@@ -161,6 +161,10 @@ A curated list of resources for learning and programming in Noir.
 
 - [Cryptographically Secure Pseudo-Random Number Generator](https://github.com/doctoruber/CSPRNG)
 
+##### Pairing
+
+- [Pairing over BLS12-381](https://github.com/ewynx/noir_bls12_381_pairing) - Implementation of pairing over BLS12-381 that uses the new Noir [BigNum](https://github.com/noir-lang/noir-bignum) library
+
 #### Ethereum
 
 - [ECrecover](https://github.com/colinnielsen/ecrecover-noir) - a library to verify an ECDSA signature and return the source Ethereum address
