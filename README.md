@@ -2,7 +2,7 @@
 
 A curated list of resources for learning and programming in Noir.
 
-⚠️  This repository or the contained links are not endorsed as safe and secure by Aztec Labs or the Noir team. Users are advised to exercise caution before utilizing any content or code provided herein.
+⚠️ This repository or the contained links are not endorsed as safe and secure by Aztec Labs or the Noir team. Users are advised to exercise caution before utilizing any content or code provided herein.
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/Noir.svg?style=social&label=Follow%20%40Noir)](https://twitter.com/NoirLang)
@@ -166,7 +166,8 @@ A curated list of resources for learning and programming in Noir.
 - [BLS12_381 Elliptic Curve Pairing and Signature Verification Library](https://github.com/onurinanc/noir-bls-signature)
 - [PLUME](https://github.com/distributed-lab/noir-plume) - Noir implementation of the https://blog.aayushg.com/nullifier/ library for zk-signatures
 - [WebAuthn/Passkeys](https://github.com/olehmisar/noir_webauthn) - WebAuthn/Passkeys signature verification. Verifies signatures produced by `credentials.get`
-- [JWT](https://github.com/saleel/noir-jwt) - Noir library to verify JWT tokens and prove claims. Currently only supports RS256 with 2048 bit keys. 
+- [JWT](https://github.com/saleel/noir-jwt) - Noir library to verify JWT tokens and prove claims. Currently only supports RS256 with 2048 bit keys.
+- [Noir JWT](https://github.com/Envoy-VC/noir_jwt) - Verify JWTs and attest claims in Noir Language
 
 ##### Merkle Trees
 
@@ -199,7 +200,6 @@ A curated list of resources for learning and programming in Noir.
 
 - [Standard Library](https://github.com/noir-lang/noir/tree/master/noir_stdlib) - the Noir Standard Library
 - [nodash](https://github.com/olehmisar/nodash) - a generic utility library. "Lodash for Noir"
-- [Noir JWT](https://github.com/Envoy-VC/noir_jwt) - Verify JWTs and attest claims in Noir Language
 - [Noir Social Verify](https://github.com/Envoy-VC/noir_social_verify) - Wrapper around zkemailnr to verify social accounts and extract details like X username, and emails.
 
 ## Learning
@@ -257,9 +257,9 @@ A curated list of resources for learning and programming in Noir.
 ### International Resources
 
 - [Introduction to Noir in Spanish](https://www.youtube.com/watch?v=m4P-sAqa8_o)
-   - ([Written Tutorial and Code](https://dev.to/turupawn/circuitos-de-aztec-noir-en-tu-navegador-zk-es-semana-3-78a))
+  - ([Written Tutorial and Code](https://dev.to/turupawn/circuitos-de-aztec-noir-en-tu-navegador-zk-es-semana-3-78a))
 - [Building a ZK dApp in Cantonese](https://www.youtube.com/watch?v=IAQrO1j20pg)
-   - [Slides](https://docs.google.com/presentation/d/1Zh8McXfdjREg0Y6iG9Q1_d-8Sgi7QT_7gJdOSmLqEEI/)
+  - [Slides](https://docs.google.com/presentation/d/1Zh8McXfdjREg0Y6iG9Q1_d-8Sgi7QT_7gJdOSmLqEEI/)
 
 ## Projects
 
@@ -304,4 +304,3 @@ Propose link additions by visiting [README.md](./README.md) and click the "pen" 
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
