@@ -159,12 +159,14 @@ A curated list of resources for learning and programming in Noir.
 - [Hydra for BN254](https://github.com/TaceoLabs/noir-hydra) - symmetric encryption and decryption
 - [ECIES](https://github.com/informalsystems/noir-ecies) - simple implementation of ECIES on the Baby Jubjub curve
 - [ECDH](https://github.com/privacy-scaling-explorations/zk-kit.noir/tree/main/packages/ecdh) - simple implementation of ECDH on the Baby Jubjub curve
+
 ##### Signatures
 
 - [RSA](https://github.com/noir-lang/noir_rsa) - RSA signature verification
 - [BLS12_381 Elliptic Curve Pairing and Signature Verification Library](https://github.com/onurinanc/noir-bls-signature)
 - [PLUME](https://github.com/distributed-lab/noir-plume) - Noir implementation of the https://blog.aayushg.com/nullifier/ library for zk-signatures
 - [WebAuthn/Passkeys](https://github.com/olehmisar/noir_webauthn) - WebAuthn/Passkeys signature verification. Verifies signatures produced by `credentials.get`
+- [JWT](https://github.com/saleel/noir-jwt) - Noir library to verify JWT tokens and prove claims. Currently only supports RS256 with 2048 bit keys. 
 
 ##### Merkle Trees
 
