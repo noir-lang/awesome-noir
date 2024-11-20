@@ -290,12 +290,14 @@ A curated list of projects powered by Noir.
 
 - [FruityFriends](https://github.com/guelowrd/fruity-lib) - Various circuits (Proof of Intersection, Proof of Proximity, Proof of Proper Secret) to be used in social applications
 - [Rate Limiting Nullifiers](https://github.com/Rate-Limiting-Nullifier/noir-rln) - a zero-knowledge gadget that enables spam prevention in anonymous environments
+- [StealthNote](https://github.com/saleel/stealthnote) - an application for people in an organization to anonymously broadcast messages.
 
 ### Miscellaneous
 
 - [Graphite](https://github.com/AlexCheema/Graphite) - Python tool for proving graph algorithms
 - [zkVRF](https://github.com/zkvrf/zkvrf) - Provable random number generation service
 - [Past hackathon winners](https://github.com/AztecProtocol/dev-rel/tree/main/hackathons#previous-winners)
+- [GitClaim](https://github.com/saleel/gitclaim) - A sample app on top of [zkemail.nr](https://github.com/zkemail/zkemail.nr) to claim airdrops by proving Github contributions using PR merge notification emails.
 
 ## Contribute
 
