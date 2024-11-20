@@ -297,7 +297,7 @@ A curated list of projects powered by Noir.
 - [Graphite](https://github.com/AlexCheema/Graphite) - Python tool for proving graph algorithms
 - [zkVRF](https://github.com/zkvrf/zkvrf) - Provable random number generation service
 - [Past hackathon winners](https://github.com/AztecProtocol/dev-rel/tree/main/hackathons#previous-winners)
-- [GitClaims](https://github.com/saleel/gitclaim) - A sample app on top of [zkemail.nr](https://github.com/zkemail/zkemail.nr) to claim airdrops by proving Github contributions using PR merge notification emails.
+- [GitClaim](https://github.com/saleel/gitclaim) - A sample app on top of [zkemail.nr](https://github.com/zkemail/zkemail.nr) to claim airdrops by proving Github contributions using PR merge notification emails.
 
 ## Contribute
 
