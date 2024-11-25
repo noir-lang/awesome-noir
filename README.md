@@ -89,7 +89,7 @@ A curated list of resources for learning and programming in Noir.
 - [Barretenberg (UltraHonk / MegaHonk)](https://github.com/AztecProtocol/barretenberg) by Aztec Labs
 - [Plonky2](https://github.com/blocksense-network/noir) by Blocksense
 - [Plonky2](https://github.com/eryxcoop/acvm-backend-plonky2) by Eryx
-- [Nova, HyperNova](https://github.com/privacy-scaling-explorations/sonobe/tree/main) by 0xPARC and PSE
+- [Sonobe (Nova, HyperNova)](https://github.com/privacy-scaling-explorations/sonobe/tree/main) by 0xPARC and PSE
 - [Plonky3](https://github.com/vacekj/air-fried-gyatt) by Josef (needs updating)
 - [Halo2](https://github.com/Ethan-000/halo2_backend) by Ethan (needs updating)
 - [Groth16](https://github.com/TomAFrench/acvm-backend-groth16) (needs updating)
