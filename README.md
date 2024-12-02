@@ -268,37 +268,42 @@ A curated list of projects powered by Noir.
 
 ### Authentication
 
-- [SafeRecover](https://github.com/porco-rosso-j/safe-recovery-noir) - Recovery of ownership of Gnosis Safe accounts
-- [ZCaptcha](https://github.com/signorecello/zcaptcha) - A ZK version of Captcha
-- [ZKPic](https://github.com/0xrishabh/zkPic) - generate zero knowledge proofs for image edits
-- [Safecat](https://neimanslab.org/2024-02-19/safecat.html) - a simple CLI tool to generate, sign, and verify digital signatures using EdDSA Baby Jubjub Elliptic Curve signatures and a Poseidon hash function
+- Safe modules for privacy-preserving multi-sig
+  - [Dark Safe](https://github.com/colinnielsen/dark-safe)
+  - [zkSafe](https://github.com/1kx-network/zksafe/)
+  - [SAMM](https://github.com/oxor-io/samm-circuits) - zkEmail based
+- [Safecat](https://neimanslab.org/2024-02-19/safecat.html) - CLI tool for EdDSA Baby Jubjub Elliptic Curve signatures with Noir support
+- [zkLogin](https://github.com/olehmisar/zklogin) - Apple/Google account based authentication for EVM smart accounts
+
+### Commercial
+- [GitClaim](https://github.com/saleel/gitclaim) - privacy-preserving airdrop claims through proof of GitHub contributions
+- [OffShift](
+- [z-imburse](https://github.com/Mach-34/z-imburse) - automated and privacy-preserving expense reimbursements
 
 ### Gaming
 
-- [BattleZips](https://battlezips.com/) ([Source Code](https://github.com/BattleZips/BattleZips-Noir)) - On-chain Battleship
-- [Dappicom](https://tonk-gg.github.io/dappicom-site/) - zk Nintendo Entertainment System (NES) emulation
-- [Sudoku, Wordle, and Trivia](https://github.com/ruizehung/Zero-Knowledge-Sudoku-Wordle-Trivia) - Sudoku, Wordle, and Trivia games in Aleo and Noir
+- [BattleZips](https://battlezips.com/) ([Source Code](https://github.com/BattleZips/BattleZips-Noir)) - on-chain Battleship
+- [Dappicom](https://github.com/tonk-labs/dappicom) - Nintendo Entertainment System (NES) emulator in Noir for proofs of gameplays / speedruns
 
 ### Governance
 
-- [Nouns Anonymous Voting](https://github.com/aragonzkresearch/nouns-anonymous-voting) - Anonymous voting research project for NounsDAO
+- [Nouns Anonymous Voting](https://github.com/aragonzkresearch/nouns-anonymous-voting) - privacy-preserving voting research project for NounsDAO
 
-### KYC
+### Identity
 
-- [Educational zk-KYC app](https://github.com/tisura-labs/zk-kyc-app) - NoirJS app to check age, country and recent salaries.
+- [Anon-Aadhaar](https://github.com/anon-aadhaar/anon-aadhaar-noir) - privacy-preserving proofs of Indian Aadhaar ID
+- [OpenPassport](https://github.com/openpassport-org/openpassport) - identity wallet supporting privacy-preserving proofs of goverment-issued IDs
+- [zkPassport](https://github.com/zkpassport/circuits) - privacy-preserving proofs of national passports
 
 ### Social
 
-- [FruityFriends](https://github.com/guelowrd/fruity-lib) - Various circuits (Proof of Intersection, Proof of Proximity, Proof of Proper Secret) to be used in social applications
-- [Rate Limiting Nullifiers](https://github.com/Rate-Limiting-Nullifier/noir-rln) - a zero-knowledge gadget that enables spam prevention in anonymous environments
-- [StealthNote](https://github.com/saleel/stealthnote) - an application for people in an organization to anonymously broadcast messages.
+- [anoncast](https://github.com/Slokh/anoncast) - anonymous Tweets and Casts
+- [Rate Limiting Nullifiers](https://github.com/Rate-Limiting-Nullifier/noir-rln) - spam regulation in anonymous environments
+- [StealthNote](https://github.com/saleel/stealthnote) - message board for people in an organization to anonymously broadcast messages
 
 ### Miscellaneous
 
-- [Graphite](https://github.com/AlexCheema/Graphite) - Python tool for proving graph algorithms
-- [zkVRF](https://github.com/zkvrf/zkvrf) - Provable random number generation service
 - [Past hackathon winners](https://github.com/AztecProtocol/dev-rel/tree/main/hackathons#previous-winners)
-- [GitClaim](https://github.com/saleel/gitclaim) - A sample app on top of [zkemail.nr](https://github.com/zkemail/zkemail.nr) to claim airdrops by proving Github contributions using PR merge notification emails.
 
 ## Contribute
 
