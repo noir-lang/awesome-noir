@@ -201,6 +201,7 @@ A curated list of resources for learning and programming in Noir.
 - [Standard Library](https://github.com/noir-lang/noir/tree/master/noir_stdlib) - the Noir Standard Library
 - [nodash](https://github.com/olehmisar/nodash) - a generic utility library. "Lodash for Noir"
 - [Noir Social Verify](https://github.com/Envoy-VC/noir_social_verify) - Wrapper around zkemailnr to verify social accounts and extract details like X username, and emails.
+- [Anon Aadhaar Noir](https://github.com/anon-aadhaar/anon-aadhaar-noir) - A protocol for privacy-preserving verification of Aadhaar (Indian Residence ID) that enables users to generate ZK proofs revealing only selected identity information
 
 ## Learning
 
