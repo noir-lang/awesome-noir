@@ -130,6 +130,11 @@ A curated list of resources for learning and programming in Noir.
 
 #### Cryptography
 
+##### Elliptic Curves
+
+- [BigCurve](https://github.com/noir-lang/noir_bigcurve) - operations over elliptic curves instantiated with an arbitrary prime field
+- [Pairing over BLS12-381](https://github.com/ewynx/noir_bls12_381_pairing) - Pairing over BLS12-381
+
 ##### Hashes
 
 - [Griffin for BN254](https://github.com/TaceoLabs/noir-griffin) - zk-friendly hash function
@@ -170,11 +175,6 @@ A curated list of resources for learning and programming in Noir.
 ##### Randomness
 
 - [Cryptographically Secure Pseudo-Random Number Generator](https://github.com/doctoruber/CSPRNG) - pseudo-random number generation
-
-##### Elliptic Curves
-
-- [BigCurve](https://github.com/noir-lang/noir_bigcurve) - operations over elliptic curves instantiated with an arbitrary prime field
-- [Pairing over BLS12-381](https://github.com/ewynx/noir_bls12_381_pairing) - Pairing over BLS12-381
 
 #### Ethereum
 
