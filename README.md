@@ -196,13 +196,16 @@ A curated list of resources for learning and programming in Noir.
 
 A curated list of projects powered by Noir.
 
+### General
+
+- [ZKEmail](https://github.com/zkemail/zkemail.nr) - privacy-preserving proof of emails
+
 ### Authentication
 
 - Safe modules for privacy-preserving multi-sig
   - [Dark Safe](https://github.com/colinnielsen/dark-safe)
   - [zkSafe](https://github.com/1kx-network/zksafe/)
   - [SAMM](https://github.com/oxor-io/samm-circuits) - zkEmail based
-- [ZKEmail](https://github.com/zkemail/zkemail.nr) - privacy-preserving proof of emails
 - [zkLogin](https://github.com/olehmisar/zklogin) - Apple/Google account based authentication for EVM smart accounts
 
 ### Commercial
