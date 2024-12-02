@@ -206,7 +206,6 @@ A curated list of projects powered by Noir.
 
 ### Commercial
 - [GitClaim](https://github.com/saleel/gitclaim) - privacy-preserving airdrop claims through proof of GitHub contributions
-- [OffShift](
 - [z-imburse](https://github.com/Mach-34/z-imburse) - automated and privacy-preserving expense reimbursements
 
 ### Gaming
