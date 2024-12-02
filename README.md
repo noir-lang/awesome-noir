@@ -63,33 +63,54 @@ A curated list of resources for learning and programming in Noir.
 
 ### Dev Tools
 
+#### IDE
+
 - [VS Code Extension](https://marketplace.visualstudio.com/items?itemName=noir-lang.vscode-noir) - Syntax highlight, error highlight, codelens, etc. ([Source Code](https://github.com/noir-lang/vscode-noir))
 - [Neovim Plugin](https://github.com/noir-lang/noir-nvim) - Syntax highlight, error highlight, etc.
 - [Emacs Plugin](https://melpa.org/#/noir-mode) - Syntax highlight ([Source Code](https://github.com/hhamud/noir-mode))
 - [Zed Plugin](https://github.com/shuklaayush/zed-noir) - Syntax highlight, LSP support
 - [Tree-sitter-noir](https://github.com/hhamud/tree-sitter-noir) - Tree-sitter grammar for Noir language
 - [Emacs Tree-sitter Plugin](https://melpa.org/#/noir-ts-mode) - Syntax highlight ([Source Code](https://github.com/hhamud/noir-ts-mode))
+
+#### Cross-language
+
+- [noir_java](https://github.com/visoftsolutions/noir_java) - Proving and verifying Noir programs in Java (and by extension Android)
+- [noir_js](https://github.com/noir-lang/noir/tree/master/tooling/noir_js) - compiling and executing Noir programs in JavaScript / TypeScript
+- [noir_rs](https://github.com/visoftsolutions/noir_rs) - Proving and verifying Noir programs in Rust
+- [noir_swift](https://github.com/visoftsolutions/noir_swift) - Proving and verifying Noir programs in Swift (and by extension macOS, IOS and watchOS)
+- [Python2Noir](https://github.com/storswiftlabs/python2noir) - Python to Noir transpiler
+
+#### EVM
+
 - [hardhat-noir](https://www.npmjs.com/package/hardhat-plugin-noir) - Hardhat plugin ([Source Code](https://github.com/olehmisar/hardhat-noir))
-- [Python2Noir](https://github.com/storswiftlabs/python2noir) - From Python to Noir language transpiler
-- [noir_rs](https://github.com/visoftsolutions/noir_rs) - Rust-based zkSNARK Proving&Verifying tool for noir-lang
-- [noir_java](https://github.com/visoftsolutions/noir_java) - Java-based zkSNARK Proving&Verifying tool for noir-lang (Java & Android)
-- [noir_swift](https://github.com/visoftsolutions/noir_swift) - Swift-based zkSNARK Proving&Verifying tool for noir-lang (macOS & IOS & watchOS)
-- [hunter](https://github.com/nfurfaro/hunter) - A tool for performing mutation-testing on Noir programs
-- [merkle tree generator](https://github.com/eyalron33/mpz/) - A tool to help generate Noir-optimized merkle trees
+
+#### Data manipulation
+
+- [Merkle Tree Generator](https://github.com/eyalron33/mpz/) - generate Noir-library-friendly Pedersen based Merkle trees
+- [Safecat](https://neimanslab.org/2024-02-19/safecat.html) - generate Noir-library-friendly EdDSA Baby Jubjub Elliptic Curve signatures
+
+#### Private shared states
+
+- [coNoir](https://github.com/TaceoLabs/co-snarks) - generate witness and prove Noir programs in a Multi-Party Computation network
+- [Kalypso](https://docs.marlin.org/user-guides/kalypso/tutorials/noir-circuits/) - generate witness and prove Noir programs in Trusted Execution Environments
+
+#### Security
+
+- [hunter](https://github.com/nfurfaro/hunter) - mutation-testing of Noir programs
 
 ### Boilerplates
 
-- [noir-starter](https://github.com/noir-lang/noir-starter) - Template repository containing example projects using Noir (Vite + Hardhat, Foundry, etc.)
-- [hardhat-noir-starter](https://github.com/olehmisar/hardhat-noir-starter) - Hardhat starter that seamlessly integrates with Noir.
-- [noir-react-native-starter](https://github.com/madztheo/noir-react-native-starter) - Template repository containing an example minimal project using React Native
-- [noir-library-starter](https://github.com/noir-lang/noir-library-starter) - Template used by the noir-lang org when creating internally maintained libraries
+- [noir-starter](https://github.com/noir-lang/noir-starter) - project template containing examples using Noir with Vite + Hardhat and Foundry
+- [hardhat-noir-starter](https://github.com/olehmisar/hardhat-noir-starter) - project template with seamless Hardhat integration
+- [noir-library-starter](https://github.com/noir-lang/noir-library-starter) - library template
+- [noir-react-native-starter](https://github.com/madztheo/noir-react-native-starter) - mobile development template using React Native
 
 ### Proving Backends
 
 - [Barretenberg (UltraHonk / MegaHonk)](https://github.com/AztecProtocol/barretenberg) by Aztec Labs
 - [Plonky2](https://github.com/blocksense-network/noir) by Blocksense
 - [Plonky2](https://github.com/eryxcoop/acvm-backend-plonky2) by Eryx
-- [Sonobe (Nova, HyperNova)](https://github.com/privacy-scaling-explorations/sonobe/tree/main) by 0xPARC and PSE
+- [Sonobe (Nova, HyperNova)](https://github.com/privacy-scaling-explorations/sonobe) by 0xPARC and PSE
 - [Plonky3](https://github.com/vacekj/air-fried-gyatt) by Josef (needs updating)
 - [Halo2](https://github.com/Ethan-000/halo2_backend) by Ethan (needs updating)
 - [Groth16](https://github.com/TomAFrench/acvm-backend-groth16) (needs updating)
@@ -101,7 +122,10 @@ A curated list of resources for learning and programming in Noir.
 
 ### Libraries
 
-[Noir Directory](https://noir.directory) - A directory of Noir libraries.
+#### General
+- [Noir Directory](https://noir.directory) - registry of Noir libraries
+- [Standard Library](https://github.com/noir-lang/noir/tree/master/noir_stdlib) - standard library that ships with all Noir releases
+- [ZK Kit Noir](https://github.com/privacy-scaling-explorations/zk-kit.noir) - collection of algorithm and utility libraries from Privacy & Scaling Explorations
 
 #### Data Types
 
@@ -120,6 +144,10 @@ A curated list of resources for learning and programming in Noir.
 
 #### Data Type Manipulation
 
+##### General
+
+- [nodash](https://github.com/olehmisar/nodash) - utility library for working with various data types, inspired by Lodash
+
 ##### Numerics
 
 - [Matrix Operations](https://github.com/storswiftlabs/matrix_operations) - a library for matrix operations provides functionality for performing various matrix operations
@@ -130,12 +158,19 @@ A curated list of resources for learning and programming in Noir.
 
 - [U(int)2B(ytes)](https://github.com/colinnielsen/noir-u2b) - a library for converting `u8`->`u120`s to `[u8]` array
 
-##### Text
+##### Texts
 
 - [Base64](https://github.com/vlayer-xyz/noir-base64) - a library for base64 encoding
-- [JSON parser](https://github.com/noir-lang/noir_json_parser) - This library adheres to the revered [IETF RFC 8259](https://datatracker.ietf.org/doc/html/rfc8259) specifications, ensuring precise interpretation of JSON-friendly strings
-- [String Utils](https://github.com/madztheo/noir-string-utils) - A wrapper for String in Noir that adds some useful methods for common string operations
-- [Base64 Lib](https://github.com/Envoy-VC/noir_base64_lib) - Extension of `noir_base64` with support for Vectors and Base64 URL encoding and decoding.
+- [Noir Base64 Library](https://github.com/Envoy-VC/noir_base64_lib) - extension of `noir_base64` with support for Vectors and Base64 URL encoding and decoding
+- [JSON parser](https://github.com/noir-lang/noir_json_parser) - JSON string parsing, adheres to [IETF RFC 8259](https://datatracker.ietf.org/doc/html/rfc8259)
+- [String Utils](https://github.com/madztheo/noir-string-utils) - wrapper for String in Noir adding methods for common string operations
+- [String Search](https://github.com/noir-lang/noir_string_search) - proof of substring existence within a larger string
+- [zkRegEx](https://github.com/zkemail/zk-regex) - proof of Regular Expression (RegEx) verification
+
+##### Arrays
+
+- [Sort](https://github.com/noir-lang/noir_sort) - efficient sorting of fixed-sized arrays
+- [Sparse Array](https://github.com/noir-lang/sparse_array) - efficient immutable and mutable sparse arrays
 
 #### Cryptography
 
@@ -146,10 +181,6 @@ A curated list of resources for learning and programming in Noir.
 - [Poseidon{2}](https://github.com/TaceoLabs/noir-poseidon) - an improved implementation of Poseidon and its successor Poseidon2
 - [SHA-1](https://github.com/michaelelliot/noir-sha1) - a library for generating hashes using SHA-1 hashing function
 - [SHA-2](https://github.com/michaelelliot/noir-sha2) - a library for generating hashes using SHA-2 hashing function
-
-##### Message Authentication Code (HMAC)
-
-- [Noir HMAC](https://github.com/Envoy-VC/noir_hmac) - HMAC implementation in Noir Language.
 
 ##### Encryption
 
@@ -165,62 +196,110 @@ A curated list of resources for learning and programming in Noir.
 - [RSA](https://github.com/noir-lang/noir_rsa) - RSA signature verification
 - [BLS12_381 Elliptic Curve Pairing and Signature Verification Library](https://github.com/onurinanc/noir-bls-signature)
 - [PLUME](https://github.com/distributed-lab/noir-plume) - Noir implementation of the https://blog.aayushg.com/nullifier/ library for zk-signatures
-- [WebAuthn/Passkeys](https://github.com/olehmisar/noir_webauthn) - WebAuthn/Passkeys signature verification. Verifies signatures produced by `credentials.get`
-- [JWT](https://github.com/saleel/noir-jwt) - Noir library to verify JWT tokens and prove claims. Currently only supports RS256 with 2048 bit keys.
-- [Noir JWT](https://github.com/Envoy-VC/noir_jwt) - Verify JWTs and attest claims in Noir Language
+- [WebAuthn/Passkeys](https://github.com/olehmisar/noir_webauthn) - Verification of WebAuthn/Passkeys signatures; verifies signatures produced by `credentials.get`
+- [JWT](https://github.com/saleel/noir-jwt) - Verification of JSON Web Tokens (JWTs) and prove claims
+- [Noir JWT](https://github.com/Envoy-VC/noir_jwt) - Verification of JSON Web Tokens (JWTs) and prove claims
 
 ##### Merkle Trees
 
-- [Merkle Root](https://github.com/tomoima525/noir-merkle-root) - a library for calculating Merkle root from given inputs. Using the Poseidon function for hashing
-- [Sparse Merkle Tree Implementation](https://github.com/jordan-public/zk-optimized-sparse-merkle-tree) - a typescript library to generate optimized sparse merkle trees
-- [Sparse Merkle Tree Verifier](https://github.com/vocdoni/smtverifier-noir) - a library for verification of sparse Merkle trees
-- [Sparse Merkle Tree Verify/Add/Update/Delete](https://github.com/privacy-scaling-explorations/zk-kit.noir/tree/main/packages/merkle-trees) - a Noir library to verify (non-)membership proofs and add/update/delete leafs
+- [Merkle Root](https://github.com/tomoima525/noir-merkle-root) - calculating Merkle root from given inputs of a Poseidon based Merkle tree
+- [Sparse Merkle Tree Implementation](https://github.com/jordan-public/zk-optimized-sparse-merkle-tree) - TypesSript library to generate optimized sparse merkle trees
+- [Sparse Merkle Tree Verifier](https://github.com/vocdoni/smtverifier-noir) - verification of sparse Merkle trees
+- [Sparse Merkle Tree Verify/Add/Update/Delete](https://github.com/privacy-scaling-explorations/zk-kit.noir/tree/main/packages/merkle-trees) - verification of (non-)membership proofs and add/update/delete leafs
+
+##### Message Authentication Code
+
+- [Noir HMAC](https://github.com/Envoy-VC/noir_hmac) - hash-based message authentication code
 
 ##### Randomness
 
-- [Cryptographically Secure Pseudo-Random Number Generator](https://github.com/doctoruber/CSPRNG)
+- [Cryptographically Secure Pseudo-Random Number Generator](https://github.com/doctoruber/CSPRNG) - pseudo-random number generation
 
-##### Pairing
+##### Elliptic Curves
 
-- [Pairing over BLS12-381](https://github.com/ewynx/noir_bls12_381_pairing) - Implementation of pairing over BLS12-381 that uses the new Noir [BigNum](https://github.com/noir-lang/noir-bignum) library
+- [BigCurve](https://github.com/noir-lang/noir_bigcurve) - operations over elliptic curves instantiated with an arbitrary prime field
+- [Pairing over BLS12-381](https://github.com/ewynx/noir_bls12_381_pairing) - Pairing over BLS12-381
 
 #### Ethereum
 
-- [ECrecover](https://github.com/colinnielsen/ecrecover-noir) - a library to verify an ECDSA signature and return the source Ethereum address
-- [Ethereum Storage Proof Verification](https://github.com/aragonzkresearch/noir-trie-proofs) - a library that contains the primitives necessary for RLP decoding (in the form of look-up table construction) and Ethereum state and storage proof verification (or verification of any trie proof involving 32-byte long keys)
+- [ECrecover](https://github.com/colinnielsen/ecrecover-noir) - ECDSA signature verification and return of source Ethereum address
+- [Ethereum Storage Proof Verification](https://github.com/aragonzkresearch/noir-trie-proofs) - RLP decoding (in the form of look-up table construction) and Ethereum state and storage proof verification (or verification of any trie proof involving 32-byte long keys)
+
+#### Social
+
+- [Noir Social Verify](https://github.com/Envoy-VC/noir_social_verify) - zkEmail based proof of GitHub, Google, LinkedIn and X accounts and account details
 
 #### Machine Learning
 
-- [Convolution](https://github.com/storswiftlabs/convolution) - a library for Convolutional Neural Network (CNN) library in Noir, including Convolutional layers, Pooling layers, and Linear (fully connected) layers
-- [ML](https://github.com/metavind/noir-ml) - a library for implementing neural networks in Noir
-- [SKProof](https://github.com/0x3327/skproof) - a Scikit-learn compatible Python library for generating ZK proofs of execution
-- [zkML-Noir](https://github.com/storswiftlabs/zkml-noir) - a library for Python ML model transcoding Noir, including various algorithms such as Decision tree, K-Means, XGBoost, FNN, CNN
+- [Convolution](https://github.com/storswiftlabs/convolution) - Convolutional Neural Network (CNN) library, including Convolutional layers, Pooling layers, and Linear (fully connected) layers
+- [ML](https://github.com/metavind/noir-ml) - neural networks
+- [SKProof](https://github.com/0x3327/skproof) - Scikit-learn compatible Python library for generating ZK proofs of execution
+- [zkML-Noir](https://github.com/storswiftlabs/zkml-noir) - Python ML model Noir transcoding, including various algorithms such as Decision tree, K-Means, XGBoost, FNN, CNN
 
-#### Miscellaneous
+## Projects
 
-- [Standard Library](https://github.com/noir-lang/noir/tree/master/noir_stdlib) - the Noir Standard Library
-- [nodash](https://github.com/olehmisar/nodash) - a generic utility library. "Lodash for Noir"
-- [Noir Social Verify](https://github.com/Envoy-VC/noir_social_verify) - Wrapper around zkemailnr to verify social accounts and extract details like X username, and emails.
-- [Anon Aadhaar Noir](https://github.com/anon-aadhaar/anon-aadhaar-noir) - A protocol for privacy-preserving verification of Aadhaar (Indian Residence ID) that enables users to generate ZK proofs revealing only selected identity information
+A curated list of projects powered by Noir.
+
+### Authentication
+
+- Safe modules for privacy-preserving multi-sig
+  - [Dark Safe](https://github.com/colinnielsen/dark-safe)
+  - [zkSafe](https://github.com/1kx-network/zksafe/)
+  - [SAMM](https://github.com/oxor-io/samm-circuits) - zkEmail based
+- [zkLogin](https://github.com/olehmisar/zklogin) - Apple/Google account based authentication for EVM smart accounts
+
+### Commercial
+- [GitClaim](https://github.com/saleel/gitclaim) - privacy-preserving airdrop claims through proof of GitHub contributions
+- [OffShift](
+- [z-imburse](https://github.com/Mach-34/z-imburse) - automated and privacy-preserving expense reimbursements
+
+### Gaming
+
+- [BattleZips](https://battlezips.com/) ([Source Code](https://github.com/BattleZips/BattleZips-Noir)) - on-chain Battleship
+- [Dappicom](https://github.com/tonk-labs/dappicom) - Nintendo Entertainment System (NES) emulator in Noir for proofs of gameplays / speedruns
+
+### Governance
+
+- [Nouns Anonymous Voting](https://github.com/aragonzkresearch/nouns-anonymous-voting) - privacy-preserving voting research project for NounsDAO
+
+### Identity
+ 
+- [Anon-Aadhaar](https://github.com/anon-aadhaar/anon-aadhaar-noir) - privacy-preserving verification of Aadhaar (Indian residence ID) through proofs revealing only selected identity information
+- [OpenPassport](https://github.com/openpassport-org/openpassport) - identity wallet supporting privacy-preserving proofs of goverment-issued IDs
+- [zkPassport](https://github.com/zkpassport/circuits) - privacy-preserving proofs of national passports
+
+### Social
+
+- [anoncast](https://github.com/Slokh/anoncast) - anonymous Tweets and Casts
+- [Rate Limiting Nullifiers](https://github.com/Rate-Limiting-Nullifier/noir-rln) - spam regulation in anonymous environments
+- [StealthNote](https://github.com/saleel/stealthnote) - message board for people in an organization to anonymously broadcast messages
+
+### Miscellaneous
+
+- [Winning projects from Aztec-sponsored hackathons](https://github.com/AztecProtocol/dev-rel/tree/main/hackathons#previous-winners)
 
 ## Learning
 
-### Learning By Doing
+### Interactive Tutorials
 
-- [Practice Exercises] [NoirGuardians](https://www.noirguardians.io/)
+- [NoirGuardians](https://www.noirguardians.io/)
   - 3 quests that use storytelling and lore to teach basic programming in Noir, along with some advanced features that Noir offers
   - Get a first introduction to the Noir language, and learn how to integrate Noir programs into Solidity contracts
-- [Educational Curriculum] [ZKCamp's Open Source Noir course](https://github.com/ZKCamp/aztec-noir-course)
+- [Zeronaut](https://github.com/eternauta1337/zeronaut) 
+
+### Educational Curriculums
+
+- [ZKCamp's Open Source Noir course](https://github.com/ZKCamp/aztec-noir-course)
   - 6 lectures to give participants the knowledge and skills necessary to build decentralized applications based on ZKPs using Noir
   - Lessons include ZKP Fundamentals; An Introduction to Aztec Ecosystem; Noir Basics; Building a Noir Application; and Advanced Noir
 - [Video Series] [BattleZips-Noir](https://www.youtube.com/playlist?list=PLWACGbvIsEgnR2aUCr9i-PpmTVhF5Zuik) ([Source Code](https://github.com/BattleZips/BattleZips-Noir))
   - Walkthrough of building an on-chain Battleships game using zero-knowledge
   - Follow along and build your own game using Noir
-- [Practice Exercises] [Circuit Examples](https://github.com/thor314/circuit-examples)
-  - Demonstration of dot products & Merkle proofs in Noir, in comparison to Circom and RISC0
-- [Educational Demo] [scaffold-eth-2-noir](https://github.com/Kryha/scaffold-eth-2-noir)
-  - Small demo of a dApp with ZK-age restriction. UI, smart contracts and ZK-circuits.
-  - Built with [scaffold-eth](https://github.com/scaffold-eth/scaffold-eth-2).
+ 
+### Examples
+
+- [Noir Examples](https://github.com/noir-lang/noir-examples) - reference examples of zero-knowledge applications in Noir
+- [Circuit Examples](https://github.com/thor314/circuit-examples) - demonstration implementation of dot products & Merkle proofs in Noir, Circom and RISC0
 
 ### Talks & Workshops
 
@@ -261,49 +340,6 @@ A curated list of resources for learning and programming in Noir.
   - ([Written Tutorial and Code](https://dev.to/turupawn/circuitos-de-aztec-noir-en-tu-navegador-zk-es-semana-3-78a))
 - [Building a ZK dApp in Cantonese](https://www.youtube.com/watch?v=IAQrO1j20pg)
   - [Slides](https://docs.google.com/presentation/d/1Zh8McXfdjREg0Y6iG9Q1_d-8Sgi7QT_7gJdOSmLqEEI/)
-
-## Projects
-
-A curated list of projects powered by Noir.
-
-### Authentication
-
-- Safe modules for privacy-preserving multi-sig
-  - [Dark Safe](https://github.com/colinnielsen/dark-safe)
-  - [zkSafe](https://github.com/1kx-network/zksafe/)
-  - [SAMM](https://github.com/oxor-io/samm-circuits) - zkEmail based
-- [Safecat](https://neimanslab.org/2024-02-19/safecat.html) - CLI tool for EdDSA Baby Jubjub Elliptic Curve signatures with Noir support
-- [zkLogin](https://github.com/olehmisar/zklogin) - Apple/Google account based authentication for EVM smart accounts
-
-### Commercial
-- [GitClaim](https://github.com/saleel/gitclaim) - privacy-preserving airdrop claims through proof of GitHub contributions
-- [OffShift](
-- [z-imburse](https://github.com/Mach-34/z-imburse) - automated and privacy-preserving expense reimbursements
-
-### Gaming
-
-- [BattleZips](https://battlezips.com/) ([Source Code](https://github.com/BattleZips/BattleZips-Noir)) - on-chain Battleship
-- [Dappicom](https://github.com/tonk-labs/dappicom) - Nintendo Entertainment System (NES) emulator in Noir for proofs of gameplays / speedruns
-
-### Governance
-
-- [Nouns Anonymous Voting](https://github.com/aragonzkresearch/nouns-anonymous-voting) - privacy-preserving voting research project for NounsDAO
-
-### Identity
-
-- [Anon-Aadhaar](https://github.com/anon-aadhaar/anon-aadhaar-noir) - privacy-preserving proofs of Indian Aadhaar ID
-- [OpenPassport](https://github.com/openpassport-org/openpassport) - identity wallet supporting privacy-preserving proofs of goverment-issued IDs
-- [zkPassport](https://github.com/zkpassport/circuits) - privacy-preserving proofs of national passports
-
-### Social
-
-- [anoncast](https://github.com/Slokh/anoncast) - anonymous Tweets and Casts
-- [Rate Limiting Nullifiers](https://github.com/Rate-Limiting-Nullifier/noir-rln) - spam regulation in anonymous environments
-- [StealthNote](https://github.com/saleel/stealthnote) - message board for people in an organization to anonymously broadcast messages
-
-### Miscellaneous
-
-- [Past hackathon winners](https://github.com/AztecProtocol/dev-rel/tree/main/hackathons#previous-winners)
 
 ## Contribute
 
