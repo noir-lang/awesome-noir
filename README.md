@@ -139,7 +139,6 @@ A curated list of resources for learning and programming in Noir.
 
 - [Griffin for BN254](https://github.com/TaceoLabs/noir-griffin) - zk-friendly hash function
 - [Hash to curve](https://github.com/skaunov/hash_to_curve) - Noir lib for hashing to bigger curves
-- [Poseidon{2}](https://github.com/TaceoLabs/noir-poseidon) - an improved implementation of Poseidon and its successor Poseidon2
 - [Poseidon2 in TypeScript](https://github.com/zkpassport/poseidon2) - a Poseidon2 library in pure TypeScript with support for the implementation used by Noir (over BN254)
 - [SHA-1](https://github.com/michaelelliot/noir-sha1) - a library for generating hashes using SHA-1 hashing function
 - [SHA-2](https://github.com/michaelelliot/noir-sha2) - a library for generating hashes using SHA-2 hashing function
