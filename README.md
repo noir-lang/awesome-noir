@@ -32,9 +32,11 @@ A curated list of resources for learning and programming in Noir.
 
 - [noir_java](https://github.com/visoftsolutions/noir_java) - Proving and verifying Noir programs in Java (and by extension Android)
 - [noir_js](https://github.com/noir-lang/noir/tree/master/tooling/noir_js) - compiling and executing Noir programs in JavaScript / TypeScript
-- [noir_rs](https://github.com/visoftsolutions/noir_rs) - Proving and verifying Noir programs in Rust
+- [Noir.rs](https://github.com/zkpassport/noir_rs) - Proving and verifying Noir programs in Rust (compatible with mobile architectures such as iOS and Android)
 - [noir_swift](https://github.com/visoftsolutions/noir_swift) - Proving and verifying Noir programs in Swift (and by extension macOS, IOS and watchOS)
 - [Python2Noir](https://github.com/storswiftlabs/python2noir) - Python to Noir transpiler
+- [Swoir](https://github.com/Swoir/swoir) - Proving and verifying Noir programs in Swift on iOS and MacOS
+- [Noirandroid](https://github.com/madztheo/noir_android) - Proving and verifying Noir programs in Kotlin on Android
 
 #### EVM
 
@@ -140,6 +142,7 @@ A curated list of resources for learning and programming in Noir.
 - [Griffin for BN254](https://github.com/TaceoLabs/noir-griffin) - zk-friendly hash function
 - [Hash to curve](https://github.com/skaunov/hash_to_curve) - Noir lib for hashing to bigger curves
 - [Poseidon{2}](https://github.com/TaceoLabs/noir-poseidon) - an improved implementation of Poseidon and its successor Poseidon2
+- [Poseidon2 in TypeScript](https://github.com/zkpassport/poseidon2) - a Poseidon2 library in pure TypeScript with support for the implementation used by Noir (over BN254)
 - [SHA-1](https://github.com/michaelelliot/noir-sha1) - a library for generating hashes using SHA-1 hashing function
 - [SHA-2](https://github.com/michaelelliot/noir-sha2) - a library for generating hashes using SHA-2 hashing function
 
