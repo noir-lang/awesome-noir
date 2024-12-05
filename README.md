@@ -15,8 +15,6 @@ A curated list of resources for learning and programming in Noir.
 - [GitHub](https://github.com/noir-lang/noir)
 - [Discord](https://discord.gg/RJdCBN373S)
 
-## Get Coding
-
 ### Dev Tools
 
 #### IDE
@@ -40,15 +38,16 @@ A curated list of resources for learning and programming in Noir.
 
 - [hardhat-noir](https://www.npmjs.com/package/hardhat-plugin-noir) - Hardhat plugin ([Source Code](https://github.com/olehmisar/hardhat-noir))
 
-#### Data manipulation
-
-- [Merkle Tree Generator](https://github.com/eyalron33/mpz/) - generate Noir-library-friendly Pedersen based Merkle trees
-- [Safecat](https://neimanslab.org/2024-02-19/safecat.html) - generate Noir-library-friendly EdDSA Baby Jubjub Elliptic Curve signatures
-
 #### Private shared states
 
 - [coNoir](https://github.com/TaceoLabs/co-snarks) - generate witness and prove Noir programs in a Multi-Party Computation network
 - [Kalypso](https://docs.marlin.org/user-guides/kalypso/tutorials/noir-circuits/) - generate witness and prove Noir programs in Trusted Execution Environments
+
+#### Library-related
+
+- [Merkle Tree Generator](https://github.com/eyalron33/mpz/) - generate Noir-library-friendly Pedersen based Merkle trees
+- [Safecat](https://neimanslab.org/2024-02-19/safecat.html) - generate Noir-library-friendly EdDSA Baby Jubjub Elliptic Curve signatures
+- [Poseidon2 in TypeScript](https://github.com/zkpassport/poseidon2) - a Poseidon2 library in pure TypeScript with support for the implementation used by Noir (over BN254)
 
 #### Security
 
@@ -77,6 +76,8 @@ A curated list of resources for learning and programming in Noir.
 - [ZK-Bench](https://zkbench.dev) - Compare Noir to other ZK frameworks (Risc Zero, Leo, Miden, etc)
 
 ### Libraries
+
+For library tooling (e.g. input generators, TypeScript implementations), refer to the [library-related tooling](#library-related) section.
 
 #### General
 - [Noir Directory](https://noir.directory) - registry of Noir libraries
@@ -139,7 +140,6 @@ A curated list of resources for learning and programming in Noir.
 
 - [Griffin for BN254](https://github.com/TaceoLabs/noir-griffin) - zk-friendly hash function
 - [Hash to curve](https://github.com/skaunov/hash_to_curve) - Noir lib for hashing to bigger curves
-- [Poseidon2 in TypeScript](https://github.com/zkpassport/poseidon2) - a Poseidon2 library in pure TypeScript with support for the implementation used by Noir (over BN254)
 - [SHA-1](https://github.com/michaelelliot/noir-sha1) - a library for generating hashes using SHA-1 hashing function
 - [SHA-2](https://github.com/michaelelliot/noir-sha2) - a library for generating hashes using SHA-2 hashing function
 
