@@ -30,10 +30,8 @@ A curated list of resources for learning and programming in Noir.
 
 #### Cross-language
 
-- [noir_java](https://github.com/visoftsolutions/noir_java) - Proving and verifying Noir programs in Java (and by extension Android)
 - [noir_js](https://github.com/noir-lang/noir/tree/master/tooling/noir_js) - compiling and executing Noir programs in JavaScript / TypeScript
 - [Noir.rs](https://github.com/zkpassport/noir_rs) - Proving and verifying Noir programs in Rust (compatible with mobile architectures such as iOS and Android)
-- [noir_swift](https://github.com/visoftsolutions/noir_swift) - Proving and verifying Noir programs in Swift (and by extension macOS, IOS and watchOS)
 - [Python2Noir](https://github.com/storswiftlabs/python2noir) - Python to Noir transpiler
 - [Swoir](https://github.com/Swoir/swoir) - Proving and verifying Noir programs in Swift on iOS and MacOS
 - [Noirandroid](https://github.com/madztheo/noir_android) - Proving and verifying Noir programs in Kotlin on Android
