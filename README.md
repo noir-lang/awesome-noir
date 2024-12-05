@@ -15,9 +15,146 @@ A curated list of resources for learning and programming in Noir.
 - [GitHub](https://github.com/noir-lang/noir)
 - [Discord](https://discord.gg/RJdCBN373S)
 
-### Dev Tools
+## Boilerplates
 
-#### IDE
+- [noir-starter](https://github.com/noir-lang/noir-starter) - project template containing examples using Noir with Vite + Hardhat and Foundry
+- [hardhat-noir-starter](https://github.com/olehmisar/hardhat-noir-starter) - project template with seamless Hardhat integration
+- [noir-library-starter](https://github.com/noir-lang/noir-library-starter) - library template
+- [noir-react-native-starter](https://github.com/madztheo/noir-react-native-starter) - mobile development template using React Native
+
+## Libraries
+
+For package management (e.g. library registry, CLI manager), refer to the [package management tooling](#package-management) section.
+
+For library tooling (e.g. input generators, TypeScript implementations), refer to the [library-related tooling](#library-related) section.
+
+### General
+
+- [Standard Library](https://github.com/noir-lang/noir/tree/master/noir_stdlib) - standard library that ships with all Noir releases
+- [ZK Kit Noir](https://github.com/privacy-scaling-explorations/zk-kit.noir) - collection of algorithm and utility libraries from Privacy & Scaling Explorations
+
+### Data Types
+
+#### Numerics
+
+- [BigNum](https://github.com/noir-lang/noir-bignum) - a library for arithmetic computations of large unsigned integers of any length
+- [Fraction](https://github.com/resurgencelabs/fraction) - a library for accessing fractional number data type in Noir, allowing results that aren't whole numbers
+- [ZKFloat](https://github.com/0x3327/ZKFloat) - a floating point library for Noir
+- [Complex Numbers](https://github.com/doctoruber/complexnr) - This library offers a comprehensive suite of operations for complex numbers
+- [Fixed Point Library](https://github.com/doctoruber/noir-fixed-point) - The FixedPoint library offers precise fixed-point arithmetic operations tailored for Noir
+
+#### Dates & Times
+
+- [Noir Dates](https://github.com/madztheo/noir-date) - A Noir library to parse and abstract away Dates
+- [DateTimeNr](https://github.com/doctoruber/DateTimeNr) - A Noir library to parse and abstract away DateTime objects
+
+### Data Type Manipulation
+
+#### General
+
+- [nodash](https://github.com/olehmisar/nodash) - utility library for working with various data types, inspired by Lodash
+
+#### Numerics
+
+- [Matrix Operations](https://github.com/storswiftlabs/matrix_operations) - a library for matrix operations provides functionality for performing various matrix operations
+- [Statistical Library](https://github.com/doctoruber/statnr) - Noir Statistical Library is a comprehensive library for statistical computations in the Noir language
+- [Quantized arithmetic](https://github.com/storswiftlabs/quantized_arithmetic) - a library for quantized value operations of zero-point quantization
+
+#### Bytes
+
+- [U(int)2B(ytes)](https://github.com/colinnielsen/noir-u2b) - a library for converting `u8`->`u120`s to `[u8]` array
+
+#### Texts
+
+- [Base64](https://github.com/vlayer-xyz/noir-base64) - a library for base64 encoding
+- [Noir Base64 Library](https://github.com/Envoy-VC/noir_base64_lib) - extension of `noir_base64` with support for Vectors and Base64 URL encoding and decoding
+- [JSON parser](https://github.com/noir-lang/noir_json_parser) - JSON string parsing, adheres to [IETF RFC 8259](https://datatracker.ietf.org/doc/html/rfc8259)
+- [String Utils](https://github.com/madztheo/noir-string-utils) - wrapper for String in Noir adding methods for common string operations
+- [String Search](https://github.com/noir-lang/noir_string_search) - proof of substring existence within a larger string
+- [zkRegEx](https://github.com/zkemail/zk-regex) - proof of Regular Expression (RegEx) verification
+
+#### Arrays
+
+- [Sort](https://github.com/noir-lang/noir_sort) - efficient sorting of fixed-sized arrays
+- [Sparse Array](https://github.com/noir-lang/sparse_array) - efficient immutable and mutable sparse arrays
+
+### Cryptography
+
+#### Elliptic Curves
+
+- [BigCurve](https://github.com/noir-lang/noir_bigcurve) - operations over elliptic curves instantiated with an arbitrary prime field
+- [Pairing over BLS12-381](https://github.com/ewynx/noir_bls12_381_pairing) - Pairing over BLS12-381
+
+#### Hashes
+
+- [Griffin for BN254](https://github.com/TaceoLabs/noir-griffin) - zk-friendly hash function
+- [Hash to curve](https://github.com/skaunov/hash_to_curve) - Noir lib for hashing to bigger curves
+- [SHA-1](https://github.com/michaelelliot/noir-sha1) - a library for generating hashes using SHA-1 hashing function
+- [SHA-2](https://github.com/michaelelliot/noir-sha2) - a library for generating hashes using SHA-2 hashing function
+
+#### Encryption
+
+- [AES](https://github.com/TaceoLabs/noir-aes) - a (naive) implementation of AES encryption and decryption
+- [ChaCha20 Implementation](https://github.com/SleepingShell/noir-chacha20) - a Noir implementation of ChaCha20 as defined by [RFC7539](https://www.rfc-editor.org/rfc/rfc7539)
+- [ElGamal Encryption](https://github.com/jat9292/noir-elgamal/) - Exponential ElGamal Encryption on the Baby Jubjub curve
+- [Hydra for BN254](https://github.com/TaceoLabs/noir-hydra) - symmetric encryption and decryption
+- [ECIES](https://github.com/informalsystems/noir-ecies) - simple implementation of ECIES on the Baby Jubjub curve
+- [ECDH](https://github.com/privacy-scaling-explorations/zk-kit.noir/tree/main/packages/ecdh) - simple implementation of ECDH on the Baby Jubjub curve
+
+#### Signatures
+
+- [RSA](https://github.com/noir-lang/noir_rsa) - RSA signature verification
+- [BLS12_381 Elliptic Curve Pairing and Signature Verification Library](https://github.com/onurinanc/noir-bls-signature)
+- [PLUME](https://github.com/distributed-lab/noir-plume) - Noir implementation of the https://blog.aayushg.com/nullifier/ library for zk-signatures
+- [WebAuthn/Passkeys](https://github.com/olehmisar/noir_webauthn) - Verification of WebAuthn/Passkeys signatures; verifies signatures produced by `credentials.get`
+- [JWT](https://github.com/saleel/noir-jwt) - Verification of JSON Web Tokens (JWTs) and prove claims
+- [Noir JWT](https://github.com/Envoy-VC/noir_jwt) - Verification of JSON Web Tokens (JWTs) and prove claims
+
+#### Merkle Trees
+
+- [Merkle Root](https://github.com/tomoima525/noir-merkle-root) - calculating Merkle root from given inputs of a Poseidon based Merkle tree
+- [Sparse Merkle Tree Implementation](https://github.com/jordan-public/zk-optimized-sparse-merkle-tree) - TypesSript library to generate optimized sparse merkle trees
+- [Sparse Merkle Tree Verifier](https://github.com/vocdoni/smtverifier-noir) - verification of sparse Merkle trees
+- [Sparse Merkle Tree Verify/Add/Update/Delete](https://github.com/privacy-scaling-explorations/zk-kit.noir/tree/main/packages/merkle-trees) - verification of (non-)membership proofs and add/update/delete leafs
+
+#### Message Authentication Code
+
+- [Noir HMAC](https://github.com/Envoy-VC/noir_hmac) - hash-based message authentication code
+
+#### Randomness
+
+- [Cryptographically Secure Pseudo-Random Number Generator](https://github.com/doctoruber/CSPRNG) - pseudo-random number generation
+
+### Ethereum
+
+- [ECrecover](https://github.com/colinnielsen/ecrecover-noir) - ECDSA signature verification and return of source Ethereum address
+- [Ethereum Storage Proof Verification](https://github.com/aragonzkresearch/noir-trie-proofs) - RLP decoding (in the form of look-up table construction) and Ethereum state and storage proof verification (or verification of any trie proof involving 32-byte long keys)
+
+### Social
+
+- [Noir Social Verify](https://github.com/Envoy-VC/noir_social_verify) - zkEmail based proof of GitHub, Google, LinkedIn and X accounts and account details
+
+### Machine Learning
+
+- [Convolution](https://github.com/storswiftlabs/convolution) - Convolutional Neural Network (CNN) library, including Convolutional layers, Pooling layers, and Linear (fully connected) layers
+- [ML](https://github.com/metavind/noir-ml) - neural networks
+- [SKProof](https://github.com/0x3327/skproof) - Scikit-learn compatible Python library for generating ZK proofs of execution
+- [zkML-Noir](https://github.com/storswiftlabs/zkml-noir) - Python ML model Noir transcoding, including various algorithms such as Decision tree, K-Means, XGBoost, FNN, CNN
+
+## Dev Tools
+
+### Package Management
+
+#### Library Registry
+
+- [Noir Directory](https://noir.directory) by Oleh
+- [npkg](https://npkg.walnut.dev/) by Walnut
+
+#### CLI Manager
+
+- [npkg](https://github.com/walnuthq/noir/tree/feat/package_cmd2) by Walnut
+
+### IDE
 
 - [VS Code Extension](https://marketplace.visualstudio.com/items?itemName=noir-lang.vscode-noir) - Syntax highlight, error highlight, codelens, etc. ([Source Code](https://github.com/noir-lang/vscode-noir))
 - [Neovim Plugin](https://github.com/noir-lang/noir-nvim) - Syntax highlight, error highlight, etc.
@@ -26,7 +163,7 @@ A curated list of resources for learning and programming in Noir.
 - [Tree-sitter-noir](https://github.com/hhamud/tree-sitter-noir) - Tree-sitter grammar for Noir language
 - [Emacs Tree-sitter Plugin](https://melpa.org/#/noir-ts-mode) - Syntax highlight ([Source Code](https://github.com/hhamud/noir-ts-mode))
 
-#### Cross-language
+### Cross-language
 
 - [noir_js](https://github.com/noir-lang/noir/tree/master/tooling/noir_js) - compiling and executing Noir programs in JavaScript / TypeScript
 - [Noir.rs](https://github.com/zkpassport/noir_rs) - Proving and verifying Noir programs in Rust (compatible with mobile architectures such as iOS and Android)
@@ -34,31 +171,24 @@ A curated list of resources for learning and programming in Noir.
 - [Swoir](https://github.com/Swoir/swoir) - Proving and verifying Noir programs in Swift on iOS and MacOS
 - [Noirandroid](https://github.com/madztheo/noir_android) - Proving and verifying Noir programs in Kotlin on Android
 
-#### EVM
+### EVM
 
 - [hardhat-noir](https://www.npmjs.com/package/hardhat-plugin-noir) - Hardhat plugin ([Source Code](https://github.com/olehmisar/hardhat-noir))
 
-#### Private shared states
+### Private shared states
 
 - [coNoir](https://github.com/TaceoLabs/co-snarks) - generate witness and prove Noir programs in a Multi-Party Computation network
 - [Kalypso](https://docs.marlin.org/user-guides/kalypso/tutorials/noir-circuits/) - generate witness and prove Noir programs in Trusted Execution Environments
 
-#### Library-related
+### Library-related
 
 - [Merkle Tree Generator](https://github.com/eyalron33/mpz/) - generate Noir-library-friendly Pedersen based Merkle trees
 - [Safecat](https://neimanslab.org/2024-02-19/safecat.html) - generate Noir-library-friendly EdDSA Baby Jubjub Elliptic Curve signatures
 - [Poseidon2 in TypeScript](https://github.com/zkpassport/poseidon2) - a Poseidon2 library in pure TypeScript with support for the implementation used by Noir (over BN254)
 
-#### Security
+### Security
 
 - [hunter](https://github.com/nfurfaro/hunter) - mutation-testing of Noir programs
-
-### Boilerplates
-
-- [noir-starter](https://github.com/noir-lang/noir-starter) - project template containing examples using Noir with Vite + Hardhat and Foundry
-- [hardhat-noir-starter](https://github.com/olehmisar/hardhat-noir-starter) - project template with seamless Hardhat integration
-- [noir-library-starter](https://github.com/noir-lang/noir-library-starter) - library template
-- [noir-react-native-starter](https://github.com/madztheo/noir-react-native-starter) - mobile development template using React Native
 
 ### Proving Backends
 
@@ -71,134 +201,15 @@ A curated list of resources for learning and programming in Noir.
 - [Groth16](https://github.com/TomAFrench/acvm-backend-groth16) (needs updating)
 - [Marlin](https://github.com/noir-lang/marlin_arkworks_backend) (needs updating)
 
-### Benchmarks
-
-- [ZK-Bench](https://zkbench.dev) - Compare Noir to other ZK frameworks (Risc Zero, Leo, Miden, etc)
-
-### Libraries
-
-For library tooling (e.g. input generators, TypeScript implementations), refer to the [library-related tooling](#library-related) section.
-
-#### General
-- [Noir Directory](https://noir.directory) - registry of Noir libraries
-- [Standard Library](https://github.com/noir-lang/noir/tree/master/noir_stdlib) - standard library that ships with all Noir releases
-- [ZK Kit Noir](https://github.com/privacy-scaling-explorations/zk-kit.noir) - collection of algorithm and utility libraries from Privacy & Scaling Explorations
-
-#### Data Types
-
-##### Numerics
-
-- [BigNum](https://github.com/noir-lang/noir-bignum) - a library for arithmetic computations of large unsigned integers of any length
-- [Fraction](https://github.com/resurgencelabs/fraction) - a library for accessing fractional number data type in Noir, allowing results that aren't whole numbers
-- [ZKFloat](https://github.com/0x3327/ZKFloat) - a floating point library for Noir
-- [Complex Numbers](https://github.com/doctoruber/complexnr) - This library offers a comprehensive suite of operations for complex numbers
-- [Fixed Point Library](https://github.com/doctoruber/noir-fixed-point) - The FixedPoint library offers precise fixed-point arithmetic operations tailored for Noir
-
-##### Dates & Times
-
-- [Noir Dates](https://github.com/madztheo/noir-date) - A Noir library to parse and abstract away Dates
-- [DateTimeNr](https://github.com/doctoruber/DateTimeNr) - A Noir library to parse and abstract away DateTime objects
-
-#### Data Type Manipulation
-
-##### General
-
-- [nodash](https://github.com/olehmisar/nodash) - utility library for working with various data types, inspired by Lodash
-
-##### Numerics
-
-- [Matrix Operations](https://github.com/storswiftlabs/matrix_operations) - a library for matrix operations provides functionality for performing various matrix operations
-- [Statistical Library](https://github.com/doctoruber/statnr) - Noir Statistical Library is a comprehensive library for statistical computations in the Noir language
-- [Quantized arithmetic](https://github.com/storswiftlabs/quantized_arithmetic) - a library for quantized value operations of zero-point quantization
-
-##### Bytes
-
-- [U(int)2B(ytes)](https://github.com/colinnielsen/noir-u2b) - a library for converting `u8`->`u120`s to `[u8]` array
-
-##### Texts
-
-- [Base64](https://github.com/vlayer-xyz/noir-base64) - a library for base64 encoding
-- [Noir Base64 Library](https://github.com/Envoy-VC/noir_base64_lib) - extension of `noir_base64` with support for Vectors and Base64 URL encoding and decoding
-- [JSON parser](https://github.com/noir-lang/noir_json_parser) - JSON string parsing, adheres to [IETF RFC 8259](https://datatracker.ietf.org/doc/html/rfc8259)
-- [String Utils](https://github.com/madztheo/noir-string-utils) - wrapper for String in Noir adding methods for common string operations
-- [String Search](https://github.com/noir-lang/noir_string_search) - proof of substring existence within a larger string
-- [zkRegEx](https://github.com/zkemail/zk-regex) - proof of Regular Expression (RegEx) verification
-
-##### Arrays
-
-- [Sort](https://github.com/noir-lang/noir_sort) - efficient sorting of fixed-sized arrays
-- [Sparse Array](https://github.com/noir-lang/sparse_array) - efficient immutable and mutable sparse arrays
-
-#### Cryptography
-
-##### Elliptic Curves
-
-- [BigCurve](https://github.com/noir-lang/noir_bigcurve) - operations over elliptic curves instantiated with an arbitrary prime field
-- [Pairing over BLS12-381](https://github.com/ewynx/noir_bls12_381_pairing) - Pairing over BLS12-381
-
-##### Hashes
-
-- [Griffin for BN254](https://github.com/TaceoLabs/noir-griffin) - zk-friendly hash function
-- [Hash to curve](https://github.com/skaunov/hash_to_curve) - Noir lib for hashing to bigger curves
-- [SHA-1](https://github.com/michaelelliot/noir-sha1) - a library for generating hashes using SHA-1 hashing function
-- [SHA-2](https://github.com/michaelelliot/noir-sha2) - a library for generating hashes using SHA-2 hashing function
-
-##### Encryption
-
-- [AES](https://github.com/TaceoLabs/noir-aes) - a (naive) implementation of AES encryption and decryption
-- [ChaCha20 Implementation](https://github.com/SleepingShell/noir-chacha20) - a Noir implementation of ChaCha20 as defined by [RFC7539](https://www.rfc-editor.org/rfc/rfc7539)
-- [ElGamal Encryption](https://github.com/jat9292/noir-elgamal/) - Exponential ElGamal Encryption on the Baby Jubjub curve
-- [Hydra for BN254](https://github.com/TaceoLabs/noir-hydra) - symmetric encryption and decryption
-- [ECIES](https://github.com/informalsystems/noir-ecies) - simple implementation of ECIES on the Baby Jubjub curve
-- [ECDH](https://github.com/privacy-scaling-explorations/zk-kit.noir/tree/main/packages/ecdh) - simple implementation of ECDH on the Baby Jubjub curve
-
-##### Signatures
-
-- [RSA](https://github.com/noir-lang/noir_rsa) - RSA signature verification
-- [BLS12_381 Elliptic Curve Pairing and Signature Verification Library](https://github.com/onurinanc/noir-bls-signature)
-- [PLUME](https://github.com/distributed-lab/noir-plume) - Noir implementation of the https://blog.aayushg.com/nullifier/ library for zk-signatures
-- [WebAuthn/Passkeys](https://github.com/olehmisar/noir_webauthn) - Verification of WebAuthn/Passkeys signatures; verifies signatures produced by `credentials.get`
-- [JWT](https://github.com/saleel/noir-jwt) - Verification of JSON Web Tokens (JWTs) and prove claims
-- [Noir JWT](https://github.com/Envoy-VC/noir_jwt) - Verification of JSON Web Tokens (JWTs) and prove claims
-
-##### Merkle Trees
-
-- [Merkle Root](https://github.com/tomoima525/noir-merkle-root) - calculating Merkle root from given inputs of a Poseidon based Merkle tree
-- [Sparse Merkle Tree Implementation](https://github.com/jordan-public/zk-optimized-sparse-merkle-tree) - TypesSript library to generate optimized sparse merkle trees
-- [Sparse Merkle Tree Verifier](https://github.com/vocdoni/smtverifier-noir) - verification of sparse Merkle trees
-- [Sparse Merkle Tree Verify/Add/Update/Delete](https://github.com/privacy-scaling-explorations/zk-kit.noir/tree/main/packages/merkle-trees) - verification of (non-)membership proofs and add/update/delete leafs
-
-##### Message Authentication Code
-
-- [Noir HMAC](https://github.com/Envoy-VC/noir_hmac) - hash-based message authentication code
-
-##### Randomness
-
-- [Cryptographically Secure Pseudo-Random Number Generator](https://github.com/doctoruber/CSPRNG) - pseudo-random number generation
-
-#### Ethereum
-
-- [ECrecover](https://github.com/colinnielsen/ecrecover-noir) - ECDSA signature verification and return of source Ethereum address
-- [Ethereum Storage Proof Verification](https://github.com/aragonzkresearch/noir-trie-proofs) - RLP decoding (in the form of look-up table construction) and Ethereum state and storage proof verification (or verification of any trie proof involving 32-byte long keys)
-
-#### Social
-
-- [Noir Social Verify](https://github.com/Envoy-VC/noir_social_verify) - zkEmail based proof of GitHub, Google, LinkedIn and X accounts and account details
-
-#### Machine Learning
-
-- [Convolution](https://github.com/storswiftlabs/convolution) - Convolutional Neural Network (CNN) library, including Convolutional layers, Pooling layers, and Linear (fully connected) layers
-- [ML](https://github.com/metavind/noir-ml) - neural networks
-- [SKProof](https://github.com/0x3327/skproof) - Scikit-learn compatible Python library for generating ZK proofs of execution
-- [zkML-Noir](https://github.com/storswiftlabs/zkml-noir) - Python ML model Noir transcoding, including various algorithms such as Decision tree, K-Means, XGBoost, FNN, CNN
-
 ## Projects
-
-A curated list of projects powered by Noir.
 
 ### General
 
 - [ZKEmail](https://github.com/zkemail/zkemail.nr) - privacy-preserving proof of emails
+
+### Benchmarks
+
+- [ZK-Bench](https://zkbench.dev) - Compare Noir to other ZK frameworks (Risc Zero, Leo, Miden, etc)
 
 ### Authentication
 
