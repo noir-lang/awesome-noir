@@ -188,7 +188,8 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 
 ### Security
 
-- [coq-of-noir](https://github.com/formal-land/coq-of-noir) - formal verification for Noir programs
+- [coq-of-noir](https://github.com/formal-land/coq-of-noir) - formal verification of Noir programs with Coq
+- [lampe](https://github.com/reilabs/lampe) - formal verification of Noir programs with Lean
 - [hunter](https://github.com/nfurfaro/hunter) - mutation-testing of Noir programs
 
 ### Proving Backends
