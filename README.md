@@ -128,7 +128,7 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 ### Ethereum
 
 - [ECrecover](https://github.com/colinnielsen/ecrecover-noir) - ECDSA signature verification and return of source Ethereum address
-- [Ethereum Storage Proof Verification](https://github.com/aragonzkresearch/noir-trie-proofs) - RLP decoding (in the form of look-up table construction) and Ethereum state and storage proof verification (or verification of any trie proof involving 32-byte long keys)
+- [Ethereum Storage Proof](https://github.com/olehmisar/vlayer-monorepo) - proving and verifying historical Ethereum / EVM accounts, storage, logs, receipts & transactions
 
 ### Social
 
