@@ -5,7 +5,7 @@ A curated list of resources for learning and programming in Noir.
 ⚠️ This repository or the contained links are not endorsed as safe and secure by Aztec Labs or the Noir team. Users are advised to exercise caution before utilizing any content or code provided herein.
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/Noir.svg?style=social&label=Follow%20%40Noir)](https://twitter.com/NoirLang)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/NoirLang)
 
 ---
 
