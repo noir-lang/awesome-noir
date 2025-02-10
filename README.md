@@ -150,11 +150,11 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 #### Library Registry
 
 - [Noir Directory](https://noir.directory) by Oleh
-- [npkg](https://npkg.walnut.dev/) by Walnut
+- [Noir Libs](https://noir-libs.org/) by Walnut
 
 #### CLI Manager
 
-- [npkg](https://github.com/walnuthq/noir/tree/feat/package_cmd2) by Walnut
+- [noir-libs](https://github.com/walnuthq/noir-libs) by Walnut
 
 ### IDE
 
