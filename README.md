@@ -43,6 +43,7 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 - [ZKFloat](https://github.com/0x3327/ZKFloat) - a floating point library for Noir
 - [Complex Numbers](https://github.com/doctoruber/complexnr) - This library offers a comprehensive suite of operations for complex numbers
 - [Fixed Point Library](https://github.com/doctoruber/noir-fixed-point) - The FixedPoint library offers precise fixed-point arithmetic operations tailored for Noir
+- [Fixed Point Library for scale 2^-16](https://github.com/hashcloak/noir-fixed-point) - an optimized fixed point arithmetic library designed for scale 2^-16.
 
 #### Dates & Times
 
