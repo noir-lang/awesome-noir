@@ -186,7 +186,7 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 
 ### Private shared states
 
-- [coNoir](https://github.com/TaceoLabs/co-snarks) - generate witness and prove Noir programs in a Multi-Party Computation network
+- [coSNARKs](https://github.com/TaceoLabs/co-snarks) - generate witness and prove Noir programs in a Multi-Party Computation network
 - [Kalypso](https://docs.marlin.org/user-guides/kalypso/tutorials/noir-circuits/) - generate witness and prove Noir programs in Trusted Execution Environments
 
 ### Library-related
