@@ -14,6 +14,7 @@ A curated list of resources for learning and programming in Noir.
 - [Docs](https://noir-lang.org/)
 - [GitHub](https://github.com/noir-lang/noir)
 - [Discord](https://discord.gg/RJdCBN373S)
+- [Noir Forum](https://forum.aztec.network/c/noir/7)
 
 ## Boilerplates
 
