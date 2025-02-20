@@ -207,6 +207,7 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 - [Plonky2](https://github.com/blocksense-network/noir) by Blocksense
 - [Plonky2](https://github.com/eryxcoop/acvm-backend-plonky2) by Eryx
 - [Sonobe (Nova, HyperNova)](https://github.com/privacy-scaling-explorations/sonobe) by 0xPARC and PSE
+- [coSNARKs](https://github.com/TaceoLabs/co-snarks) by Taceo Labs
 - [Plonky3](https://github.com/vacekj/air-fried-gyatt) by Josef (needs updating)
 - [Halo2](https://github.com/Ethan-000/halo2_backend) by Ethan (needs updating)
 - [Groth16](https://github.com/TomAFrench/acvm-backend-groth16) (needs updating)
