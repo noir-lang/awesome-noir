@@ -92,9 +92,11 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 
 - [Griffin for BN254](https://github.com/TaceoLabs/noir-griffin) - zk-friendly Griffin hashes
 - [Hash to curve](https://github.com/skaunov/hash_to_curve) - hashing to bigger curves
-- [SHA-1](https://github.com/michaelelliot/noir-sha1) - SHA-1 hashes
-- [SHA-2](https://github.com/michaelelliot/noir-sha2) - SHA-2 hashes
-- [noir-hashes](https://github.com/yash25198/noir-hashes) - variable length SHA512 and SHA384 hashes
+- [Keccak256](https://github.com/noir-lang/keccak256) - Keccak256 hashes
+- [MiMC](https://github.com/noir-lang/mimc) - MiMC hashes
+- [SHA1](https://github.com/michaelelliot/noir-sha1) - SHA1 hashes
+- [SHA256](https://github.com/noir-lang/sha256) - SHA256 hashes
+- [SHA512](https://github.com/noir-lang/sha512) - SHA512 and SHA384 hashes
 
 #### Encryption
 
