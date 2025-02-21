@@ -109,12 +109,13 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 
 #### Signatures
 
-- [RSA](https://github.com/noir-lang/noir_rsa) - RSA signature verification
 - [BLS12_381 Elliptic Curve Pairing and Signature Verification Library](https://github.com/onurinanc/noir-bls-signature)
-- [PLUME](https://github.com/distributed-lab/noir-plume) - Noir implementation of the https://blog.aayushg.com/nullifier/ library for zk-signatures
-- [WebAuthn/Passkeys](https://github.com/olehmisar/noir_webauthn) - Verification of WebAuthn/Passkeys signatures; verifies signatures produced by `credentials.get`
+- [EdDSA](https://github.com/noir-lang/eddsa) - EdDSA signature verification
 - [JWT](https://github.com/saleel/noir-jwt) - Verification of JSON Web Tokens (JWTs) and prove claims
-- [Noir JWT](https://github.com/Envoy-VC/noir_jwt) - Verification of JSON Web Tokens (JWTs) and prove claims
+- [PLUME](https://github.com/signorecello/zk-nullifier-sig/) - ECDSA-based nullifiers
+- [RSA](https://github.com/noir-lang/noir_rsa) - RSA signature verification
+- [Schnorr](https://github.com/noir-lang/schnorr) - Schnorr signature verification
+- [WebAuthn/Passkeys](https://github.com/olehmisar/noir_webauthn) - Verification of WebAuthn/Passkeys signatures; verifies signatures produced by `credentials.get`
 
 #### Merkle Trees
 
