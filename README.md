@@ -271,7 +271,9 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 - [NoirGuardians](https://www.noirguardians.io/)
   - 3 quests that use storytelling and lore to teach basic programming in Noir, along with some advanced features that Noir offers
   - Get a first introduction to the Noir language, and learn how to integrate Noir programs into Solidity contracts
-- [Zeronaut](https://github.com/eternauta1337/zeronaut) 
+- [Zeronaut](https://github.com/eternauta1337/zeronaut)
+- [Noirlings](https://github.com/satyambnsal/noirlings)
+  - A hands-on, interactive way to learn Noir programming language through practical exercises.  
 
 ### Educational Curriculums
 
