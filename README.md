@@ -326,6 +326,7 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 - Noir 101 for Solidity devs in ([English](https://mirror.xyz/crisgarner.eth/IRRxnP-HVP-7qLZ-bTI2HRpKTmSRPCDl-Q6gm2NTj4g)) and ([Spanish](https://mirror.xyz/crisgarner.eth/Iek7PhbhU4WpIJ6eixFq80_7R6czH7fbdCoN0Bd7NfI))
 - [Privacy-preserving KYC with Noir](https://medium.com/@tisura/privacy-preserving-kyc-57002ab8d3f2)
 - [An incomplete guide to zk-KYC apps](https://medium.com/@tisura/an-incomplete-guide-to-zk-kyc-apps-d7b4c684795c)
+- [Build a Decentralized Voting Application w/ Noir](https://threesigma.xyz/blog/build-noir-decentralized-voting-application)
 
 ### International Resources
 
