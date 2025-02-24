@@ -239,6 +239,10 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 - [GitClaim](https://github.com/saleel/gitclaim) - privacy-preserving airdrop claims through proof of GitHub contributions
 - [z-imburse](https://github.com/Mach-34/z-imburse) - automated and privacy-preserving expense reimbursements
 
+### DeFi
+
+- [Mezcal](https://github.com/olehmisar/mezcal) - a cutting edge on-chain limit order book dark pool.
+
 ### Gaming
 
 - [BattleZips](https://battlezips.com/) ([Source Code](https://github.com/BattleZips/BattleZips-Noir)) - on-chain Battleship
