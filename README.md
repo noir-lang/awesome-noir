@@ -220,6 +220,7 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 
 ### General
 
+- [AnonRadar](https://www.anonradar.xyz/) - registry of Noir projects
 - [ZKEmail](https://github.com/zkemail/zkemail.nr) - privacy-preserving proof of emails
 
 ### Benchmarks
