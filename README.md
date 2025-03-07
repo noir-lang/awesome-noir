@@ -2,6 +2,9 @@
 
 A curated list of resources for learning and programming in Noir.
 
+Click the hamburger button slightly upper-right from here to access the table of content:
+<img width="687" alt="Screenshot of hamburger button's location" src="https://github.com/user-attachments/assets/8ae07a73-a5a5-475c-8a59-6aae13fc9e73" />
+
 ⚠️ This repository or the contained links are not endorsed as safe and secure by Aztec Labs or the Noir team. Users are advised to exercise caution before utilizing any content or code provided herein.
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
