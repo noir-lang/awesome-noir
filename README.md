@@ -267,7 +267,7 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 ### Social
 
 - [anon.world](https://github.com/Slokh/anonworld) - social media with optional anonymity
-- [Rate Limiting Nullifiers](https://github.com/Rate-Limiting-Nullifier/noir-rln) - spam regulation in anonymous environments
+- [Rate Limiting Nullifiers](https://github.com/curryrasul/rln.nr) - spam regulation/rate-limiting in anonymous environments
 - [StealthNote](https://github.com/saleel/stealthnote) - message board for people in an organization to anonymously broadcast messages
 
 ### Miscellaneous
