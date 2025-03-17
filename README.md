@@ -144,6 +144,7 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 ### Social
 
 - [Noir Social Verify](https://github.com/Envoy-VC/noir_social_verify) - zkEmail based proof of GitHub, Google, LinkedIn and X accounts and account details
+- [Noir Semaphore](https://github.com/distributed-lab/noir-semaphore) - Semaphore Protocol adapted to use Noir.
 
 ### Machine Learning
 
