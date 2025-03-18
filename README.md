@@ -311,8 +311,6 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
   - Simple demo and test
 - [20 mins] [Private Value Transfer in 10 Lines](https://www.youtube.com/watch?v=wYqqXas8_O4) ([Source Code](https://github.com/vezenovm/simple_shield))
   - Tornado-like private asset transfer using Merkle proofs
-- [45 mins] [Outlandish Noir Stuff; Workshop at ETHCC](https://www.youtube.com/watch?v=pdrZ7Y__obU)
-  - How to use Noir to build a bunch of outlandish stuff
 - [1 hr] [Circuit Safety and an Introduction to Noir](https://www.youtube.com/watch?v=rLvu61DA-hk)
   - Common circuit bugs
   - Proving system vulnerabilities
