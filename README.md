@@ -221,6 +221,7 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 - [Halo2](https://github.com/Ethan-000/halo2_backend) by Ethan (needs updating)
 - [Groth16](https://github.com/TomAFrench/acvm-backend-groth16) (needs updating)
 - [Marlin](https://github.com/noir-lang/marlin_arkworks_backend) (needs updating)
+- [gnark](https://github.com/lambdaclass/noir_backend_using_gnark) (needs updating)
 
 ## Projects
 
