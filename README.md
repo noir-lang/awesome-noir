@@ -101,6 +101,7 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 - [SHA1](https://github.com/michaelelliot/noir-sha1) - SHA1 hashes
 - [SHA256](https://github.com/noir-lang/sha256) - SHA256 hashes
 - [SHA512](https://github.com/noir-lang/sha512) - SHA512 and SHA384 hashes
+- [RIPEMD160](https://github.com/distributed-lab/noir-ripemd160) - RIPEMD160 hashes
 
 #### Encryption
 
