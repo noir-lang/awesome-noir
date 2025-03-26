@@ -27,6 +27,7 @@ Click the hamburger button slightly upper-right from here to access the table of
 - [noir-library-starter](https://github.com/noir-lang/noir-library-starter) - library template
 - [noir-react-native-starter](https://github.com/madztheo/noir-react-native-starter) - mobile development template using React Native
 - [nargo binary examples](https://github.com/noir-lang/noir/tree/master/examples) - barebones use of nargo binary (and a proving backend) from: simple prove/verify, codegen, to recursion
+- [noir-recursive](https://github.com/teddav/noir-recursive) - recursion circuit template with UltraHonk in javascript
 
 ## Libraries
 
@@ -245,6 +246,7 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 - [zkLogin](https://github.com/olehmisar/zklogin) - Apple/Google account based authentication for EVM smart accounts
 
 ### Commercial
+
 - [GitClaim](https://github.com/saleel/gitclaim) - privacy-preserving airdrop claims through proof of GitHub contributions
 - [z-imburse](https://github.com/Mach-34/z-imburse) - automated and privacy-preserving expense reimbursements
 
@@ -262,7 +264,7 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 - [Nouns Anonymous Voting](https://github.com/aragonzkresearch/nouns-anonymous-voting) - privacy-preserving voting research project for NounsDAO
 
 ### Identity
- 
+
 - [Anon-Aadhaar](https://github.com/anon-aadhaar/anon-aadhaar-noir) - privacy-preserving verification of Aadhaar (Indian residence ID) through proofs revealing only selected identity information
 - [OpenPassport](https://github.com/openpassport-org/openpassport) - identity wallet supporting privacy-preserving proofs of goverment-issued IDs
 - [zkPassport](https://github.com/zkpassport/circuits) - privacy-preserving proofs of national passports
@@ -285,8 +287,7 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
   - 3 quests that use storytelling and lore to teach basic programming in Noir, along with some advanced features that Noir offers
   - Get a first introduction to the Noir language, and learn how to integrate Noir programs into Solidity contracts
 - [Zeronaut](https://github.com/eternauta1337/zeronaut)
-- [Noirlings](https://github.com/satyambnsal/noirlings)
-  - A hands-on, interactive way to learn Noir programming language through practical exercises.  
+- [Noirlings](https://github.com/satyambnsal/noirlings) - A hands-on, interactive way to learn Noir programming language through practical exercises.
 
 ### Educational Curriculums
 
@@ -296,7 +297,7 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 - [Video Series] [BattleZips-Noir](https://www.youtube.com/playlist?list=PLWACGbvIsEgnR2aUCr9i-PpmTVhF5Zuik) ([Source Code](https://github.com/BattleZips/BattleZips-Noir))
   - Walkthrough of building an on-chain Battleships game using zero-knowledge
   - Follow along and build your own game using Noir
- 
+
 ### Examples
 
 - [Noir Examples](https://github.com/noir-lang/noir-examples) - reference examples of zero-knowledge applications in Noir
@@ -322,10 +323,10 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 - [2 hrs] [ZK HACK III - Introduction to Noir](https://www.youtube.com/watch?v=5CziMfChveY) ([Source Code](https://github.com/joss-aztec/quadratic_voting_noir))
   - Code-together: Quadratic Voting
 - [1.1 hrs] [Noir on Scroll Workshop](https://www.youtube.com/watch?v=xLQfMu-shYA) ([Part of Source Code](https://github.com/Turupawn/NoirScrollDemo))
-- Noir xmas camp 2024 [ 3 session noir learning bootcamp ] 
+- Noir xmas camp 2024 [ 3 session noir learning bootcamp ]
   - [1.08 hrs] [Getting Started with Noir](https://youtu.be/0u1n7JRSf2k?si=Z5pO85-ohNzNhP3D)
   - [1.05 hrs] [Building Applications with Noir](https://youtu.be/KxWNFIMyFiQ?si=cJmZSgpAbfeTOWxj)
-  - [1.01 hrs] [Circuit Security & Production Readiness with Noir](https://youtu.be/pNI_56b7Bdo?si=LU1wQ-2Igd4Z7oNA) 
+  - [1.01 hrs] [Circuit Security & Production Readiness with Noir](https://youtu.be/pNI_56b7Bdo?si=LU1wQ-2Igd4Z7oNA)
 
 ### Blog Posts & Articles
 
