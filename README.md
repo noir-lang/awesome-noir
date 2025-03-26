@@ -27,7 +27,7 @@ Click the hamburger button slightly upper-right from here to access the table of
 - [noir-library-starter](https://github.com/noir-lang/noir-library-starter) - library template
 - [noir-react-native-starter](https://github.com/madztheo/noir-react-native-starter) - mobile development template using React Native
 - [nargo binary examples](https://github.com/noir-lang/noir/tree/master/examples) - barebones use of nargo binary (and a proving backend) from: simple prove/verify, codegen, to recursion
-- [noir recursion](https://github.com/teddav/noir-recursive) - recursion circuit template with UltraHonk in javascript
+- [noir-recursive](https://github.com/teddav/noir-recursive) - recursion circuit template with UltraHonk in javascript
 
 ## Libraries
 
