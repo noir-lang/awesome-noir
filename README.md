@@ -86,6 +86,10 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 - [Sort](https://github.com/noir-lang/noir_sort) - efficient sorting of fixed-sized arrays
 - [Sparse Array](https://github.com/noir-lang/sparse_array) - efficient immutable and mutable sparse arrays
 
+#### Collections
+
+- [Lib_LinkList](https://github.com/0xKarl98/Lib_LinkList) - A memory-efficient doubly-linked list implementation for Noir that supports constant-time operations at both ends
+
 ### Cryptography
 
 #### Elliptic Curves
