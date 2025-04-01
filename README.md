@@ -178,6 +178,10 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 - [Tree-sitter-noir](https://github.com/hhamud/tree-sitter-noir) - Tree-sitter grammar for Noir language
 - [Emacs Tree-sitter Plugin](https://melpa.org/#/noir-ts-mode) - Syntax highlight ([Source Code](https://github.com/hhamud/noir-ts-mode))
 
+### Linting
+
+- [Noir Static Analyzer](https://github.com/walnuthq/noir-static-analyzer) by Walnut
+
 ### Performance
 
 - [Noir + Barretenberg Profiler](https://github.com/noir-lang/noir/tree/master/tooling/profiler) - Opcode, execution and proving costs flamegraphing tool
