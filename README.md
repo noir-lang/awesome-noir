@@ -236,7 +236,7 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 ### Benchmarks
 
 - [Noir Development Bench](https://noir-lang.github.io/noir/dev/bench/) - Compilation and execution memory and time benchmarks of latest Noir GitHub commits
-- [ZK-Bench](https://zkbench.dev) - Compare Noir to other ZK frameworks (Risc Zero, Leo, Miden, etc)
+- [ZK-Bench](https://zkbench.dev) - Compare Noir to other ZK frameworks (Risc Zero, Leo, Miden, etc) (needs updating)
 
 ### Authentication
 
