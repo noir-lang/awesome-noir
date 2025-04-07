@@ -96,6 +96,7 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 
 #### Hashes
 
+- [Poseidon, Poseidon2](https://github.com/TaceoLabs/noir-poseidon) - zk-friendly Poseidon and Poseidon2 hashes
 - [Griffin for BN254](https://github.com/TaceoLabs/noir-griffin) - zk-friendly Griffin hashes
 - [Hash to curve](https://github.com/skaunov/hash_to_curve) - hashing to bigger curves
 - [Keccak256](https://github.com/noir-lang/keccak256) - Keccak256 hashes
