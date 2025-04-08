@@ -169,6 +169,7 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 #### CLI Manager
 
 - [noir-libs](https://github.com/walnuthq/noir-libs) by Walnut
+- [noirupi](https://github.com/michaelelliot/noirupi) - Interactive noirup and bbup. Update noir and bb interactively using `noirupi` and `bbupi`
 
 ### IDE
 
