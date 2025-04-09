@@ -96,15 +96,11 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 
 #### Hashes
 
-- [Poseidon, Poseidon2](https://github.com/TaceoLabs/noir-poseidon) - zk-friendly Poseidon and Poseidon2 hashes
-- [Griffin for BN254](https://github.com/TaceoLabs/noir-griffin) - zk-friendly Griffin hashes
-- [Hash to curve](https://github.com/skaunov/hash_to_curve) - hashing to bigger curves
 - [Keccak256](https://github.com/noir-lang/keccak256) - Keccak256 hashes
 - [MiMC](https://github.com/noir-lang/mimc) - MiMC hashes
-- [SHA1](https://github.com/michaelelliot/noir-sha1) - SHA1 hashes
+- [RIPEMD160](https://github.com/distributed-lab/noir-ripemd160) - RIPEMD160 hashes
 - [SHA256](https://github.com/noir-lang/sha256) - SHA256 hashes
 - [SHA512](https://github.com/noir-lang/sha512) - SHA512 and SHA384 hashes
-- [RIPEMD160](https://github.com/distributed-lab/noir-ripemd160) - RIPEMD160 hashes
 
 #### Encryption
 
