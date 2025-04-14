@@ -292,6 +292,7 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
   - Get a first introduction to the Noir language, and learn how to integrate Noir programs into Solidity contracts
 - [Zeronaut](https://github.com/eternauta1337/zeronaut)
 - [Noirlings](https://github.com/satyambnsal/noirlings) - A hands-on, interactive way to learn Noir programming language through practical exercises.
+- [Glass Bridge With Noir](https://zkdev.net/docs/tutorial/glass-bridge) – A browser-based game that demonstrates Zero-Knowledge Proofs using Noir. Learn by proving a secret path without revealing it.
 
 ### Educational Curriculums
 
