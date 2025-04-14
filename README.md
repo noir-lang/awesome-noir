@@ -124,10 +124,7 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 
 #### Merkle Trees
 
-- [Merkle Root](https://github.com/tomoima525/noir-merkle-root) - calculating Merkle root from given inputs of a Poseidon based Merkle tree
-- [Sparse Merkle Tree Implementation](https://github.com/jordan-public/zk-optimized-sparse-merkle-tree) - TypesSript library to generate optimized sparse merkle trees
-- [Sparse Merkle Tree Verifier](https://github.com/vocdoni/smtverifier-noir) - verification of sparse Merkle trees
-- [Sparse Merkle Tree Verify/Add/Update/Delete](https://github.com/privacy-scaling-explorations/zk-kit.noir/tree/main/packages/merkle-trees) - verification of (non-)membership proofs and add/update/delete leaves
+- [ZK-Kit: Merkle Trees](https://github.com/privacy-scaling-explorations/zk-kit.noir/tree/main/packages/merkle-trees) - verification of (non-)membership proofs and add/update/delete leaves
 
 #### Message Authentication Code
 
