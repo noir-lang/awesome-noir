@@ -116,6 +116,7 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 
 - [BLS12_381 Elliptic Curve Pairing and Signature Verification Library](https://github.com/onurinanc/noir-bls-signature)
 - [EdDSA](https://github.com/noir-lang/eddsa) - EdDSA signature verification
+- [ECDSA](https://github.com/zkpassport/noir-ecdsa) - ECDSA (NIST and Brainpool curves) signature verification
 - [JWT](https://github.com/saleel/noir-jwt) - Verification of JSON Web Tokens (JWTs) and prove claims
 - [PLUME](https://github.com/signorecello/zk-nullifier-sig/) - ECDSA-based nullifiers
 - [RSA](https://github.com/noir-lang/noir_rsa) - RSA signature verification
