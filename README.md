@@ -119,7 +119,7 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 - [ECDSA](https://github.com/zkpassport/noir-ecdsa) - ECDSA (NIST and Brainpool curves) signature verification
 - [JWT](https://github.com/saleel/noir-jwt) - Verification of JSON Web Tokens (JWTs) and prove claims
 - [PLUME](https://github.com/signorecello/zk-nullifier-sig/) - ECDSA-based nullifiers
-- [RSA](https://github.com/noir-lang/noir_rsa) - RSA signature verification
+- [RSA](https://github.com/zkpassport/noir_rsa) - RSA signature verification
 - [Schnorr](https://github.com/noir-lang/schnorr) - Schnorr signature verification
 - [WebAuthn/Passkeys](https://github.com/olehmisar/noir_webauthn) - Verification of WebAuthn/Passkeys signatures; verifies signatures produced by `credentials.get`
 
