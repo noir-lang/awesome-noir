@@ -193,7 +193,7 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 
 ### EVM
 
-- [hardhat-noir](https://www.npmjs.com/package/hardhat-plugin-noir) - Hardhat plugin ([Source Code](https://github.com/olehmisar/hardhat-noir))
+- [hardhat-noir](https://www.npmjs.com/package/hardhat-noir) - Hardhat plugin ([Source Code](https://github.com/olehmisar/hardhat-noir))
 - [foundry-noir-helper](https://github.com/0xnonso/foundry-noir-helper) - helper library for working with Noir circuits within Foundry.
 
 ### Private shared states
