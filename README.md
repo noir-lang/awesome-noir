@@ -233,6 +233,7 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 
 - [AnonRadar](https://www.anonradar.xyz/) - registry of Noir projects
 - [ZKEmail](https://github.com/zkemail/zkemail.nr) - privacy-preserving proof of emails
+- [MoPro](https://github.com/zkmopro) - toolkit for cross-platform ZK app development on mobile
 
 ### Benchmarks
 
