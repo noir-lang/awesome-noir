@@ -192,10 +192,10 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 
 #### Mobile development
 
-- [MoPro](https://github.com/zkmopro) - prove and verify Noir programs on mobile (Android and iOS)
-- [Noir.rs](https://github.com/zkpassport/noir_rs) - prove and verify Noir programs with Rust
-- [Swoir](https://github.com/Swoir/swoir) - prove and verify Noir programs with Swift on iOS and MacOS
-- [Noir Android](https://github.com/madztheo/noir_android) - prove and verify Noir programs with Kotlin on Android
+- [MoPro](https://github.com/zkmopro) by PSE - prove and verify Noir programs on mobile (Android and iOS)
+- [Noir.rs](https://github.com/zkpassport/noir_rs) by ZKPassport - prove and verify Noir programs with Rust
+- [Swoir](https://github.com/Swoir/swoir) by ZKPassport - prove and verify Noir programs with Swift on iOS and MacOS
+- [Noir Android](https://github.com/madztheo/noir_android) by ZKPassport - prove and verify Noir programs with Kotlin on Android
 
 ### EVM
 
@@ -238,7 +238,7 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 ### General
 
 - [AnonRadar](https://www.anonradar.xyz/) - registry of Noir projects
-- [ZKEmail](https://github.com/zkemail/zkemail.nr) - privacy-preserving proof of emails
+- [ZK Email](https://github.com/zkemail/zkemail.nr) - privacy-preserving proof of emails
 
 ### Benchmarks
 
@@ -274,8 +274,8 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 ### Identity
 
 - [Anon-Aadhaar](https://github.com/anon-aadhaar/anon-aadhaar-noir) - privacy-preserving verification of Aadhaar (Indian residence ID) through proofs revealing only selected identity information
-- [OpenPassport](https://github.com/openpassport-org/openpassport) - identity wallet supporting privacy-preserving proofs of goverment-issued IDs
-- [zkPassport](https://github.com/zkpassport/circuits) - privacy-preserving proofs of national passports
+- [Self](https://github.com/selfxyz/self) - identity wallet supporting privacy-preserving proofs of goverment-issued IDs
+- [ZKPassport](https://github.com/zkpassport/) - privacy-preserving proofs of national passports
 
 ### Social
 
