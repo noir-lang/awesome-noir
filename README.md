@@ -222,16 +222,17 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 ### Proving Backends
 
 - [Barretenberg (UltraHonk / MegaHonk)](https://github.com/AztecProtocol/barretenberg) by Aztec Labs
-- [Plonky2](https://github.com/blocksense-network/noir) by Blocksense
-- [Plonky2](https://github.com/eryxcoop/acvm-backend-plonky2) by Eryx
-- [Sonobe (Nova, HyperNova)](https://github.com/privacy-scaling-explorations/sonobe) by 0xPARC and PSE
 - [coSNARKs](https://github.com/TaceoLabs/co-snarks) by Taceo Labs
+- [Edge (Supernova)](https://github.com/pluto/edge) by Pluto
+- [Plonky2](https://github.com/blocksense-network/noir) by Blocksense
 - [ProveKit (Recursive Groth16)](https://github.com/worldfnd/ProveKit) by World
-- [gnark](https://github.com/lambdaclass/noir_backend_using_gnark) by Lambdaclass (needs updating)
-- [Plonky3](https://github.com/vacekj/air-fried-gyatt) by Josef (needs updating)
-- [Halo2](https://github.com/Ethan-000/halo2_backend) by Ethan (needs updating)
+- [Sonobe (Nova, HyperNova)](https://github.com/privacy-scaling-explorations/sonobe) by 0xPARC and PSE
+- [Gnark](https://github.com/lambdaclass/noir_backend_using_gnark) by Lambdaclass (needs updating)
 - [Groth16](https://github.com/TomAFrench/acvm-backend-groth16) (needs updating)
+- [Halo2](https://github.com/Ethan-000/halo2_backend) by Ethan (needs updating)
 - [Marlin](https://github.com/noir-lang/marlin_arkworks_backend) (needs updating)
+- [Plonky2](https://github.com/eryxcoop/acvm-backend-plonky2) by Eryx (needs updating)
+- [Plonky3](https://github.com/vacekj/air-fried-gyatt) by Josef (needs updating)
 
 ## Projects
 
