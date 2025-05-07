@@ -126,6 +126,7 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 #### Merkle Trees
 
 - [ZK-Kit: Merkle Trees](https://github.com/privacy-scaling-explorations/zk-kit.noir/tree/main/packages/merkle-trees) - verification of (non-)membership proofs and add/update/delete leaves
+- [Indexed Merkle Tree](https://github.com/numtel/indexed-merkle-noir) - Generate and verify proofs of inclusion, exclusion, or insert transition, includes complementary NPM package
 
 #### Message Authentication Code
 
