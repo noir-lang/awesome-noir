@@ -40,6 +40,10 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 - [Standard Library](https://github.com/noir-lang/noir/tree/master/noir_stdlib) - standard library that ships with all Noir releases
 - [ZK Kit Noir](https://github.com/privacy-scaling-explorations/zk-kit.noir) - collection of algorithm and utility libraries from Privacy & Scaling Explorations
 
+### Aztec
+
+- [Aztec Storage proofs](https://github.com/nemi-fi/aztec_storage_proofs) - Prove Aztec note inclusion in plain Noir. Generate verifiable proofs for verification in JS or Solidity.
+
 ### Data Types
 
 #### Numerics
