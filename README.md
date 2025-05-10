@@ -107,7 +107,7 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 
 - [AES](https://github.com/TaceoLabs/noir-aes) - a (naive) implementation of AES encryption and decryption
 - [ChaCha20 Implementation](https://github.com/SleepingShell/noir-chacha20) - a Noir implementation of ChaCha20 as defined by [RFC7539](https://www.rfc-editor.org/rfc/rfc7539)
-- [ElGamal Encryption](https://github.com/jat9292/noir-elgamal/) - Exponential ElGamal Encryption on the Baby Jubjub curve
+- [ElGamal Encryption](https://github.com/skaunov/elgamal/) - Exponential ElGamal Encryption on Baby Jubjub or Grumpkin curve
 - [Hydra for BN254](https://github.com/TaceoLabs/noir-hydra) - symmetric encryption and decryption
 - [ECIES](https://github.com/informalsystems/noir-ecies) - simple implementation of ECIES on the Baby Jubjub curve
 - [ECDH](https://github.com/privacy-scaling-explorations/zk-kit.noir/tree/main/packages/ecdh) - simple implementation of ECDH on the Baby Jubjub curve
