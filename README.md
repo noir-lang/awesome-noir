@@ -130,7 +130,7 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 
 #### Message Authentication Code
 
-- [Noir HMAC](https://github.com/Envoy-VC/noir_hmac) - hash-based message authentication code
+- [Noir HMAC](https://github.com/zkpersona/noir-hmac) - hash-based message authentication code
 
 #### Randomness
 
