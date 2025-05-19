@@ -165,7 +165,6 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 
 #### Library Registry
 
-- [Noir Directory](https://noir.directory) by Oleh
 - [Noir Libs](https://noir-libs.org/) by Walnut
 
 #### CLI Manager
