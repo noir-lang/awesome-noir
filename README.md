@@ -26,11 +26,6 @@ Click the hamburger button slightly upper-right from here to access the table of
 - [AnonRadar](https://www.anonradar.xyz/) - registry of Noir projects
 - [ZK Email](https://github.com/zkemail/zkemail.nr) - privacy-preserving proof of emails
 
-### Benchmarks
-
-- [Noir Development Bench](https://noir-lang.github.io/noir/dev/bench/) - Compilation and execution memory and time benchmarks of latest Noir GitHub commits
-- [ZK-Bench](https://zkbench.dev) - Compare Noir to other ZK frameworks (Risc Zero, Leo, Miden, etc) (needs updating)
-
 ### Authentication
 
 - Safe modules for privacy-preserving multi-sig
@@ -68,6 +63,14 @@ Click the hamburger button slightly upper-right from here to access the table of
 - [anon.world](https://github.com/Slokh/anonworld) - social media with optional anonymity
 - [Rate Limiting Nullifiers](https://github.com/curryrasul/rln.nr) - spam regulation/rate-limiting in anonymous environments
 - [StealthNote](https://github.com/saleel/stealthnote) - message board for people in an organization to anonymously broadcast messages
+
+## Benchmarks
+
+- [MoPro's Benchmarks](https://zkmopro.org/docs/performance/#noir) - benchmarks of Noir programs on mobile and browser
+- [Semaphore Benchmarks](https://hashcloak.github.io/semaphore-noir-final-report/benchmarks.html) - benchmarks of Semaphore implementations in Noir and Circom
+- [RSA Benchmarks](https://github.com/zkpassport/noir_rsa?tab=readme-ov-file#benchmarks) - benchmarks of the Noir RSA signature verification library
+- [ECDSA secp256r1 Benchmarks](https://github.com/vladfdp/p256-proving-benchmark) - benchmarks of ECDSA signature verifications across different ZK tech stacks
+- [Noir Development Bench](https://noir-lang.github.io/noir/dev/bench/) - development benchmarks of compilation and execution on latest Noir GitHub commits
 
 ## Learning
 
