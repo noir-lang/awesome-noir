@@ -28,7 +28,6 @@ Click the hamburger button slightly upper-right from here to access the table of
 - [noir-react-native-starter](https://github.com/madztheo/noir-react-native-starter) - mobile development template using React Native
 - [nargo binary examples](https://github.com/noir-lang/noir/tree/master/examples) - barebones use of nargo binary (and a proving backend) from: simple prove/verify, codegen, to recursion
 - [noir-recursive](https://github.com/teddav/noir-recursive) - recursion circuit template with UltraHonk in javascript
-- [zk-hangman-noir](https://github.com/Turupawn/zk-hangman-noir) - end-to-end zkDApp demo showcasing the Hangman circuit, EVM contract, and WASM frontend.
 
 ## Libraries
 
@@ -274,6 +273,7 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 
 - [BattleZips](https://battlezips.com/) ([Source Code](https://github.com/BattleZips/BattleZips-Noir)) - on-chain Battleship
 - [Dappicom](https://github.com/tonk-labs/dappicom) - Nintendo Entertainment System (NES) emulator in Noir for proofs of gameplays / speedruns
+- [zk-hangman-noir](https://github.com/Turupawn/zk-hangman-noir) - end-to-end zkDApp demo showcasing the Hangman circuit, EVM contract, and WASM frontend.
 
 ### Governance
 
