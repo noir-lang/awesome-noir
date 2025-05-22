@@ -12,12 +12,11 @@ Click the hamburger button slightly upper-right from here to access the table of
 
 ---
 
-## Official Resources
+## Useful Resources
 
-- [Docs](https://noir-lang.org/)
-- [GitHub](https://github.com/noir-lang/noir)
+- [Docs](https://noir-lang.org/docs)
+- [GitHub](https://github.com/noir-lang)
 - [Discord](https://discord.gg/RJdCBN373S)
-- [Forum](https://forum.aztec.network/c/noir/7)
 - [Community Job Board](https://www.notion.so/aztecnetwork/Noir-Community-Job-Board-1a1a1f6b0e3580a58515ecae879c8cf2)
 
 ## Boilerplates
