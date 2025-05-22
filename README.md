@@ -69,10 +69,6 @@ Click the hamburger button slightly upper-right from here to access the table of
 - [Rate Limiting Nullifiers](https://github.com/curryrasul/rln.nr) - spam regulation/rate-limiting in anonymous environments
 - [StealthNote](https://github.com/saleel/stealthnote) - message board for people in an organization to anonymously broadcast messages
 
-### Miscellaneous
-
-- [Winning projects from Aztec-sponsored hackathons](https://github.com/AztecProtocol/dev-rel/tree/main/hackathons#previous-winners)
-
 ## Learning
 
 ### Interactive Tutorials
