@@ -195,6 +195,7 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 
 - [NoirJS](https://noir-lang.org/docs/tutorials/noirjs_app) - compile and execute Noir programs in JavaScript / TypeScript
 - [Noir Codegen for TypeScript](https://noir-lang.org/docs/reference/noir_codegen) - generate TypeScript bindings for computing Noir program outputs in TS
+- [noir-web](https://github.com/gnosisguild/noir-web) – a simple way to benchmark proof generation and verification of your Noir circuits on the browser.
 
 #### Mobile development
 
