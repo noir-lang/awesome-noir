@@ -188,6 +188,7 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 ### Performance
 
 - [Noir + Barretenberg Profiler](https://github.com/noir-lang/noir/tree/master/tooling/profiler) - Opcode, execution and proving costs flamegraphing tool
+- [noir-web](https://github.com/gnosisguild/noir-web) – benchmark proving and verification of Noir programs on the browser
 
 ### Cross-platform
 
