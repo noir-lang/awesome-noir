@@ -12,13 +12,127 @@ Click the hamburger button slightly upper-right from here to access the table of
 
 ---
 
-## Official Resources
+## Useful Resources
 
-- [Docs](https://noir-lang.org/)
-- [GitHub](https://github.com/noir-lang/noir)
+- [Docs](https://noir-lang.org/docs)
+- [GitHub](https://github.com/noir-lang)
 - [Discord](https://discord.gg/RJdCBN373S)
-- [Forum](https://forum.aztec.network/c/noir/7)
 - [Community Job Board](https://www.notion.so/aztecnetwork/Noir-Community-Job-Board-1a1a1f6b0e3580a58515ecae879c8cf2)
+
+## Projects
+
+### General
+
+- [AnonRadar](https://www.anonradar.xyz/) - registry of Noir projects
+- [ZK Email](https://github.com/zkemail/zkemail.nr) - privacy-preserving proof of emails
+
+### Authentication
+
+- Safe modules for privacy-preserving multi-sig
+  - [Dark Safe](https://github.com/colinnielsen/dark-safe)
+  - [zkSafe](https://github.com/1kx-network/zksafe/)
+  - [SAMM](https://github.com/oxor-io/samm-circuits) - zkEmail based
+- [zkLogin](https://github.com/olehmisar/zklogin) - Apple/Google account based authentication for EVM smart accounts
+
+### Commercial
+
+- [GitClaim](https://github.com/saleel/gitclaim) - privacy-preserving airdrop claims through proof of GitHub contributions
+- [z-imburse](https://github.com/Mach-34/z-imburse) - automated and privacy-preserving expense reimbursements
+
+### DeFi
+
+- [Mezcal](https://github.com/olehmisar/mezcal) - a cutting edge on-chain limit order book dark pool.
+
+### Gaming
+
+- [BattleZips](https://battlezips.com/) ([Source Code](https://github.com/BattleZips/BattleZips-Noir)) - on-chain Battleship
+- [Dappicom](https://github.com/tonk-labs/dappicom) - Nintendo Entertainment System (NES) emulator in Noir for proofs of gameplays / speedruns
+
+### Governance
+
+- [Nouns Anonymous Voting](https://github.com/aragonzkresearch/nouns-anonymous-voting) - privacy-preserving voting research project for NounsDAO
+
+### Identity
+
+- [Anon-Aadhaar](https://github.com/anon-aadhaar/anon-aadhaar-noir) - privacy-preserving verification of Aadhaar (Indian residence ID) through proofs revealing only selected identity information
+- [Self](https://github.com/selfxyz/self) - identity wallet supporting privacy-preserving proofs of goverment-issued IDs
+- [ZKPassport](https://github.com/zkpassport/) - privacy-preserving proofs of national passports
+
+### Social
+
+- [anon.world](https://github.com/Slokh/anonworld) - social media with optional anonymity
+- [Rate Limiting Nullifiers](https://github.com/curryrasul/rln.nr) - spam regulation/rate-limiting in anonymous environments
+- [StealthNote](https://github.com/saleel/stealthnote) - message board for people in an organization to anonymously broadcast messages
+
+## Benchmarks
+
+- [MoPro's Benchmarks](https://zkmopro.org/docs/performance/#noir) - benchmarks of Noir programs on mobile and browser
+- [Semaphore Benchmarks](https://hashcloak.github.io/semaphore-noir-final-report/benchmarks.html) - benchmarks of Semaphore implementations in Noir and Circom
+- [RSA Benchmarks](https://github.com/zkpassport/noir_rsa?tab=readme-ov-file#benchmarks) - benchmarks of the Noir RSA signature verification library
+- [ECDSA secp256r1 Benchmarks](https://github.com/vladfdp/p256-proving-benchmark) - benchmarks of ECDSA signature verifications across different ZK tech stacks
+- [Noir Development Bench](https://noir-lang.github.io/noir/dev/bench/) - development benchmarks of compilation and execution on latest Noir GitHub commits
+
+## Learning
+
+### Interactive Tutorials
+
+- [Noirlings](https://github.com/satyambnsal/noirlings) - A hands-on, interactive way to learn Noir programming language through practical exercises.
+- [Noirlings.app](https://www.noirlings.app/) - Learn Noirlings on your browser, no setup needed.
+- [Glass Bridge With Noir](https://zkdev.net/docs/tutorial/glass-bridge) – A browser-based game that demonstrates Zero-Knowledge Proofs using Noir. Learn by proving a secret path without revealing it.
+
+### Educational Curriculums
+
+- [ZKCamp's Open Source Noir course](https://github.com/ZKCamp/aztec-noir-course)
+  - 6 lectures to give participants the knowledge and skills necessary to build decentralized applications based on ZKPs using Noir
+  - Lessons include ZKP Fundamentals; An Introduction to Aztec Ecosystem; Noir Basics; Building a Noir Application; and Advanced Noir
+- [Video Series] [BattleZips-Noir](https://www.youtube.com/playlist?list=PLWACGbvIsEgnR2aUCr9i-PpmTVhF5Zuik) ([Source Code](https://github.com/BattleZips/BattleZips-Noir))
+  - Walkthrough of building an on-chain Battleships game using zero-knowledge
+  - Follow along and build your own game using Noir
+
+### Examples
+
+- [Noir Examples](https://github.com/noir-lang/noir-examples) - reference examples of zero-knowledge applications in Noir
+- [Circuit Examples](https://github.com/thor314/circuit-examples) - demonstration implementation of dot products & Merkle proofs in Noir, Circom and RISC0
+
+### Talks & Workshops
+
+- [10 mins] [Writing Circuits with Noir](https://www.youtube.com/watch?v=I5M8LhOECpM&t=2879s) ([Source Code](https://github.com/vezenovm/basic_mul_noir_example))
+  - Nargo setup
+  - Basic Noir syntax
+  - Noir interactions in TypeScript
+- [20 mins] [Painless Zero-Knowledge Circuitry with Noir at ETHDam](https://www.youtube.com/watch?v=5KLTroMcldg&list=PLc5OGwyCUIhXny_mY4NPE5JfYNcTh8jUs&index=28)
+  - Introduction to Noir
+  - Simple demo and test
+- [20 mins] [Private Value Transfer in 10 Lines](https://www.youtube.com/watch?v=wYqqXas8_O4) ([Source Code](https://github.com/vezenovm/simple_shield))
+  - Tornado-like private asset transfer using Merkle proofs
+- [1 hr] [Circuit Safety and an Introduction to Noir](https://www.youtube.com/watch?v=rLvu61DA-hk)
+  - Common circuit bugs
+  - Proving system vulnerabilities
+  - Unconstrained functions
+- [1.5 hrs] [ZK dApps - Why, What and How?](https://www.youtube.com/watch?v=DpCbeGcX0cI)
+- [1.5 hrs] [Sudoku in Noir](https://drive.google.com/file/d/1D4XCdiIZVjUW1JHDoMW3pG-15mgjMm9E/) ([Source Code](https://github.com/guipublic/crypdoku))
+- [2 hrs] [ZK HACK III - Introduction to Noir](https://www.youtube.com/watch?v=5CziMfChveY) ([Source Code](https://github.com/joss-aztec/quadratic_voting_noir))
+  - Code-together: Quadratic Voting
+- [1.1 hrs] [Noir on Scroll Workshop](https://www.youtube.com/watch?v=xLQfMu-shYA) ([Part of Source Code](https://github.com/Turupawn/NoirScrollDemo))
+- Noir xmas camp 2024 [ 3 session noir learning bootcamp ]
+  - [1.08 hrs] [Getting Started with Noir](https://youtu.be/0u1n7JRSf2k?si=Z5pO85-ohNzNhP3D)
+  - [1.05 hrs] [Building Applications with Noir](https://youtu.be/KxWNFIMyFiQ?si=cJmZSgpAbfeTOWxj)
+  - [1.01 hrs] [Circuit Security & Production Readiness with Noir](https://youtu.be/pNI_56b7Bdo?si=LU1wQ-2Igd4Z7oNA)
+
+### Blog Posts & Articles
+
+- [Understanding the Technical Aspects of Aztec and Noir](https://hackmd.io/XZX9_pZ8Q1aa_ySDPeQopg)
+- Noir 101 for Solidity devs in ([English](https://mirror.xyz/crisgarner.eth/IRRxnP-HVP-7qLZ-bTI2HRpKTmSRPCDl-Q6gm2NTj4g)) and ([Spanish](https://mirror.xyz/crisgarner.eth/Iek7PhbhU4WpIJ6eixFq80_7R6czH7fbdCoN0Bd7NfI))
+- [Privacy-preserving KYC with Noir](https://medium.com/@tisura/privacy-preserving-kyc-57002ab8d3f2)
+- [An incomplete guide to zk-KYC apps](https://medium.com/@tisura/an-incomplete-guide-to-zk-kyc-apps-d7b4c684795c)
+- [Build a Decentralized Voting Application w/ Noir](https://threesigma.xyz/blog/build-noir-decentralized-voting-application)
+
+### International Resources
+
+- [Introduction to Noir in Spanish](https://www.youtube.com/watch?v=m4P-sAqa8_o)
+  - ([Written Tutorial and Code](https://dev.to/turupawn/circuitos-de-aztec-noir-en-tu-navegador-zk-es-semana-3-78a))
+- [Building a ZK dApp in Cantonese](https://www.youtube.com/watch?v=IAQrO1j20pg)
+  - [Slides](https://docs.google.com/presentation/d/1Zh8McXfdjREg0Y6iG9Q1_d-8Sgi7QT_7gJdOSmLqEEI/)
 
 ## Boilerplates
 
@@ -159,7 +273,7 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 - [SKProof](https://github.com/0x3327/skproof) - Scikit-learn compatible Python library for generating ZK proofs of execution
 - [zkML-Noir](https://github.com/storswiftlabs/zkml-noir) - Python ML model Noir transcoding, including various algorithms such as Decision tree, K-Means, XGBoost, FNN, CNN
 
-## Dev Tools
+## Developer Tools
 
 ### Package Management
 
@@ -188,6 +302,7 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 ### Performance
 
 - [Noir + Barretenberg Profiler](https://github.com/noir-lang/noir/tree/master/tooling/profiler) - Opcode, execution and proving costs flamegraphing tool
+- [noir-web](https://github.com/gnosisguild/noir-web) – benchmark proving and verification of Noir programs on the browser
 
 ### Cross-platform
 
@@ -239,123 +354,6 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 - [Marlin](https://github.com/noir-lang/marlin_arkworks_backend) (needs updating)
 - [Plonky2](https://github.com/eryxcoop/acvm-backend-plonky2) by Eryx (needs updating)
 - [Plonky3](https://github.com/vacekj/air-fried-gyatt) by Josef (needs updating)
-
-## Projects
-
-### General
-
-- [AnonRadar](https://www.anonradar.xyz/) - registry of Noir projects
-- [ZK Email](https://github.com/zkemail/zkemail.nr) - privacy-preserving proof of emails
-
-### Benchmarks
-
-- [Noir Development Bench](https://noir-lang.github.io/noir/dev/bench/) - Compilation and execution memory and time benchmarks of latest Noir GitHub commits
-- [ZK-Bench](https://zkbench.dev) - Compare Noir to other ZK frameworks (Risc Zero, Leo, Miden, etc) (needs updating)
-
-### Authentication
-
-- Safe modules for privacy-preserving multi-sig
-  - [Dark Safe](https://github.com/colinnielsen/dark-safe)
-  - [zkSafe](https://github.com/1kx-network/zksafe/)
-  - [SAMM](https://github.com/oxor-io/samm-circuits) - zkEmail based
-- [zkLogin](https://github.com/olehmisar/zklogin) - Apple/Google account based authentication for EVM smart accounts
-
-### Commercial
-
-- [GitClaim](https://github.com/saleel/gitclaim) - privacy-preserving airdrop claims through proof of GitHub contributions
-- [z-imburse](https://github.com/Mach-34/z-imburse) - automated and privacy-preserving expense reimbursements
-
-### DeFi
-
-- [Mezcal](https://github.com/olehmisar/mezcal) - a cutting edge on-chain limit order book dark pool.
-
-### Gaming
-
-- [BattleZips](https://battlezips.com/) ([Source Code](https://github.com/BattleZips/BattleZips-Noir)) - on-chain Battleship
-- [Dappicom](https://github.com/tonk-labs/dappicom) - Nintendo Entertainment System (NES) emulator in Noir for proofs of gameplays / speedruns
-- [zk-hangman-noir](https://github.com/Turupawn/zk-hangman-noir) - end-to-end zkDApp demo showcasing the Hangman circuit, EVM contract, and WASM frontend.
-
-### Governance
-
-- [Nouns Anonymous Voting](https://github.com/aragonzkresearch/nouns-anonymous-voting) - privacy-preserving voting research project for NounsDAO
-
-### Identity
-
-- [Anon-Aadhaar](https://github.com/anon-aadhaar/anon-aadhaar-noir) - privacy-preserving verification of Aadhaar (Indian residence ID) through proofs revealing only selected identity information
-- [Self](https://github.com/selfxyz/self) - identity wallet supporting privacy-preserving proofs of goverment-issued IDs
-- [ZKPassport](https://github.com/zkpassport/) - privacy-preserving proofs of national passports
-
-### Social
-
-- [anon.world](https://github.com/Slokh/anonworld) - social media with optional anonymity
-- [Rate Limiting Nullifiers](https://github.com/curryrasul/rln.nr) - spam regulation/rate-limiting in anonymous environments
-- [StealthNote](https://github.com/saleel/stealthnote) - message board for people in an organization to anonymously broadcast messages
-
-### Miscellaneous
-
-- [Winning projects from Aztec-sponsored hackathons](https://github.com/AztecProtocol/dev-rel/tree/main/hackathons#previous-winners)
-
-## Learning
-
-### Interactive Tutorials
-
-- [Noirlings](https://github.com/satyambnsal/noirlings) - A hands-on, interactive way to learn Noir programming language through practical exercises.
-- [Noirlings.app](https://www.noirlings.app/) - Learn Noirlings on your browser, no setup needed.
-- [Glass Bridge With Noir](https://zkdev.net/docs/tutorial/glass-bridge) – A browser-based game that demonstrates Zero-Knowledge Proofs using Noir. Learn by proving a secret path without revealing it.
-
-### Educational Curriculums
-
-- [ZKCamp's Open Source Noir course](https://github.com/ZKCamp/aztec-noir-course)
-  - 6 lectures to give participants the knowledge and skills necessary to build decentralized applications based on ZKPs using Noir
-  - Lessons include ZKP Fundamentals; An Introduction to Aztec Ecosystem; Noir Basics; Building a Noir Application; and Advanced Noir
-- [Video Series] [BattleZips-Noir](https://www.youtube.com/playlist?list=PLWACGbvIsEgnR2aUCr9i-PpmTVhF5Zuik) ([Source Code](https://github.com/BattleZips/BattleZips-Noir))
-  - Walkthrough of building an on-chain Battleships game using zero-knowledge
-  - Follow along and build your own game using Noir
-
-### Examples
-
-- [Noir Examples](https://github.com/noir-lang/noir-examples) - reference examples of zero-knowledge applications in Noir
-- [Circuit Examples](https://github.com/thor314/circuit-examples) - demonstration implementation of dot products & Merkle proofs in Noir, Circom and RISC0
-
-### Talks & Workshops
-
-- [10 mins] [Writing Circuits with Noir](https://www.youtube.com/watch?v=I5M8LhOECpM&t=2879s) ([Source Code](https://github.com/vezenovm/basic_mul_noir_example))
-  - Nargo setup
-  - Basic Noir syntax
-  - Noir interactions in TypeScript
-- [20 mins] [Painless Zero-Knowledge Circuitry with Noir at ETHDam](https://www.youtube.com/watch?v=5KLTroMcldg&list=PLc5OGwyCUIhXny_mY4NPE5JfYNcTh8jUs&index=28)
-  - Introduction to Noir
-  - Simple demo and test
-- [20 mins] [Private Value Transfer in 10 Lines](https://www.youtube.com/watch?v=wYqqXas8_O4) ([Source Code](https://github.com/vezenovm/simple_shield))
-  - Tornado-like private asset transfer using Merkle proofs
-- [1 hr] [Circuit Safety and an Introduction to Noir](https://www.youtube.com/watch?v=rLvu61DA-hk)
-  - Common circuit bugs
-  - Proving system vulnerabilities
-  - Unconstrained functions
-- [1.5 hrs] [ZK dApps - Why, What and How?](https://www.youtube.com/watch?v=DpCbeGcX0cI)
-- [1.5 hrs] [Sudoku in Noir](https://drive.google.com/file/d/1D4XCdiIZVjUW1JHDoMW3pG-15mgjMm9E/) ([Source Code](https://github.com/guipublic/crypdoku))
-- [2 hrs] [ZK HACK III - Introduction to Noir](https://www.youtube.com/watch?v=5CziMfChveY) ([Source Code](https://github.com/joss-aztec/quadratic_voting_noir))
-  - Code-together: Quadratic Voting
-- [1.1 hrs] [Noir on Scroll Workshop](https://www.youtube.com/watch?v=xLQfMu-shYA) ([Part of Source Code](https://github.com/Turupawn/NoirScrollDemo))
-- Noir xmas camp 2024 [ 3 session noir learning bootcamp ]
-  - [1.08 hrs] [Getting Started with Noir](https://youtu.be/0u1n7JRSf2k?si=Z5pO85-ohNzNhP3D)
-  - [1.05 hrs] [Building Applications with Noir](https://youtu.be/KxWNFIMyFiQ?si=cJmZSgpAbfeTOWxj)
-  - [1.01 hrs] [Circuit Security & Production Readiness with Noir](https://youtu.be/pNI_56b7Bdo?si=LU1wQ-2Igd4Z7oNA)
-
-### Blog Posts & Articles
-
-- [Understanding the Technical Aspects of Aztec and Noir](https://hackmd.io/XZX9_pZ8Q1aa_ySDPeQopg)
-- Noir 101 for Solidity devs in ([English](https://mirror.xyz/crisgarner.eth/IRRxnP-HVP-7qLZ-bTI2HRpKTmSRPCDl-Q6gm2NTj4g)) and ([Spanish](https://mirror.xyz/crisgarner.eth/Iek7PhbhU4WpIJ6eixFq80_7R6czH7fbdCoN0Bd7NfI))
-- [Privacy-preserving KYC with Noir](https://medium.com/@tisura/privacy-preserving-kyc-57002ab8d3f2)
-- [An incomplete guide to zk-KYC apps](https://medium.com/@tisura/an-incomplete-guide-to-zk-kyc-apps-d7b4c684795c)
-- [Build a Decentralized Voting Application w/ Noir](https://threesigma.xyz/blog/build-noir-decentralized-voting-application)
-
-### International Resources
-
-- [Introduction to Noir in Spanish](https://www.youtube.com/watch?v=m4P-sAqa8_o)
-  - ([Written Tutorial and Code](https://dev.to/turupawn/circuitos-de-aztec-noir-en-tu-navegador-zk-es-semana-3-78a))
-- [Building a ZK dApp in Cantonese](https://www.youtube.com/watch?v=IAQrO1j20pg)
-  - [Slides](https://docs.google.com/presentation/d/1Zh8McXfdjREg0Y6iG9Q1_d-8Sgi7QT_7gJdOSmLqEEI/)
 
 ## Contribute
 
