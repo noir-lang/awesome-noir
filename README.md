@@ -56,7 +56,7 @@ Click the hamburger button slightly upper-right from here to access the table of
 ### Identity
 
 - [Anon-Aadhaar](https://github.com/anon-aadhaar/anon-aadhaar-noir) - privacy-preserving verification of Aadhaar (Indian residence ID) through proofs revealing only selected identity information
-- [Self](https://github.com/selfxyz/self) - identity wallet supporting privacy-preserving proofs of goverment-issued IDs
+- [Self](https://github.com/selfxyz/self) - identity wallet supporting privacy-preserving proofs of government-issued IDs
 - [ZKPassport](https://github.com/zkpassport/) - privacy-preserving proofs of national passports
 
 ### Social
