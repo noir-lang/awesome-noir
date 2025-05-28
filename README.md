@@ -98,6 +98,15 @@ Click the hamburger button slightly upper-right from here to access the table of
 
 ### Talks & Workshops
 
+- [50 mins] [Build your first ZK app with Noir](https://www.youtube.com/watch?v=06INZUM5Ca8)
+- NoirHack sessions
+  - [Intro to building ZK apps](https://www.youtube.com/watch?v=ZsLOYXqzOgg)
+  - [ZK Email library workshop](https://www.youtube.com/watch?v=jpJdxlIZd5w)
+  - [ZK Passport SDK library workshop](https://www.youtube.com/watch?v=Na60y_WOWUY)
+  - [ZK Kit library workshop](https://www.youtube.com/watch?v=jKI60vZkCPY)
+  - [MoPro Library Workshop](https://www.youtube.com/watch?v=UrT2x3JSKFg)
+  - [Stealthnote workshop](https://www.youtube.com/watch?v=aX5ExM4sL6A)
+  - [Advanced Noir](https://www.youtube.com/watch?v=OLhm6pKogbY)
 - [10 mins] [Writing Circuits with Noir](https://www.youtube.com/watch?v=I5M8LhOECpM&t=2879s) ([Source Code](https://github.com/vezenovm/basic_mul_noir_example))
   - Nargo setup
   - Basic Noir syntax
