@@ -147,7 +147,6 @@ Click the hamburger button slightly upper-right from here to access the table of
 
 ## Boilerplates
 
-- [noir-starter](https://github.com/noir-lang/noir-starter) - project template containing examples using Noir with Vite + Hardhat and Foundry
 - [hardhat-noir-starter](https://github.com/olehmisar/hardhat-noir-starter) - project template with seamless Hardhat integration
 - [noir-library-starter](https://github.com/noir-lang/noir-library-starter) - library template
 - [noir-react-native-starter](https://github.com/madztheo/noir-react-native-starter) - mobile development template using React Native
