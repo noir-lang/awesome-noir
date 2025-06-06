@@ -367,7 +367,7 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 
 ## Contribute
 
-Propose link additions by visiting [README.md](./README.md) and click the "pen" icon in the top right corner. Make changes to the file and follow the instructions to create a pull request.
+Propose link additions by [editing the README.md](https://github.com/noir-lang/awesome-noir/edit/main/README.md). We welcome and appreciate your contributions — thank you for helping improve this list!
 
 ## License
 
