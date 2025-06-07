@@ -169,7 +169,7 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 #### Numerics
 
 - [BigNum](https://github.com/noir-lang/noir-bignum) - a library for arithmetic computations of large unsigned integers of any length
-- [Fraction](https://github.com/resurgencelabs/fraction) - a library for accessing fractional number data type in Noir, allowing results that aren't whole numbers
+- [Fraction](https://github.com/resurgencelabs/fraction) - a library for accessing fractional number data types in Noir, allowing results that aren't whole numbers
 - [ZKFloat](https://github.com/0x3327/ZKFloat) - a floating point library for Noir
 - [Complex Numbers](https://github.com/doctoruber/complexnr) - This library offers a comprehensive suite of operations for complex numbers
 - [Fixed Point Library](https://github.com/doctoruber/noir-fixed-point) - The FixedPoint library offers precise fixed-point arithmetic operations tailored for Noir
@@ -209,7 +209,7 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 
 - [Sort](https://github.com/noir-lang/noir_sort) - efficient sorting of fixed-sized arrays
 - [Sparse Array](https://github.com/noir-lang/sparse_array) - efficient immutable and mutable sparse arrays
-- [Lib_LinkList](https://github.com/0xKarl98/Lib_LinkList) - A memory-efficient doubly-linked list implementation for Noir that supports constant-time operations at both ends
+- [Lib_LinkList](https://github.com/0xKarl98/Lib_LinkList) - A memory-efficient doubly-linked list implementation for Noir that supports constant  time operations at both ends
 
 ### Cryptography
 
