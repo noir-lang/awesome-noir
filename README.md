@@ -1,5 +1,7 @@
 # Awesome Noir
 
+Noir is a Domain Specific Language for SNARK proving systems. It has been designed to use any ACIR compatible proving system.
+
 A curated list of resources for learning and programming in Noir.
 
 Click the hamburger button slightly upper-right from here to access the table of content:
