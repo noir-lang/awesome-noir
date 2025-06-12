@@ -83,7 +83,8 @@ Click the hamburger button slightly upper-right from here to access the table of
 - [Glass Bridge With Noir](https://zkdev.net/docs/tutorial/glass-bridge) – A browser-based game that demonstrates Zero-Knowledge Proofs using Noir. Learn by proving a secret path without revealing it.
 
 ### Educational Curriculums
-
+- [Noir Programming And ZK Circuits by Cyfrin](https://updraft.cyfrin.io/courses/noir-programming-and-zk-circuits)
+  - Step into the world of Noir, a domain-specific programming language for writing circuits, and learn to build zero-knowledge (ZK) apps. The Noir Programming and ZK Circuits course will teach you how to write circuits, how to build a full ZK protocol from scratch (using Noir, Barretenberg, and Solidity), and how to build the backend of a full-stack, privacy-preserving ZK application.
 - [ZKCamp's Open Source Noir course](https://github.com/ZKCamp/aztec-noir-course)
   - 6 lectures to give participants the knowledge and skills necessary to build decentralized applications based on ZKPs using Noir
   - Lessons include ZKP Fundamentals; An Introduction to Aztec Ecosystem; Noir Basics; Building a Noir Application; and Advanced Noir
