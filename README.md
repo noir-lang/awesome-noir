@@ -139,7 +139,7 @@ Click the hamburger button slightly upper-right from here to access the table of
 - [An incomplete guide to zk-KYC apps](https://medium.com/@tisura/an-incomplete-guide-to-zk-kyc-apps-d7b4c684795c)
 - [Build a Decentralized Voting Application w/ Noir](https://threesigma.xyz/blog/build-noir-decentralized-voting-application)
 
-### International Resources
+### International Learning Resources
 
 - [Introduction to Noir in Spanish](https://www.youtube.com/watch?v=m4P-sAqa8_o)
   - ([Written Tutorial and Code](https://dev.to/turupawn/circuitos-de-aztec-noir-en-tu-navegador-zk-es-semana-3-78a))
