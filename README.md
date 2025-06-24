@@ -49,6 +49,7 @@ Click the hamburger button slightly upper-right from here to access the table of
 - [BattleZips](https://github.com/BattleZips/BattleZips-Noir) - on-chain Battleship
 - [Dappicom](https://github.com/tonk-labs/dappicom) - Nintendo Entertainment System (NES) emulator in Noir for proofs of gameplays / speedruns
 - [zk-hangman-noir](https://github.com/Turupawn/zk-hangman-noir) - end-to-end zkDApp demo showcasing the Hangman circuit, EVM contract, and WASM frontend
+- [Mastermind-noir](https://github.com/vezenovm/mastermind-noir) – a two-player “Mastermind” code-breaking game where the code-maker privately commits to a 4-digit secret and the code-breaker submits guesses
 
 ### Governance
 
