@@ -60,6 +60,8 @@ Click the hamburger button slightly upper-right from here to access the table of
 - [Self](https://github.com/selfxyz/self) - identity wallet supporting privacy-preserving proofs of government-issued IDs
 - [ZKPassport](https://github.com/zkpassport/) - privacy-preserving proofs of national passports
 - [Rarimo](https://github.com/rarimo/passport-zk-circuits-noir) - passport signature verification circuits
+- [prove_threshold_policy](https://github.com/cypriansakwa/prove_threshold_policy) – A Noir circuit that proves threshold policy compliance without revealing the private input. Useful for access control, recovery, and identity gating.
+
 
 ### Social
 
