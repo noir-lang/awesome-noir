@@ -99,6 +99,8 @@ Click the hamburger button slightly upper-right from here to access the table of
 
 - [Noir Examples](https://github.com/noir-lang/noir-examples) - reference examples of zero-knowledge applications in Noir
 - [Circuit Examples](https://github.com/thor314/circuit-examples) - demonstration implementation of dot products & Merkle proofs in Noir, Circom and RISC0
+- [ZKModExpCircuit](https://github.com/cypriansakwa/ZKModExpCircuit) - Modular Exponentiation circuit in Noir with constraint checks and test cases.
+
 
 ### Talks & Workshops
 
