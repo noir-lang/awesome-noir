@@ -46,6 +46,7 @@ Click the hamburger button slightly upper-right from here to access the table of
 
 ### Gaming
 
+- [Terry Escape](https://github.com/fatlabsxyz/terry-escape) - Multiplayer faction warfare in fog of war
 - [zk-hangman-noir](https://github.com/Turupawn/zk-hangman-noir) - end-to-end zkDApp demo showcasing the Hangman circuit, EVM contract, and WASM frontend
 
 ### Governance
