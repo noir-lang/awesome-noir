@@ -2,14 +2,79 @@
 
 A curated list of resources for learning and programming in Noir.
 
-Click the hamburger button slightly upper-right from here to access the table of content:
-<img width="687" alt="Screenshot of hamburger button's location" src="https://github.com/user-attachments/assets/8ae07a73-a5a5-475c-8a59-6aae13fc9e73" />
-
 ⚠️ This repository or the contained links are not endorsed as safe and secure by Aztec Labs or the Noir team. Users are advised to exercise caution before utilizing any content or code provided herein.
 
 [![Awesome](https://img.shields.io/badge/Awesome-Repo-blue?logo=awesome-lists&style=flat)](https://awesome.re)
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/NoirLang)](https://x.com/NoirLang)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&labelColor=5865F2&style=flat&labelWidth=100)](https://discord.com/invite/RJdCBN373S)
+
+## Contents
+
+<!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
+
+ * [Useful Resources](#useful-resources)
+ * [Projects](#projects)
+    + [General](#general)
+    + [Authentication](#authentication)
+    + [Commercial](#commercial)
+    + [DeFi](#defi)
+    + [Gaming](#gaming)
+    + [Governance](#governance)
+    + [Identity](#identity)
+    + [Social](#social)
+ * [Benchmarks](#benchmarks)
+ * [Learning](#learning)
+    + [Interactive Tutorials](#interactive-tutorials)
+    + [Educational Curriculums](#educational-curriculums)
+    + [Examples](#examples)
+    + [Talks & Workshops](#talks--workshops)
+    + [Blog Posts & Articles](#blog-posts--articles)
+    + [International Resources](#international-resources)
+ * [Boilerplates](#boilerplates)
+ * [Libraries](#libraries)
+    + [General](#general-1)
+    + [Data Types](#data-types)
+       - [Numerics](#numerics)
+       - [Dates & Times](#dates--times)
+    + [Data Type Manipulation](#data-type-manipulation)
+       - [General](#general-2)
+       - [Numerics](#numerics-1)
+       - [Bytes](#bytes)
+       - [Texts](#texts)
+       - [Collections](#collections)
+    + [Cryptography](#cryptography)
+       - [Elliptic Curves](#elliptic-curves)
+       - [Hashes](#hashes)
+       - [Encryption](#encryption)
+       - [Signatures](#signatures)
+       - [Merkle Trees](#merkle-trees)
+       - [Message Authentication Code](#message-authentication-code)
+       - [Randomness](#randomness)
+    + [Blockchain Specifics](#blockchain-specifics)
+       - [Aztec](#aztec)
+       - [Ethereum](#ethereum)
+       - [Bitcoin ](#bitcoin)
+    + [Social](#social-1)
+    + [Machine Learning](#machine-learning)
+ * [Developer Tools](#developer-tools)
+    + [Package Management](#package-management)
+       - [Library Registry](#library-registry)
+       - [CLI Manager](#cli-manager)
+    + [IDE](#ide)
+    + [Linting](#linting)
+    + [Performance](#performance)
+    + [Cross-platform](#cross-platform)
+       - [Browser development](#browser-development)
+       - [Mobile development](#mobile-development)
+    + [EVM](#evm)
+    + [Private shared states](#private-shared-states)
+    + [Library-related](#library-related)
+    + [Security](#security)
+    + [Proving Backends](#proving-backends)
+ * [Contribute](#contribute)
+ * [License](#license)
+
+<!-- TOC end -->
 
 ---
 
