@@ -124,6 +124,8 @@ A curated list of resources for learning and programming in Noir.
 - [Self](https://github.com/selfxyz/self) - identity wallet supporting privacy-preserving proofs of government-issued IDs
 - [ZKPassport](https://github.com/zkpassport/) - privacy-preserving proofs of national passports
 - [Rarimo](https://github.com/rarimo/passport-zk-circuits-noir) - passport signature verification circuits
+- [prove_threshold_policy](https://github.com/cypriansakwa/prove_threshold_policy) – A Noir circuit that proves threshold policy compliance without revealing the private input. Useful for access control, recovery, and identity gating.
+
 
 ### Social
 
@@ -161,6 +163,8 @@ A curated list of resources for learning and programming in Noir.
 
 - [Noir Examples](https://github.com/noir-lang/noir-examples) - reference examples of zero-knowledge applications in Noir
 - [Circuit Examples](https://github.com/thor314/circuit-examples) - demonstration implementation of dot products & Merkle proofs in Noir, Circom and RISC0
+- [ZKModExpCircuit](https://github.com/cypriansakwa/ZKModExpCircuit) - Modular Exponentiation circuit in Noir with constraint checks and test cases.
+
 
 ### Talks & Workshops
 
