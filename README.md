@@ -175,14 +175,15 @@ A curated list of resources for learning and programming in Noir.
   - [MoPro Library Workshop](https://www.youtube.com/watch?v=UrT2x3JSKFg)
   - [Stealthnote workshop](https://www.youtube.com/watch?v=aX5ExM4sL6A)
   - [Advanced Noir](https://www.youtube.com/watch?v=OLhm6pKogbY)
-- [1 hr] [Circuit Safety and an Introduction to Noir](https://www.youtube.com/watch?v=rLvu61DA-hk)
-  - Common circuit bugs
-  - Proving system vulnerabilities
-  - Unconstrained functions
+
 - Noir xmas camp 2024 [ 3 session noir learning bootcamp ]
   - [1.08 hrs] [Getting Started with Noir](https://youtu.be/0u1n7JRSf2k?si=Z5pO85-ohNzNhP3D)
   - [1.05 hrs] [Building Applications with Noir](https://youtu.be/KxWNFIMyFiQ?si=cJmZSgpAbfeTOWxj)
   - [1.01 hrs] [Circuit Security & Production Readiness with Noir](https://youtu.be/pNI_56b7Bdo?si=LU1wQ-2Igd4Z7oNA)
+
+#### Security
+
+- [1 hr] [Circuit Safety and an Introduction to Noir](https://www.youtube.com/watch?v=rLvu61DA-hk) - common ZK vulnerabilities and an introduction to Noir
 
 ### Blog Posts & Articles
 
