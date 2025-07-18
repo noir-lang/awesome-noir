@@ -168,18 +168,18 @@ A curated list of resources for learning and programming in Noir.
 
 #### Coding in Noir
 
-- [Build Your First ZK App with Noir](https://www.youtube.com/watch?v=06INZUM5Ca8)
-- [NoirHack Workshop:Intro to Building ZK Apps](https://www.youtube.com/watch?v=ZsLOYXqzOgg)
-- [NoirHack Workshop: Advanced Noir](https://www.youtube.com/watch?v=OLhm6pKogbY)
-- [Noir Xmas Camp Workshop: Getting Started with Noir](https://youtu.be/0u1n7JRSf2k?si=Z5pO85-ohNzNhP3D)
-- [Noir Xmas Camp Workshop: Building Applications with Noir](https://youtu.be/KxWNFIMyFiQ?si=cJmZSgpAbfeTOWxj)
+- [Workshop] [Build Your First ZK App with Noir](https://www.youtube.com/watch?v=06INZUM5Ca8)
+- [Workshop] [NoirHack: Intro to Building ZK Apps](https://www.youtube.com/watch?v=ZsLOYXqzOgg)
+- [Workshop] [NoirHack: Advanced Noir](https://www.youtube.com/watch?v=OLhm6pKogbY)
+- [Workshop] [Noir Xmas Camp: Getting Started with Noir](https://youtu.be/0u1n7JRSf2k?si=Z5pO85-ohNzNhP3D)
+- [Workshop] [Noir Xmas Camp: Building Applications with Noir](https://youtu.be/KxWNFIMyFiQ?si=cJmZSgpAbfeTOWxj)
 
 #### Coding with Noir Projects
 
-- [NoirHack Workshop: MoPro](https://www.youtube.com/watch?v=UrT2x3JSKFg)
-- [NoirHack Workshop: ZK Email](https://www.youtube.com/watch?v=jpJdxlIZd5w)
-- [NoirHack Workshop: ZK Kit](https://www.youtube.com/watch?v=jKI60vZkCPY)
-- [NoirHack Workshop: ZKPassport](https://www.youtube.com/watch?v=Na60y_WOWUY)
+- [Workshop] [NoirHack: MoPro](https://www.youtube.com/watch?v=UrT2x3JSKFg)
+- [Workshop] [NoirHack: ZK Email](https://www.youtube.com/watch?v=jpJdxlIZd5w)
+- [Workshop] [NoirHack: ZK Kit](https://www.youtube.com/watch?v=jKI60vZkCPY)
+- [Workshop] [NoirHack: ZKPassport](https://www.youtube.com/watch?v=Na60y_WOWUY)
 
 #### Project walkthroughs
 
@@ -187,8 +187,8 @@ A curated list of resources for learning and programming in Noir.
 
 #### Security
 
-- [1 hr] [Circuit Safety and an Introduction to Noir](https://www.youtube.com/watch?v=rLvu61DA-hk) - common ZK vulnerabilities and an introduction to Noir
-- [Noir Xmas Camp Workshop: Circuit Security & Production Readiness with Noir](https://youtu.be/pNI_56b7Bdo?si=LU1wQ-2Igd4Z7oNA)
+- [Workshop] [Circuit Safety and an Introduction to Noir](https://www.youtube.com/watch?v=rLvu61DA-hk) - common ZK vulnerabilities and an introduction to Noir
+- [Workshop] [Noir Xmas Camp: Circuit Security & Production Readiness with Noir](https://youtu.be/pNI_56b7Bdo?si=LU1wQ-2Igd4Z7oNA)
 
 ### Blog Posts & Articles
 
