@@ -183,7 +183,7 @@ A curated list of resources for learning and programming in Noir.
 
 #### Project walkthroughs
 
-- [NoirHack Workshop: Stealthnote and GitClaim](https://www.youtube.com/watch?v=aX5ExM4sL6A)
+- [Workshop] [NoirHack: Stealthnote and GitClaim](https://www.youtube.com/watch?v=aX5ExM4sL6A)
 
 #### Security
 
