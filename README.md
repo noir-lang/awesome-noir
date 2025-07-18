@@ -168,14 +168,18 @@ A curated list of resources for learning and programming in Noir.
 
 #### Coding in Noir
 
+- [Workshop] [ProtocolBerg v2: Learn Noir in an Afternoon](https://watch.protocol.berlin/65a90bf47932ebe436ba9351/watch?session=684ff138caecf08629c002f2)
 - [Workshop] [Build Your First ZK App with Noir](https://www.youtube.com/watch?v=06INZUM5Ca8)
 - [Workshop] [NoirHack: Intro to Building ZK Apps](https://www.youtube.com/watch?v=ZsLOYXqzOgg)
 - [Workshop] [NoirHack: Advanced Noir](https://www.youtube.com/watch?v=OLhm6pKogbY)
 - [Workshop] [Noir Xmas Camp: Getting Started with Noir](https://youtu.be/0u1n7JRSf2k?si=Z5pO85-ohNzNhP3D)
 - [Workshop] [Noir Xmas Camp: Building Applications with Noir](https://youtu.be/KxWNFIMyFiQ?si=cJmZSgpAbfeTOWxj)
+- [Workshop] [NoirCon 2: Vibe Coding Noir](https://www.youtube.com/watch?v=KOFUwzqd4oo)
 
 #### Coding with Noir Projects
 
+- [Talk] [d/Infra Summit: coNoir](https://www.youtube.com/watch?v=VvuKWx6afOA)
+- [Talk] [NoirCon 2: Semaphore](https://www.youtube.com/watch?v=vfL7z74jGyU)
 - [Workshop] [NoirHack: MoPro](https://www.youtube.com/watch?v=UrT2x3JSKFg)
 - [Workshop] [NoirHack: ZK Email](https://www.youtube.com/watch?v=jpJdxlIZd5w)
 - [Workshop] [NoirHack: ZK Kit](https://www.youtube.com/watch?v=jKI60vZkCPY)
@@ -189,6 +193,7 @@ A curated list of resources for learning and programming in Noir.
 
 - [Workshop] [Circuit Safety and an Introduction to Noir](https://www.youtube.com/watch?v=rLvu61DA-hk) - common ZK vulnerabilities and an introduction to Noir
 - [Workshop] [Noir Xmas Camp: Circuit Security & Production Readiness with Noir](https://youtu.be/pNI_56b7Bdo?si=LU1wQ-2Igd4Z7oNA)
+- [Workshop] [NoirCon 2: Formal Verification of Noir programs with Lampe](https://www.youtube.com/watch?v=CPel4WyBNuk)
 
 ### Blog Posts & Articles
 
