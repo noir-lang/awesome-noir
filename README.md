@@ -168,13 +168,11 @@ A curated list of resources for learning and programming in Noir.
 
 #### Coding in Noir
 
-- [Workshop] [ProtocolBerg v2: Learn Noir in an Afternoon](https://watch.protocol.berlin/65a90bf47932ebe436ba9351/watch?session=684ff138caecf08629c002f2)
 - [Workshop] [Build Your First ZK App with Noir](https://www.youtube.com/watch?v=06INZUM5Ca8)
-- [Workshop] [NoirHack: Intro to Building ZK Apps](https://www.youtube.com/watch?v=ZsLOYXqzOgg)
-- [Workshop] [NoirHack: Advanced Noir](https://www.youtube.com/watch?v=OLhm6pKogbY)
-- [Workshop] [Noir Xmas Camp: Getting Started with Noir](https://youtu.be/0u1n7JRSf2k?si=Z5pO85-ohNzNhP3D)
-- [Workshop] [Noir Xmas Camp: Building Applications with Noir](https://youtu.be/KxWNFIMyFiQ?si=cJmZSgpAbfeTOWxj)
-- [Workshop] [NoirCon 2: Vibe Coding Noir](https://www.youtube.com/watch?v=KOFUwzqd4oo)
+- [Workshop] [ProtocolBerg v2: Learn Noir in an Afternoon](https://watch.protocol.berlin/65a90bf47932ebe436ba9351/watch?session=684ff138caecf08629c002f2)
+- [Workshop] [Noir Xmas Camp: Building Applications with Noir](https://youtu.be/KxWNFIMyFiQ?si=cJmZSgpAbfeTOWxj) - E2E app building with NoirJS and the Noir Debugger
+- [Workshop] [NoirHack: Advanced Noir](https://www.youtube.com/watch?v=OLhm6pKogbY) - using unconstrained functions for performance
+- [Workshop] [NoirCon 2: Vibe Coding Noir](https://www.youtube.com/watch?v=KOFUwzqd4oo) - AI-assisted Noir coding with Cursor and Claude
 
 #### Coding with Noir Projects
 
@@ -193,7 +191,7 @@ A curated list of resources for learning and programming in Noir.
 
 - [Workshop] [Circuit Safety and an Introduction to Noir](https://www.youtube.com/watch?v=rLvu61DA-hk) - common ZK vulnerabilities and an introduction to Noir
 - [Workshop] [Noir Xmas Camp: Circuit Security & Production Readiness with Noir](https://youtu.be/pNI_56b7Bdo?si=LU1wQ-2Igd4Z7oNA)
-- [Workshop] [NoirCon 2: Formal Verification of Noir programs with Lampe](https://www.youtube.com/watch?v=CPel4WyBNuk)
+- [Workshop] [NoirCon 2: Lampe](https://www.youtube.com/watch?v=CPel4WyBNuk) - formal verification of Noir programs in Lean
 
 ### Blog Posts & Articles
 
