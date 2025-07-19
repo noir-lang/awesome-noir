@@ -117,6 +117,7 @@ A curated list of resources for learning and programming in Noir.
 ### Governance
 
 - [Nouns Anonymous Voting](https://github.com/aragonzkresearch/nouns-anonymous-voting) - privacy-preserving voting research project for NounsDAO
+- [dark-safe](https://github.com/colinnielsen/dark-safe) – a privacy-preserving multisig module for Gnosis Safe using zero-knowledge proofs.
 
 ### Identity
 
