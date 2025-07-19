@@ -113,6 +113,7 @@ A curated list of resources for learning and programming in Noir.
 
 - [Terry Escape](https://github.com/fatlabsxyz/terry-escape) - Multiplayer faction warfare in fog of war
 - [zk-hangman-noir](https://github.com/Turupawn/zk-hangman-noir) - end-to-end zkDApp demo showcasing the Hangman circuit, EVM contract, and WASM frontend
+- [SQL Noir](https://github.com/hristo2612/SQLNoir) – interactive detective-mystery game powered by SQL, styled as “Noir” but *not* built in Noir-lang. The most recent commits are from 2024.
 
 ### Governance
 
