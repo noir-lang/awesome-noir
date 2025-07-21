@@ -62,6 +62,7 @@ A curated list of resources for learning and programming in Noir.
        - [CLI Manager](#cli-manager)
     + [IDE](#ide)
     + [Linting](#linting)
+    + [Debugging](#debugging)
     + [Performance](#performance)
     + [Cross-platform](#cross-platform)
        - [Browser development](#browser-development)
@@ -376,6 +377,10 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 
 - [Noir Static Analyzer](https://github.com/walnuthq/noir-static-analyzer) by Walnut
 
+### Debugging
+
+- [CodeTracer](https://github.com/metacraft-labs/codetracer) - A visual time-travelling debugger for Linux and MacOS with support for Noir
+  
 ### Performance
 
 - [Noir + Barretenberg Profiler](https://github.com/noir-lang/noir/tree/master/tooling/profiler) - Opcode, execution and proving costs flamegraphing tool
