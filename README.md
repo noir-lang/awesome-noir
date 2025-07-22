@@ -370,7 +370,7 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 - [Neovim Plugin](https://github.com/noir-lang/noir-nvim) - Syntax highlight, error highlight, etc.
 - [Emacs Plugin](https://melpa.org/#/noir-mode) - Syntax highlight ([Source Code](https://github.com/hhamud/noir-mode))
 - [Zed Plugin](https://github.com/shuklaayush/zed-noir) - Syntax highlight, LSP support
-- [Tree-sitter-noir](https://github.com/hhamud/tree-sitter-noir) - Tree-sitter grammar for Noir language
+- [tree_sitter_noir](https://github.com/tsujp/tree_sitter_noir) - Tree-sitter grammar for Noir
 - [Emacs Tree-sitter Plugin](https://melpa.org/#/noir-ts-mode) - Syntax highlight ([Source Code](https://github.com/hhamud/noir-ts-mode))
 
 ### Linting
