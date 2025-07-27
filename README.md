@@ -125,6 +125,7 @@ A curated list of resources for learning and programming in Noir.
 - [Self](https://github.com/selfxyz/self) - identity wallet supporting privacy-preserving proofs of government-issued IDs
 - [ZKPassport](https://github.com/zkpassport/) - privacy-preserving proofs of national passports
 - [Rarimo](https://github.com/rarimo/passport-zk-circuits-noir) - passport signature verification circuits
+- [noir-tckn](https://github.com/erhant/noir-tckn) – Noir circuit for validating Turkish National Identity Numbers (TCKN) using checksum-based logic.
 
 ### Social
 
