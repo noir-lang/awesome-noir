@@ -392,6 +392,7 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 
 - [NoirJS](https://noir-lang.org/docs/tutorials/noirjs_app) - compile and execute Noir programs in JavaScript / TypeScript
 - [Noir Codegen for TypeScript](https://noir-lang.org/docs/reference/noir_codegen) - generate TypeScript bindings for computing Noir program outputs in TS
+- [Noir Playground](https://www.noir-playground.app/) - A browser-based Noir zero-knowledge proof development environment. ([Source Code](https://github.com/0xandee/noir-playground))
 
 #### Mobile development
 
