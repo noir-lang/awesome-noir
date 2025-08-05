@@ -12,68 +12,68 @@ A curated list of resources for learning and programming in Noir.
 
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 
-- [Useful Resources](#useful-resources)
-- [Projects](#projects)
-  - [General](#general)
-  - [Authentication](#authentication)
-  - [Commercial](#commercial)
-  - [DeFi](#defi)
-  - [Gaming](#gaming)
-  - [Governance](#governance)
-  - [Identity](#identity)
-  - [Social](#social)
-- [Benchmarks](#benchmarks)
-- [Learning](#learning)
-  - [Interactive Tutorials](#interactive-tutorials)
-  - [Educational Curriculums](#educational-curriculums)
-  - [Examples](#examples)
-  - [Talks & Workshops](#talks--workshops)
-  - [Blog Posts & Articles](#blog-posts--articles)
-  - [International Resources](#international-resources)
-- [Boilerplates](#boilerplates)
-- [Libraries](#libraries)
-  - [General](#general-1)
-  - [Data Types](#data-types)
-    - [Numerics](#numerics)
-    - [Dates & Times](#dates--times)
-  - [Data Type Manipulation](#data-type-manipulation)
-    - [General](#general-2)
-    - [Numerics](#numerics-1)
-    - [Bytes](#bytes)
-    - [Texts](#texts)
-    - [Collections](#collections)
-  - [Cryptography](#cryptography)
-    - [Elliptic Curves](#elliptic-curves)
-    - [Hashes](#hashes)
-    - [Encryption](#encryption)
-    - [Signatures](#signatures)
-    - [Merkle Trees](#merkle-trees)
-    - [Message Authentication Code](#message-authentication-code)
-    - [Randomness](#randomness)
-  - [Blockchain Specifics](#blockchain-specifics)
-    - [Aztec](#aztec)
-    - [Ethereum](#ethereum)
-    - [Bitcoin ](#bitcoin)
-  - [Social](#social-1)
-  - [Machine Learning](#machine-learning)
-- [Developer Tools](#developer-tools)
-  - [Package Management](#package-management)
-    - [Library Registry](#library-registry)
-    - [CLI Manager](#cli-manager)
-  - [IDE](#ide)
-  - [Linting](#linting)
-  - [Debugging](#debugging)
-  - [Performance](#performance)
-  - [Cross-platform](#cross-platform)
-    - [Browser development](#browser-development)
-    - [Mobile development](#mobile-development)
-  - [EVM](#evm)
-  - [Private shared states](#private-shared-states)
-  - [Library-related](#library-related)
-  - [Security](#security)
-  - [Proving Backends](#proving-backends)
-- [Contribute](#contribute)
-- [License](#license)
+ * [Useful Resources](#useful-resources)
+ * [Projects](#projects)
+    + [General](#general)
+    + [Authentication](#authentication)
+    + [Commercial](#commercial)
+    + [DeFi](#defi)
+    + [Gaming](#gaming)
+    + [Governance](#governance)
+    + [Identity](#identity)
+    + [Social](#social)
+ * [Benchmarks](#benchmarks)
+ * [Learning](#learning)
+    + [Interactive Tutorials](#interactive-tutorials)
+    + [Educational Curriculums](#educational-curriculums)
+    + [Examples](#examples)
+    + [Talks & Workshops](#talks--workshops)
+    + [Blog Posts & Articles](#blog-posts--articles)
+    + [International Resources](#international-resources)
+ * [Boilerplates](#boilerplates)
+ * [Libraries](#libraries)
+    + [General](#general-1)
+    + [Data Types](#data-types)
+       - [Numerics](#numerics)
+       - [Dates & Times](#dates--times)
+    + [Data Type Manipulation](#data-type-manipulation)
+       - [General](#general-2)
+       - [Numerics](#numerics-1)
+       - [Bytes](#bytes)
+       - [Texts](#texts)
+       - [Collections](#collections)
+    + [Cryptography](#cryptography)
+       - [Elliptic Curves](#elliptic-curves)
+       - [Hashes](#hashes)
+       - [Encryption](#encryption)
+       - [Signatures](#signatures)
+       - [Merkle Trees](#merkle-trees)
+       - [Message Authentication Code](#message-authentication-code)
+       - [Randomness](#randomness)
+    + [Blockchain Specifics](#blockchain-specifics)
+       - [Aztec](#aztec)
+       - [Ethereum](#ethereum)
+       - [Bitcoin ](#bitcoin)
+    + [Social](#social-1)
+    + [Machine Learning](#machine-learning)
+ * [Developer Tools](#developer-tools)
+    + [Package Management](#package-management)
+       - [Library Registry](#library-registry)
+       - [CLI Manager](#cli-manager)
+    + [IDE](#ide)
+    + [Linting](#linting)
+    + [Debugging](#debugging)
+    + [Performance](#performance)
+    + [Cross-platform](#cross-platform)
+       - [Browser development](#browser-development)
+       - [Mobile development](#mobile-development)
+    + [EVM](#evm)
+    + [Private shared states](#private-shared-states)
+    + [Library-related](#library-related)
+    + [Security](#security)
+    + [Proving Backends](#proving-backends)
+ * [Contribute](#contribute)
+ * [License](#license)
 
 <!-- TOC end -->
 
@@ -151,7 +151,6 @@ A curated list of resources for learning and programming in Noir.
 - [Glass Bridge With Noir](https://zkdev.net/docs/tutorial/glass-bridge) – A browser-based game that demonstrates Zero-Knowledge Proofs using Noir. Learn by proving a secret path without revealing it.
 
 ### Educational Curriculums
-
 - [Noir Programming And ZK Circuits by Cyfrin](https://updraft.cyfrin.io/courses/noir-programming-and-zk-circuits)
   - Step into the world of Noir, a domain-specific programming language for writing circuits, and learn to build zero-knowledge (ZK) apps. The Noir Programming and ZK Circuits course will teach you how to write circuits, how to build a full ZK protocol from scratch (using Noir, Barretenberg, and Solidity), and how to build the backend of a full-stack, privacy-preserving ZK application.
 - [ZKCamp's Open Source Noir course](https://github.com/ZKCamp/aztec-noir-course)
@@ -336,7 +335,7 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 - [ECrecover](https://github.com/colinnielsen/ecrecover-noir) - ECDSA signature verification and return of source Ethereum address
 - [Ethereum Storage Proof](https://github.com/olehmisar/vlayer-monorepo) - proving and verifying historical Ethereum / EVM accounts, storage, logs, receipts & transactions
 
-#### Bitcoin
+#### Bitcoin 
 
 - [op_rand](https://github.com/distributed-lab/op_rand) - VRF on Bitcoin. Proves the correctness of all the actions using Noir circuits with Barretenberg backend
 
@@ -367,7 +366,6 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 
 ### IDE
 
-- [Noir Playground](https://www.noir-playground.app/) - A browser-based Noir zero-knowledge proof development environment. ([Source Code](https://github.com/0xandee/noir-playground))
 - [VS Code Extension](https://marketplace.visualstudio.com/items?itemName=noir-lang.vscode-noir) - Syntax highlight, error highlight, codelens, etc. ([Source Code](https://github.com/noir-lang/vscode-noir))
 - [Neovim Plugin](https://github.com/noir-lang/noir-nvim) - Syntax highlight, error highlight, etc.
 - [Emacs Plugin](https://melpa.org/#/noir-mode) - Syntax highlight ([Source Code](https://github.com/hhamud/noir-mode))
@@ -382,7 +380,7 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 ### Debugging
 
 - [CodeTracer](https://github.com/metacraft-labs/codetracer) - A visual time-travelling debugger for Linux and MacOS with support for Noir
-
+  
 ### Performance
 
 - [Noir + Barretenberg Profiler](https://github.com/noir-lang/noir/tree/master/tooling/profiler) - Opcode, execution and proving costs flamegraphing tool
@@ -394,6 +392,7 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 
 - [NoirJS](https://noir-lang.org/docs/tutorials/noirjs_app) - compile and execute Noir programs in JavaScript / TypeScript
 - [Noir Codegen for TypeScript](https://noir-lang.org/docs/reference/noir_codegen) - generate TypeScript bindings for computing Noir program outputs in TS
+- [Noir Playground](https://www.noir-playground.app/) - A browser-based Noir zero-knowledge proof development environment. ([Source Code](https://github.com/0xandee/noir-playground))
 
 #### Mobile development
 
