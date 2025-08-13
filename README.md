@@ -291,7 +291,7 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 
 - [Keccak256](https://github.com/noir-lang/keccak256) - Keccak256 hashes
 - [MiMC](https://github.com/noir-lang/mimc) - MiMC hashes
-- [Poseidon](https://github.com/noir-lang/poseidon) - Poseidon hashes
+- [Poseidon](https://github.com/noir-lang/poseidon) - Poseidon and Poseidon2 hashes
 - [RIPEMD160](https://github.com/distributed-lab/noir-ripemd160) - RIPEMD160 hashes
 - [SHA256](https://github.com/noir-lang/sha256) - SHA256 hashes
 - [SHA512](https://github.com/noir-lang/sha512) - SHA512 and SHA384 hashes
