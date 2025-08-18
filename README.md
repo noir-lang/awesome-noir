@@ -427,6 +427,7 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 - [rocq-of-noir](https://github.com/formal-land/rocq-of-noir) - formal verification of Noir programs with Rocq
 - [lampe](https://github.com/reilabs/lampe) - formal verification of Noir programs with Lean
 - [hunter](https://github.com/nfurfaro/hunter) - mutation-testing of Noir programs
+- [Circuzz fuzzer](https://github.com/Rigorous-Software-Engineering/circuzz) - fuzzer for finding soundness and completeness issues in the Noir infrastructure (by Consensys Diligence and TU Vienna)
 
 ### Proving Backends
 
