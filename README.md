@@ -341,7 +341,7 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 
 - [ECrecover](https://github.com/colinnielsen/ecrecover-noir) - ECDSA signature verification and return of source Ethereum address
 - [Ethereum Storage Proof](https://github.com/olehmisar/vlayer-monorepo) - proving and verifying historical Ethereum / EVM accounts, storage, logs, receipts & transactions
-- [Ethereum MPT Proof](https://github.com/RadNi/mpt-noir) - Recursion friendly Ethereum Merkle Patricia Trie Noir circuits.
+- [Ethereum MPT Proof](https://github.com/RadNi/mpt-noir) - proving Ethereum Merkle Patricia Trie with recursive proof aggregations
 
 #### Bitcoin
 
