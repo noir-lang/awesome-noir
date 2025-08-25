@@ -109,6 +109,7 @@ A curated list of resources for learning and programming in Noir.
 
 - [GitClaim](https://github.com/saleel/gitclaim) - privacy-preserving airdrop claims through proof of GitHub contributions
 - [z-imburse](https://github.com/Mach-34/z-imburse) - automated and privacy-preserving expense reimbursements
+- [ZK-Flexor](https://github.com/RadNi/zk-flexor) - privacy-preserving proofs of EVM asset balances
 
 ### DeFi
 
@@ -129,7 +130,7 @@ A curated list of resources for learning and programming in Noir.
 - [Self](https://github.com/selfxyz/self) - identity wallet supporting privacy-preserving proofs of government-issued IDs
 - [ZKPassport](https://github.com/zkpassport/) - privacy-preserving proofs of national passports
 - [Rarimo](https://github.com/rarimo/passport-zk-circuits-noir) - passport signature verification circuits
-- [ZK-Flexor](https://github.com/RadNi/zk-flexor) - privacy-preserving flexor for native EVM balance using mpt-noir circuits
+
 
 ### Social
 
