@@ -87,7 +87,7 @@ A curated list of resources for learning and programming in Noir.
 
 - [Docs](https://noir-lang.org/docs)
 - [GitHub](https://github.com/noir-lang)
-- [Discord](https://discord.gg/RJdCBN373S)
+- [Discord](https://discord.com/invite/RJdCBN373S)
 - [Community Job Board](https://www.notion.so/aztecnetwork/Noir-Community-Job-Board-1a1a1f6b0e3580a58515ecae879c8cf2)
 
 ## Projects
