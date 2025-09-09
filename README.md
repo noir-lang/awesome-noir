@@ -117,6 +117,7 @@ A curated list of resources for learning and programming in Noir.
 
 ### Gaming
 
+- [ZK-AntiCheat](https://github.com/pop-eax/ZK-AntiCheat) - Privacy-Preserving anticheat engine 
 - [Terry Escape](https://github.com/fatlabsxyz/terry-escape) - Multiplayer faction warfare in fog of war
 - [zk-hangman-noir](https://github.com/Turupawn/zk-hangman-noir) - end-to-end zkDApp demo showcasing the Hangman circuit, EVM contract, and WASM frontend
 
