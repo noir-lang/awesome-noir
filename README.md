@@ -148,6 +148,7 @@ A curated list of resources for learning and programming in Noir.
   - [From the Base team](https://github.com/lukasrosario/zk-snark-ecdsa-benchmarks)
   - [From the Hyli team](https://github.com/vladfdp/p256-proving-benchmark)
 - [Noir Development Bench](https://noir-lang.github.io/noir/dev/bench/) - development benchmarks of compilation and execution on latest Noir GitHub commits
+- [Noir Benchmark CLI](https://github.com/francoperez03/noir-benchmark-cli) - CLI tool for benchmarking NoirJS + Barretenberg proof generation with visual pipeline profiling and performance insights
 
 ## Learning
 
