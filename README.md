@@ -348,6 +348,7 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 #### Bitcoin
 
 - [op_rand](https://github.com/distributed-lab/op_rand) - VRF on Bitcoin. Proves the correctness of all the actions using Noir circuits with Barretenberg backend
+- [bitcoin-prover](https://github.com/distributed-lab/bitcoin-prover) - proving the validity of the Bitcoin block header chain and the possibility of using the corresponding output as the input of a transaction.
 
 ### Social
 
