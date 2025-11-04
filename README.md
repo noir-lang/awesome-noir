@@ -173,7 +173,6 @@ A curated list of resources for learning and programming in Noir.
 
 - [Noir Examples](https://github.com/noir-lang/noir-examples) - reference examples of zero-knowledge applications in Noir
 - [Circuit Examples](https://github.com/thor314/circuit-examples) - demonstration implementation of dot products & Merkle proofs in Noir, Circom and RISC0
-- 
 
 ### Talks & Workshops
 
