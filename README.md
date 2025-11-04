@@ -211,6 +211,7 @@ A curated list of resources for learning and programming in Noir.
 - [Privacy-preserving KYC with Noir](https://medium.com/@tisura/privacy-preserving-kyc-57002ab8d3f2)
 - [An incomplete guide to zk-KYC apps](https://medium.com/@tisura/an-incomplete-guide-to-zk-kyc-apps-d7b4c684795c)
 - [Build a Decentralized Voting Application w/ Noir](https://threesigma.xyz/blog/build-noir-decentralized-voting-application)
+= [Write an app-specific plasma that preserves privacy](https://ethereum.org/developers/tutorials/app-plasma/) - complete tutorial for an application that relies on Ethereum and Noir for integrity while preserving privacy (except for one centralized component).
 
 ### International Resources
 
