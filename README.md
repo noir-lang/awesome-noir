@@ -352,6 +352,9 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 - [op_rand](https://github.com/distributed-lab/op_rand) - VRF on Bitcoin. Proves the correctness of all the actions using Noir circuits with Barretenberg backend
 - [bitcoin-prover](https://github.com/distributed-lab/bitcoin-prover) - proving the validity of the Bitcoin block header chain and the possibility of using the corresponding output as the input of a transaction.
 
+#### Solana
+- [Sunspot](https://github.com/reilabs/sunspot) - provides tools to prove and verify Noir circuits on solana.
+
 ### Social
 
 - [Noir Social Verify](https://github.com/Envoy-VC/noir_social_verify) - zkEmail based proof of GitHub, Google, LinkedIn and X accounts and account details
@@ -445,7 +448,7 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 - [Plonky2](https://github.com/blocksense-network/noir) by Blocksense
 - [ProveKit (Recursive Groth16)](https://github.com/worldfnd/ProveKit) by World
 - [Sonobe (Nova, HyperNova)](https://github.com/privacy-scaling-explorations/sonobe) by 0xPARC and PSE
-- [Gnark](https://github.com/lambdaclass/noir_backend_using_gnark) by Lambdaclass (needs updating)
+- [Gnark](https://github.com/reilabs/sunspot) by Reilabs
 - [Groth16](https://github.com/TomAFrench/acvm-backend-groth16) (needs updating)
 - [Halo2](https://github.com/Ethan-000/halo2_backend) by Ethan (needs updating)
 - [Marlin](https://github.com/noir-lang/marlin_arkworks_backend) (needs updating)
