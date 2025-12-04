@@ -436,6 +436,7 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 - [lampe](https://github.com/reilabs/lampe) - formal verification of Noir programs with Lean
 - [hunter](https://github.com/nfurfaro/hunter) - mutation-testing of Noir programs
 - [Circuzz fuzzer](https://github.com/Rigorous-Software-Engineering/circuzz) - fuzzer for finding soundness and completeness issues in the Noir infrastructure (by Consensys Diligence and TU Vienna)
+- [noir-metrics](https://github.com/mutorium/noir-metrics) - source code metrics for Noir programs, with JSON output designed for audits, tooling, and mutation testing
 
 ### Proving Backends
 
