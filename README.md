@@ -246,7 +246,7 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 - [BigNum](https://github.com/noir-lang/noir-bignum) - a library for arithmetic computations of large unsigned integers of any length
 - [Fraction](https://github.com/resurgencelabs/fraction) - a library for accessing fractional number data types in Noir, allowing results that aren't whole numbers
 - [ZKFloat](https://github.com/0x3327/ZKFloat) - a floating point library for Noir
-- [IEEE754](https://github.com/jeswr/noir_IEEE754) - IEEE 754 compliant floating-point arithmetic library supporting single and double precision
+- [IEEE754](https://github.com/jeswr/noir_IEEE754) - an IEEE 754-compliant floating-point arithmetic library supporting single and double precision
 - [Complex Numbers](https://github.com/doctoruber/complexnr) - This library offers a comprehensive suite of operations for complex numbers
 - [Fixed Point Library](https://github.com/doctoruber/noir-fixed-point) - The FixedPoint library offers precise fixed-point arithmetic operations tailored for Noir
 - [Fixed Point Library for scale 2^-16](https://github.com/hashcloak/noir-fixed-point) - an optimized fixed point arithmetic library designed for scale 2^-16.
