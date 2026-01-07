@@ -436,6 +436,7 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 - [rocq-of-noir](https://github.com/formal-land/rocq-of-noir) - formal verification of Noir programs with Rocq
 - [lampe](https://github.com/reilabs/lampe) - formal verification of Noir programs with Lean
 - [hunter](https://github.com/nfurfaro/hunter) - mutation-testing of Noir programs
+- [zk-mutant](https://github.com/mutorium/zk-mutant) - mutation testing for Noir programs (source-level), running `nargo test` against small mutations to assess test-suite effectiveness
 - [Circuzz fuzzer](https://github.com/Rigorous-Software-Engineering/circuzz) - fuzzer for finding soundness and completeness issues in the Noir infrastructure (by Consensys Diligence and TU Vienna)
 - [noir-metrics](https://github.com/mutorium/noir-metrics) - source code metrics for Noir programs, with JSON output designed for audits, tooling, and mutation testing
 
