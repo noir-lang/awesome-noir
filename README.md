@@ -327,6 +327,7 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 
 - [ZK-Kit: Merkle Trees](https://github.com/privacy-scaling-explorations/zk-kit.noir/tree/main/packages/merkle-trees) - verification of (non-)membership proofs and add/update/delete leaves
 - [Indexed Merkle Tree](https://github.com/numtel/indexed-merkle-noir) - Generate and verify proofs of inclusion, exclusion, or insert transition, includes complementary NPM package
+- [Merkle Tree](https://github.com/noir-lang/merkle) - Merkle Tree implementations forked from Aztec Packages
 
 #### Message Authentication Code
 
@@ -347,6 +348,7 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 - [ECrecover](https://github.com/colinnielsen/ecrecover-noir) - ECDSA signature verification and return of source Ethereum address
 - [Ethereum Storage Proof](https://github.com/olehmisar/vlayer-monorepo) - proving and verifying historical Ethereum / EVM accounts, storage, logs, receipts & transactions
 - [Ethereum MPT Proof](https://github.com/RadNi/mpt-noir) - proving Ethereum Merkle Patricia Trie with recursive proof aggregations
+- [Ethereum Storage Proof] 
 
 #### Bitcoin
 
