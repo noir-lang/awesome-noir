@@ -387,6 +387,7 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 - [Zed Plugin](https://github.com/shuklaayush/zed-noir) - Syntax highlight, LSP support
 - [tree_sitter_noir](https://github.com/tsujp/tree_sitter_noir) - Tree-sitter grammar for Noir
 - [Emacs Tree-sitter Plugin](https://melpa.org/#/noir-ts-mode) - Syntax highlight ([Source Code](https://github.com/hhamud/noir-ts-mode))
+- [JetBrains Noir Language Support](https://plugins.jetbrains.com/plugin/29753-noir-language-support) - Syntax highlight and extended context features ([Source Code](https://github.com/ZKLSOL/JetBrains-Noir-Syntax-Highlight-Plugin))
 
 ### Linting
 
