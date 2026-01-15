@@ -346,9 +346,8 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 #### Ethereum
 
 - [ECrecover](https://github.com/colinnielsen/ecrecover-noir) - ECDSA signature verification and return of source Ethereum address
-- [Ethereum Storage Proof](https://github.com/olehmisar/vlayer-monorepo) - proving and verifying historical Ethereum / EVM accounts, storage, logs, receipts & transactions
 - [Ethereum MPT Proof](https://github.com/RadNi/mpt-noir) - proving Ethereum Merkle Patricia Trie with recursive proof aggregations
-- [Ethereum Storage Proof](https://github.com/noir-lang/eth-proofs) - forked from vlayer-monorepo. Updated for compatibility with recent Noir releases, including modernizing outdated patterns
+- [Ethereum Storage Proof](https://github.com/noir-lang/eth-proofs) - proving and verifying historical Ethereum / EVM accounts, storage, logs, receipts & transactions; forked from vlayer-monorepo, updated for compatibility with recent Noir releases, including modernizing outdated patterns
 
 #### Bitcoin
 
