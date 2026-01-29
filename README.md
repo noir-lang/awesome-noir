@@ -14,34 +14,32 @@ A curated list of resources for learning and programming in Noir.
 
 - [Useful Resources](#useful-resources)
 - [Projects](#projects)
-   * [General](#general)
-   * [Authentication](#authentication)
-   * [Commercial](#commercial)
-   * [DeFi](#defi)
+   * [Finance](#finance)
    * [Gaming](#gaming)
-   * [Governance](#governance)
-   * [Identity](#identity)
    * [Social](#social)
+   * [Wallet](#wallet)
+   * [SDK](#sdk)
+   * [Unique Inspirations](#unique-inspirations)
 - [Benchmarks](#benchmarks)
 - [Learning](#learning)
    * [Interactive Tutorials](#interactive-tutorials)
    * [Educational Curriculums](#educational-curriculums)
    * [Examples](#examples)
-   * [Talks & Workshops](#talks-workshops)
+   * [Talks & Workshops](#talks--workshops)
       + [Coding in Noir](#coding-in-noir)
       + [Coding with Noir Projects](#coding-with-noir-projects)
       + [Project walkthroughs](#project-walkthroughs)
       + [Security](#security)
-   * [Blog Posts & Articles](#blog-posts-articles)
+   * [Blog Posts & Articles](#blog-posts--articles)
    * [International Resources](#international-resources)
 - [Boilerplates](#boilerplates)
 - [Libraries](#libraries)
-   * [General](#general-1)
+   * [General](#general)
    * [Data Types](#data-types)
       + [Numerics](#numerics)
-      + [Dates & Times](#dates-times)
+      + [Dates & Times](#dates--times)
    * [Data Type Manipulation](#data-type-manipulation)
-      + [General](#general-2)
+      + [General](#general-1)
       + [Numerics](#numerics-1)
       + [Bytes](#bytes)
       + [Texts](#texts)
@@ -92,52 +90,43 @@ A curated list of resources for learning and programming in Noir.
 
 ## Projects
 
-### General
+### Finance
 
-- [AnonRadar](https://www.anonradar.xyz/) - registry of Noir projects
-- [ZK Email](https://github.com/zkemail/zkemail.nr) - privacy-preserving proof of emails
-
-### Authentication
-
-- Safe modules for privacy-preserving multi-sig
-  - [Dark Safe](https://github.com/colinnielsen/dark-safe)
-  - [zkSafe](https://github.com/1kx-network/zksafe/)
-  - [SAMM](https://github.com/oxor-io/samm-circuits) - zkEmail based
-- [zkLogin](https://github.com/olehmisar/zklogin) - Apple/Google account based authentication for EVM smart accounts
-
-### Commercial
-
-- [GitClaim](https://github.com/saleel/gitclaim) - privacy-preserving airdrop claims through proof of GitHub contributions
-- [z-imburse](https://github.com/Mach-34/z-imburse) - automated and privacy-preserving expense reimbursements
-- [ZK-Flexor](https://github.com/RadNi/zk-flexor) - privacy-preserving proofs of EVM asset balances
-
-### DeFi
-
-- [Mezcal](https://github.com/olehmisar/mezcal) - a cutting edge on-chain limit order book dark pool.
+- [Mist Cash](https://mist.cash/) - private token transfers on StarkNet
+- [Private Tokenised Bonds](https://github.com/Meyanis95/private-tokenised-bonds/) - private institutional bond issuance and settlement
+- [ZK-Flexor](https://zk-flexor.xyz/) - private proofs of EVM asset balances
 
 ### Gaming
 
-- [ZK-AntiCheat](https://github.com/pop-eax/ZK-AntiCheat) - Privacy-Preserving anticheat engine 
-- [Terry Escape](https://github.com/fatlabsxyz/terry-escape) - Multiplayer faction warfare in fog of war
-- [zk-hangman-noir](https://github.com/Turupawn/zk-hangman-noir) - end-to-end zkDApp demo showcasing the Hangman circuit, EVM contract, and WASM frontend
-
-### Governance
-
-- [Nouns Anonymous Voting](https://github.com/aragonzkresearch/nouns-anonymous-voting) - privacy-preserving voting research project for NounsDAO
-
-### Identity
-
-- [Anon-Aadhaar](https://github.com/anon-aadhaar/anon-aadhaar-noir) - privacy-preserving verification of Aadhaar (Indian residence ID) through proofs revealing only selected identity information
-- [Self](https://github.com/selfxyz/self) - identity wallet supporting privacy-preserving proofs of government-issued IDs
-- [ZKPassport](https://github.com/zkpassport/) - privacy-preserving proofs of national passports
-- [Rarimo](https://github.com/rarimo/passport-zk-circuits-noir) - passport signature verification circuits
-
+- [ZK-AntiCheat](https://github.com/pop-eax/ZK-AntiCheat) - privacy-preserving anticheat engine 
 
 ### Social
 
-- [anon.world](https://github.com/Slokh/anonworld) - social media with optional anonymity
-- [Rate Limiting Nullifiers](https://github.com/curryrasul/rln.nr) - spam regulation/rate-limiting in anonymous environments
-- [StealthNote](https://github.com/saleel/stealthnote) - message board for people in an organization to anonymously broadcast messages
+- [anoncast](https://anoncast.org/) - posting anonymously to Farcaster and X
+- [StealthNote](https://stealthnote.xyz/) - anonymous message board for people to post from organizations and companies 
+
+### Wallet
+
+- [Payy](https://payy.link/) - private stablecoin wallet
+- [zkLogin](https://zklogin.shield-labs.xyz/) - EVM wallet based on cryptographic proofs of Google account authentication
+- [zkSafe](https://zksafe.1kx.io/) - private Safe multi-sig signing
+
+### SDK
+
+- [Anon-Aadhaar](https://github.com/anon-aadhaar/anon-aadhaar-noir) - proving information on Aadhaars (Indian residence ID)
+- [Rarimo zk Passport](https://rarimo.com/#zk-passport) - proving information in national passports
+- [ZKPassport](https://zkpassport.id/) - proving information in national passports
+- [ZK Email](https://zk.email/) - proving email contents
+
+### Unique Inspirations
+
+- [GitClaim](https://github.com/saleel/gitclaim) - private airdrop claims via proof of GitHub contributions 
+- [Mezcal](https://github.com/nemi-fi/mezcal) - on-chain limit order book dark pool
+- [Nouns Anonymous Voting](https://github.com/aragonzkresearch/nouns-anonymous-voting) - private voting research project for NounsDAO
+- [Rate Limiting Nullifiers](https://github.com/curryrasul/rln.nr) - spam regulation and rate-limiting for anonymous environments
+- [Terry Escape](https://github.com/fatlabsxyz/terry-escape) - Multiplayer faction warfare
+- [z-imburse](https://github.com/Mach-34/z-imburse) - private expense reimbursements
+- [ZK Blackjack](https://github.com/eerkaijun/zk-blackjack/) - on-chain blackjack with collaborative randomness seeding and Fisher-Yates shuffling
 
 ## Benchmarks
 
