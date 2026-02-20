@@ -435,16 +435,20 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 
 - [Barretenberg (UltraHonk / MegaHonk)](https://github.com/AztecProtocol/barretenberg) by Aztec Labs
 - [coSNARKs](https://github.com/TaceoLabs/co-snarks) by Taceo Labs
-- [Edge (Supernova)](https://github.com/pluto/edge) by Pluto
-- [Plonky2](https://github.com/blocksense-network/noir) by Blocksense
-- [ProveKit (Recursive Groth16)](https://github.com/worldfnd/ProveKit) by World
+- [ProveKit (Spartan + WHIR)](https://github.com/worldfnd/ProveKit) by World
 - [Sonobe (Nova, HyperNova)](https://github.com/privacy-scaling-explorations/sonobe) by 0xPARC and PSE
-- [Gnark](https://github.com/lambdaclass/noir_backend_using_gnark) by Lambdaclass (needs updating)
-- [Groth16](https://github.com/TomAFrench/acvm-backend-groth16) (needs updating)
-- [Halo2](https://github.com/Ethan-000/halo2_backend) by Ethan (needs updating)
-- [Marlin](https://github.com/noir-lang/marlin_arkworks_backend) (needs updating)
-- [Plonky2](https://github.com/eryxcoop/acvm-backend-plonky2) by Eryx (needs updating)
-- [Plonky3](https://github.com/vacekj/air-fried-gyatt) by Josef (needs updating)
+- [Sunspot (Gnark Groth16)](https://github.com/reilabs/sunspot) by Reilabs
+
+#### Needs updating
+
+- [Plonky2](https://github.com/blocksense-network/noir) by Blocksense
+- [Edge (Supernova)](https://github.com/pluto/edge) by Pluto
+- [Gnark](https://github.com/lambdaclass/noir_backend_using_gnark) by Lambdaclass
+- [Groth16](https://github.com/TomAFrench/acvm-backend-groth16) by Tom
+- [Halo2](https://github.com/Ethan-000/halo2_backend) by Ethan
+- [Marlin](https://github.com/noir-lang/marlin_arkworks_backend) by Noir team
+- [Plonky2](https://github.com/eryxcoop/acvm-backend-plonky2) by Eryx
+- [Plonky3](https://github.com/vacekj/air-fried-gyatt) by Josef
 
 ## Contribute
 
