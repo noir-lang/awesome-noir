@@ -381,7 +381,7 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 
 ### Linting
 
-- [Noir Static Analyzer](https://github.com/walnuthq/noir-static-analyzer) by Walnut
+- [aztec-lint](https://github.com/NethermindEth/aztec-lint) by Nethermind - static analyzer for Aztec.nr contracts, also works with vanilla Noir programs
 
 ### Debugging
 
