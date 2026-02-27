@@ -240,7 +240,7 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 - [Complex Numbers](https://github.com/doctoruber/complexnr) - This library offers a comprehensive suite of operations for complex numbers
 - [Fixed Point Library](https://github.com/doctoruber/noir-fixed-point) - The FixedPoint library offers precise fixed-point arithmetic operations tailored for Noir
 - [Fixed Point Library for scale 2^-16](https://github.com/hashcloak/noir-fixed-point) - an optimized fixed point arithmetic library designed for scale 2^-16.
-- [wad.nr Fixed Point Library](github.com/merkle-groot/wad.nr) - An 18-decimals fixed-point arithmetic library for Noir that enables safe token calculations in DeFi contracts.
+- [wad.nr Fixed Point Library](https://github.com/merkle-groot/wad.nr) - An 18-decimals fixed-point arithmetic library for Noir that enables safe token calculations in DeFi contracts.
 
 #### Dates & Times
 
