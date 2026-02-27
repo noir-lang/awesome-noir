@@ -115,6 +115,7 @@ A curated list of resources for learning and programming in Noir.
 
 - [Anon-Aadhaar](https://github.com/anon-aadhaar/anon-aadhaar-noir) - proving information on Aadhaars (Indian residence ID)
 - [Rarimo zk Passport](https://rarimo.com/#zk-passport) - proving information in national passports
+- [Shielded x402](https://github.com/nhestrompia/shielded-x402/) - TypeScript SDK for privacy-preserving x402 payments
 - [ZKPassport](https://zkpassport.id/) - proving information in national passports
 - [ZK Email](https://zk.email/) - proving email contents
 
