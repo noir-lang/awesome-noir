@@ -95,6 +95,7 @@ A curated list of resources for learning and programming in Noir.
 - [Mist Cash](https://mist.cash/) - private token transfers on StarkNet
 - [Private Tokenised Bonds](https://github.com/Meyanis95/private-tokenised-bonds/) - private institutional bond issuance and settlement
 - [ZK-Flexor](https://zk-flexor.xyz/) - private proofs of EVM asset balances
+- [ZK Proof of Liabilities](https://github.com/ndavd/zk-proof-of-liabilities) - prove to each user of a CEX that their balance is included in the total liabilities without revealing any data from the other users
 
 ### Gaming
 
