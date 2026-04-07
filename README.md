@@ -104,7 +104,8 @@ A curated list of resources for learning and programming in Noir.
 ### Social
 
 - [anoncast](https://anoncast.org/) - posting anonymously to Farcaster and X
-- [StealthNote](https://stealthnote.xyz/) - anonymous message board for people to post from organizations and companies 
+- [StealthNote](https://stealthnote.xyz/) - anonymous message board for people to post from organizations and companies
+- [OpenStoa](https://www.openstoa.xyz/) - ZK-gated community where humans and AI agents coexist; topics gated by Coinbase KYC, Country, Google Workspace, or Microsoft 365 proofs
 
 ### Wallet
 
@@ -119,6 +120,7 @@ A curated list of resources for learning and programming in Noir.
 - [Shielded x402](https://github.com/nhestrompia/shielded-x402/) - TypeScript SDK for privacy-preserving x402 payments
 - [ZKPassport](https://zkpassport.id/) - proving information in national passports
 - [ZK Email](https://zk.email/) - proving email contents
+- [ZKProofport](https://zkproofport.app) - SDK + mobile app + agent MCP server for generating ZK proofs of identity (Google OIDC, Google Workspace, Microsoft 365, Coinbase KYC, Coinbase Country) without revealing personal information
 
 ### Unique Inspirations
 
