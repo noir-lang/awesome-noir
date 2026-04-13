@@ -60,9 +60,6 @@ A curated list of resources for learning and programming in Noir.
    * [Machine Learning](#machine-learning)
 - [Developer Tools](#developer-tools)
    * [AI Agentic Skills](#ai-agentic-skills)
-   * [Package Management](#package-management)
-      + [Library Registry](#library-registry)
-      + [CLI Manager](#cli-manager)
    * [IDE](#ide)
    * [Linting](#linting)
    * [Debugging](#debugging)
@@ -225,8 +222,6 @@ A curated list of resources for learning and programming in Noir.
 
 ## Libraries
 
-For package management (e.g. library registry, CLI manager), refer to the [package management tooling](#package-management) section.
-
 For library tooling (e.g. input generators, TypeScript implementations), refer to the [library-related tooling](#library-related) section.
 
 ### General
@@ -369,17 +364,6 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 - [Privacy Apps with Noir](https://ethskills.com/noir/SKILL.md) by ETHSKILLS
 - [Writing Idiomatic Noir](https://github.com/noir-lang/noir/blob/master/.claude/skills/noir-idioms/SKILL.md) by the Noir team
 - [ACIR Optimization Loop](https://github.com/noir-lang/noir/blob/master/.claude/skills/noir-optimize-acir/SKILL.md) by the Noir team
-
-### Package Management
-
-#### Library Registry
-
-- [Noir Libs](https://noir-libs.org/) by Walnut
-
-#### CLI Manager
-
-- [noir-libs](https://github.com/walnuthq/noir-libs) by Walnut
-- [noirupi](https://github.com/michaelelliot/noirupi) - Interactive noirup and bbup. Update noir and bb interactively using `noirupi` and `bbupi`
 
 ### IDE
 
