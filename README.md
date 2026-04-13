@@ -25,19 +25,19 @@ A curated list of resources for learning and programming in Noir.
    * [Interactive Tutorials](#interactive-tutorials)
    * [Educational Curriculums](#educational-curriculums)
    * [Examples](#examples)
-   * [Talks & Workshops](#talks--workshops)
+   * [Talks & Workshops](#talks-workshops)
       + [Coding in Noir](#coding-in-noir)
       + [Coding with Noir Projects](#coding-with-noir-projects)
       + [Project walkthroughs](#project-walkthroughs)
       + [Security](#security)
-   * [Blog Posts & Articles](#blog-posts--articles)
+   * [Blog Posts & Articles](#blog-posts-articles)
    * [International Resources](#international-resources)
 - [Boilerplates](#boilerplates)
 - [Libraries](#libraries)
    * [General](#general)
    * [Data Types](#data-types)
       + [Numerics](#numerics)
-      + [Dates & Times](#dates--times)
+      + [Dates & Times](#dates-times)
    * [Data Type Manipulation](#data-type-manipulation)
       + [General](#general-1)
       + [Numerics](#numerics-1)
@@ -59,6 +59,7 @@ A curated list of resources for learning and programming in Noir.
    * [Social](#social-1)
    * [Machine Learning](#machine-learning)
 - [Developer Tools](#developer-tools)
+   * [AI Agentic Skills](#ai-agentic-skills)
    * [Package Management](#package-management)
       + [Library Registry](#library-registry)
       + [CLI Manager](#cli-manager)
@@ -74,6 +75,7 @@ A curated list of resources for learning and programming in Noir.
    * [Library-related](#library-related)
    * [Security](#security-1)
    * [Proving Backends](#proving-backends)
+      + [Needs updating](#needs-updating)
 - [Contribute](#contribute)
 - [License](#license)
 
@@ -361,6 +363,12 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 - [zkML-Noir](https://github.com/storswiftlabs/zkml-noir) - Python ML model Noir transcoding, including various algorithms such as Decision tree, K-Means, XGBoost, FNN, CNN
 
 ## Developer Tools
+
+### AI Agentic Skills
+
+- [Privacy Apps with Noir](https://ethskills.com/noir/SKILL.md) by ETHSKILLS
+- [Writing Idiomatic Noir](https://github.com/noir-lang/noir/blob/master/.claude/skills/noir-idioms/SKILL.md) by the Noir team
+- [ACIR Optimization Loop](https://github.com/noir-lang/noir/blob/master/.claude/skills/noir-optimize-acir/SKILL.md) by the Noir team
 
 ### Package Management
 
