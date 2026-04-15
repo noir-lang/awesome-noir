@@ -133,8 +133,8 @@ A curated list of resources for learning and programming in Noir.
 
 ## Benchmarks
 
-- [Ethproofs' SHA256 and ECDSA Benchmarks](https://ethproofs.org/csp-benchmarks) - benchmarks of SHA256 hashes and ECDSA signature verifications in Noir with Barretenberg and other ZK stacks
-- [tsujp's Hash Benchmarks](https://observablehq.com/d/83efd5e7d136c471) - benchmarks of Poseidon2, Keccak256 and SHA256 at various input sizes and iterations in Noir with Barretenberg
+- [Ethproofs' Benchmarks](https://ethproofs.org/csp-benchmarks) - benchmarks of hashes and signature verifications in Noir with Barretenberg amongst other ZK stacks
+- [tsujp's Hash Benchmarks](https://observablehq.com/d/83efd5e7d136c471) - benchmarks of Poseidon2, Keccak256 and SHA256 at various input sizes and iterations
 
 ## Learning
 
