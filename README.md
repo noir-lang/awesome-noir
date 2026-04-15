@@ -134,6 +134,7 @@ A curated list of resources for learning and programming in Noir.
 ## Benchmarks
 
 - [Ethproofs' SHA256 and ECDSA Benchmarks](https://ethproofs.org/csp-benchmarks) - benchmarks of SHA256 hashes and ECDSA signature verifications in Noir with Barretenberg and other ZK stacks
+- [tsujp's Hash Benchmarks](https://observablehq.com/d/83efd5e7d136c471) - benchmarks of Poseidon2, Keccak256 and SHA256 at various input sizes and iterations in Noir with Barretenberg
 - [MoPro's Benchmarks](https://zkmopro.org/docs/performance/#noir) - benchmarks of Noir programs on mobile and browser
 - [Semaphore Benchmarks](https://hashcloak.github.io/semaphore-noir-final-report/benchmarks.html) - benchmarks of Semaphore implementations in Noir and Circom
 - [RSA Benchmarks](https://github.com/zkpassport/noir_rsa?tab=readme-ov-file#benchmarks) - benchmarks of the Noir RSA signature verification library
