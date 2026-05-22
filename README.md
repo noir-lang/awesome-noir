@@ -418,6 +418,8 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 - [Lampe](https://github.com/reilabs/lampe) by Reilabs - formal verification of Noir programs with Lean
 - [zk-mutant](https://github.com/mutorium/zk-mutant) - mutation testing for Noir programs
 - [noir-metrics](https://github.com/mutorium/noir-metrics) - source code metrics for Noir programs with machine-friendly JSON outputs
+- [zk-pipeline-doctor](https://github.com/Battam1111/zk-pipeline-doctor) - multi-language CI/CD audit CLI: detects Noir projects (via `nargo.toml`) and runs six health detectors (language conventions, tests, CI, docs, security, reproducibility), emitting a Markdown / JSON report with a prioritized fix list. Also supports Compact, Leo, Cairo, and RISC Zero. MIT
+- [zk-doctor-action](https://github.com/Battam1111/zk-doctor-action) - GitHub Action wrapping `zk-pipeline-doctor` for one-line CI integration. Optional threshold gating and PR-comment mode. MIT
 
 ### Proving Backends
 
