@@ -191,6 +191,7 @@ A curated list of resources for learning and programming in Noir.
 
 ### Blog Posts & Articles
 
+- [Building a Zero-Knowledge Identity Proof in Noir](https://battam1111.github.io/midnight-zk-cookbook/tutorials/noir-identity-proof.html) - hands-on ~3,500-word tutorial: design a circuit that proves a user owns a private credential (hash of national ID, age > 18, etc.) without revealing the underlying data; covers threat model, constraints/witnesses/public inputs, complete compilable Noir code, on-chain verifier integration, and common pitfalls (over-constraint, malleability, replay)
 - [Understanding the Technical Aspects of Aztec and Noir](https://hackmd.io/XZX9_pZ8Q1aa_ySDPeQopg)
 - Noir 101 for Solidity devs in ([English](https://mirror.xyz/crisgarner.eth/IRRxnP-HVP-7qLZ-bTI2HRpKTmSRPCDl-Q6gm2NTj4g)) and ([Spanish](https://mirror.xyz/crisgarner.eth/Iek7PhbhU4WpIJ6eixFq80_7R6czH7fbdCoN0Bd7NfI))
 - [Privacy-preserving KYC with Noir](https://medium.com/@tisura/privacy-preserving-kyc-57002ab8d3f2)
