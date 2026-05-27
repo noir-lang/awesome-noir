@@ -358,6 +358,7 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 - [Privacy Apps with Noir](https://ethskills.com/noir/SKILL.md) by ETHSKILLS
 - [Writing Idiomatic Noir](https://github.com/noir-lang/noir/blob/master/.claude/skills/noir-idioms/SKILL.md) by the Noir team
 - [ACIR Optimization Loop](https://github.com/noir-lang/noir/blob/master/.claude/skills/noir-optimize-acir/SKILL.md) by the Noir team
+- [Noir Circuit Auditor](https://github.com/0xVikasRushi/noir-claude-auditor) by 0xVikasRushi
 
 ### IDE
 
