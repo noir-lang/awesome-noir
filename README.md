@@ -12,11 +12,11 @@ A curated list of resources for learning and programming in Noir.
 
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 
-- [Useful Resources](#useful-resources)
+- [Resources](#resources)
+  - [Benchmarks](#benchmarks)
 - [Applications](#applications)
   - [Finance](#finance)
   - [Social](#social)
-- [Benchmarks](#benchmarks)
 - [Libraries](#libraries)
   - [General](#general)
   - [Data Types](#data-types)
@@ -56,7 +56,7 @@ A curated list of resources for learning and programming in Noir.
   - [EVM](#evm)
   - [Private shared states](#private-shared-states)
   - [Library-related](#library-related)
-  - [Security](#security-1)
+  - [Security](#security)
   - [Proving Backends](#proving-backends)
     - [Needs updating](#needs-updating)
 - [Contribute](#contribute)
@@ -66,12 +66,16 @@ A curated list of resources for learning and programming in Noir.
 
 ---
 
-## Useful Resources
+## Resources
 
 - [Docs](https://noir-lang.org/docs)
 - [GitHub](https://github.com/noir-lang)
 - [Discord](https://discord.gg/RJdCBN373S)
-- [Community Job Board](https://www.notion.so/aztecnetwork/Noir-Community-Job-Board-1a1a1f6b0e3580a58515ecae879c8cf2)
+
+### Benchmarks
+
+- [Ethproofs' Benchmarks](https://ethproofs.org/csp-benchmarks) - benchmarks of hashes and signature verifications in Noir with Barretenberg amongst other ZK stacks
+- [tsujp's Hash Benchmarks](https://observablehq.com/d/83efd5e7d136c471) - benchmarks of Poseidon2, Keccak256 and SHA256 at various input sizes and iterations
 
 ## Applications
 
@@ -83,11 +87,6 @@ A curated list of resources for learning and programming in Noir.
 
 - [anoncast](https://anoncast.org/) - anonymous X and Farcaster posting
 - [Openbands](https://openbands.xyz/) - pseudonymous posting by company, nationality or age
-
-## Benchmarks
-
-- [Ethproofs' Benchmarks](https://ethproofs.org/csp-benchmarks) - benchmarks of hashes and signature verifications in Noir with Barretenberg amongst other ZK stacks
-- [tsujp's Hash Benchmarks](https://observablehq.com/d/83efd5e7d136c471) - benchmarks of Poseidon2, Keccak256 and SHA256 at various input sizes and iterations
 
 ## Libraries
 
