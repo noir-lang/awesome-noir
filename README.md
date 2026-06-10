@@ -17,7 +17,6 @@ A curated list of resources for learning and programming in Noir.
   - [Finance](#finance)
   - [Social](#social)
 - [Benchmarks](#benchmarks)
-- [Boilerplates](#boilerplates)
 - [Libraries](#libraries)
   - [General](#general)
   - [Data Types](#data-types)
@@ -89,14 +88,6 @@ A curated list of resources for learning and programming in Noir.
 
 - [Ethproofs' Benchmarks](https://ethproofs.org/csp-benchmarks) - benchmarks of hashes and signature verifications in Noir with Barretenberg amongst other ZK stacks
 - [tsujp's Hash Benchmarks](https://observablehq.com/d/83efd5e7d136c471) - benchmarks of Poseidon2, Keccak256 and SHA256 at various input sizes and iterations
-
-## Boilerplates
-
-- [hardhat-noir-starter](https://github.com/olehmisar/hardhat-noir-starter) - project template with seamless Hardhat integration
-- [noir-library-starter](https://github.com/noir-lang/noir-library-starter) - library template
-- [noir-react-native-starter](https://github.com/madztheo/noir-react-native-starter) - mobile development template using React Native
-- [nargo binary examples](https://github.com/noir-lang/noir/tree/master/examples) - barebones use of nargo binary (and a proving backend) from: simple prove/verify, codegen, to recursion
-- [noir-recursive](https://github.com/teddav/noir-recursive) - recursion circuit template with UltraHonk in javascript
 
 ## Libraries
 
