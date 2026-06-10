@@ -20,20 +20,15 @@ A curated list of resources for programming with Noir.
 - [Libraries](#libraries)
   - [General](#general)
   - [Data Types](#data-types)
-    - [Numerics](#numerics)
-    - [Dates & Times](#dates--times)
-  - [Data Type Manipulation](#data-type-manipulation)
-    - [General](#general-1)
-    - [Texts](#texts)
-    - [Collections](#collections)
+  - [Text & Encoding](#text--encoding)
+  - [Collections](#collections)
   - [Cryptography](#cryptography)
     - [Elliptic Curves](#elliptic-curves)
     - [Hashes](#hashes)
     - [Encryption](#encryption)
     - [Signatures](#signatures)
     - [Merkle Trees](#merkle-trees)
-  - [Blockchain Specifics](#blockchain-specifics)
-    - [Ethereum](#ethereum)
+  - [Ethereum](#ethereum)
 - [Developer Tools](#developer-tools)
   - [SDK](#sdk)
   - [Infrastructure](#infrastructure)
@@ -88,32 +83,22 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 
 - [Standard Library](https://github.com/noir-lang/noir/tree/master/noir_stdlib) - standard library that ships with all Noir releases
 - [ZK Kit Noir](https://github.com/privacy-scaling-explorations/zk-kit.noir) - collection of algorithm and utility libraries from Privacy & Scaling Explorations
+- [nodash](https://github.com/olehmisar/nodash) - utility library for various data types, inspired by Lodash
 
 ### Data Types
-
-#### Numerics
 
 - [BigNum](https://github.com/noir-lang/noir-bignum) - arithmetic computations of large unsigned integers of any length
 - [IEEE754 Floating-point](https://github.com/jeswr/noir_IEEE754) - IEEE 754-compliant floating-point arithmetic library supporting single and double precision
 - [wad.nr Fixed-point](https://github.com/merkle-groot/wad.nr) - 18-decimal fixed-point arithmetics
-
-#### Dates & Times
-
 - [Noir Dates](https://github.com/madztheo/noir-date) - A Noir library to parse and abstract away Dates
 
-### Data Type Manipulation
-
-#### General
-
-- [nodash](https://github.com/olehmisar/nodash) - utility library for various data types, inspired by Lodash
-
-#### Texts
+### Text & Encoding
 
 - [Base64](https://github.com/noir-lang/noir_base64) - a library for base64 encoding
 - [JSON parser](https://github.com/noir-lang/noir_json_parser) - JSON string parsing, adheres to [IETF RFC 8259](https://datatracker.ietf.org/doc/html/rfc8259)
 - [String Search](https://github.com/noir-lang/noir_string_search) - proof of substring existence within a larger string
 
-#### Collections
+### Collections
 
 - [Sort](https://github.com/noir-lang/noir_sort) - efficient sorting of fixed-sized arrays
 - [Sparse Array](https://github.com/noir-lang/sparse_array) - efficient immutable and mutable sparse arrays
@@ -148,9 +133,7 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 
 - [ZK-Kit: Merkle Trees](https://github.com/privacy-scaling-explorations/zk-kit.noir/tree/main/packages/merkle-trees) - verification of (non-)membership proofs and add/update/delete leaves
 
-### Blockchain Specifics
-
-#### Ethereum
+### Ethereum
 
 - [ECrecover](https://github.com/colinnielsen/ecrecover-noir) - ECDSA signature verification and return of source Ethereum address
 - [EIP-712](https://github.com/geovgy/eip712-noir) - A Noir library for EIP-712 typed data hashing
