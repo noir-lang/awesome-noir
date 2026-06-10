@@ -24,8 +24,6 @@ A curated list of resources for programming with Noir.
     - [Dates & Times](#dates--times)
   - [Data Type Manipulation](#data-type-manipulation)
     - [General](#general-1)
-    - [Numerics](#numerics-1)
-    - [Bytes](#bytes)
     - [Texts](#texts)
     - [Collections](#collections)
   - [Cryptography](#cryptography)
@@ -34,14 +32,8 @@ A curated list of resources for programming with Noir.
     - [Encryption](#encryption)
     - [Signatures](#signatures)
     - [Merkle Trees](#merkle-trees)
-    - [Message Authentication Code](#message-authentication-code)
-    - [Randomness](#randomness)
   - [Blockchain Specifics](#blockchain-specifics)
-    - [Aztec](#aztec)
     - [Ethereum](#ethereum)
-    - [Bitcoin](#bitcoin)
-  - [Social](#social-1)
-  - [Machine Learning](#machine-learning)
 - [Developer Tools](#developer-tools)
   - [SDK](#sdk)
   - [Infrastructure](#infrastructure)
@@ -101,57 +93,36 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 
 #### Numerics
 
-- [BigNum](https://github.com/noir-lang/noir-bignum) - a library for arithmetic computations of large unsigned integers of any length
-- [Fraction](https://github.com/resurgencelabs/fraction) - a library for accessing fractional number data types in Noir, allowing results that aren't whole numbers
-- [ZKFloat](https://github.com/0x3327/ZKFloat) - a floating point library for Noir
-- [IEEE754](https://github.com/jeswr/noir_IEEE754) - an IEEE 754-compliant floating-point arithmetic library supporting single and double precision
-- [Complex Numbers](https://github.com/doctoruber/complexnr) - This library offers a comprehensive suite of operations for complex numbers
-- [Fixed Point Library](https://github.com/doctoruber/noir-fixed-point) - The FixedPoint library offers precise fixed-point arithmetic operations tailored for Noir
-- [Fixed Point Library for scale 2^-16](https://github.com/hashcloak/noir-fixed-point) - an optimized fixed point arithmetic library designed for scale 2^-16.
-- [wad.nr Fixed Point Library](https://github.com/merkle-groot/wad.nr) - An 18-decimals fixed-point arithmetic library for Noir that enables safe token calculations in DeFi contracts.
+- [BigNum](https://github.com/noir-lang/noir-bignum) - arithmetic computations of large unsigned integers of any length
+- [IEEE754 Floating-point](https://github.com/jeswr/noir_IEEE754) - IEEE 754-compliant floating-point arithmetic library supporting single and double precision
+- [wad.nr Fixed-point](https://github.com/merkle-groot/wad.nr) - 18-decimal fixed-point arithmetics
 
 #### Dates & Times
 
 - [Noir Dates](https://github.com/madztheo/noir-date) - A Noir library to parse and abstract away Dates
-- [DateTimeNr](https://github.com/doctoruber/DateTimeNr) - A Noir library to parse and abstract away DateTime objects
 
 ### Data Type Manipulation
 
 #### General
 
-- [nodash](https://github.com/olehmisar/nodash) - utility library for working with various data types, inspired by Lodash
-
-#### Numerics
-
-- [Matrix Operations](https://github.com/storswiftlabs/matrix_operations) - a library for matrix operations provides functionality for performing various matrix operations
-- [Statistical Library](https://github.com/doctoruber/statnr) - Noir Statistical Library is a comprehensive library for statistical computations in the Noir language
-- [Quantized arithmetic](https://github.com/storswiftlabs/quantized_arithmetic) - a library for quantized value operations of zero-point quantization
-
-#### Bytes
-
-- [U(int)2B(ytes)](https://github.com/colinnielsen/noir-u2b) - a library for converting `u8`->`u120`s to `[u8]` array
+- [nodash](https://github.com/olehmisar/nodash) - utility library for various data types, inspired by Lodash
 
 #### Texts
 
-- [Base64](https://github.com/vlayer-xyz/noir-base64) - a library for base64 encoding
-- [Noir Base64 Library](https://github.com/Envoy-VC/noir_base64_lib) - extension of `noir_base64` with support for Vectors and Base64 URL encoding and decoding
+- [Base64](https://github.com/noir-lang/noir_base64) - a library for base64 encoding
 - [JSON parser](https://github.com/noir-lang/noir_json_parser) - JSON string parsing, adheres to [IETF RFC 8259](https://datatracker.ietf.org/doc/html/rfc8259)
-- [String Utils](https://github.com/madztheo/noir-string-utils) - wrapper for String in Noir adding methods for common string operations
 - [String Search](https://github.com/noir-lang/noir_string_search) - proof of substring existence within a larger string
-- [zkRegEx](https://github.com/zkemail/zk-regex) - proof of Regular Expression (RegEx) verification
 
 #### Collections
 
 - [Sort](https://github.com/noir-lang/noir_sort) - efficient sorting of fixed-sized arrays
 - [Sparse Array](https://github.com/noir-lang/sparse_array) - efficient immutable and mutable sparse arrays
-- [Lib_LinkList](https://github.com/0xKarl98/Lib_LinkList) - A memory-efficient doubly-linked list implementation for Noir that supports constant time operations at both ends
 
 ### Cryptography
 
 #### Elliptic Curves
 
 - [BigCurve](https://github.com/noir-lang/noir_bigcurve) - operations over elliptic curves instantiated with an arbitrary prime field
-- [Pairing over BLS12-381](https://github.com/ewynx/noir_bls12_381_pairing) - Pairing over BLS12-381
 
 #### Hashes
 
@@ -164,43 +135,20 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 
 #### Encryption
 
-- [AES](https://github.com/TaceoLabs/noir-aes) - a (naive) implementation of AES encryption and decryption
-- [ChaCha20 Implementation](https://github.com/SleepingShell/noir-chacha20) - a Noir implementation of ChaCha20 as defined by [RFC7539](https://www.rfc-editor.org/rfc/rfc7539)
-- [ElGamal Encryption](https://github.com/jat9292/noir-elgamal/) - Exponential ElGamal Encryption on the Baby Jubjub curve
-- [Hydra for BN254](https://github.com/TaceoLabs/noir-hydra) - symmetric encryption and decryption
-- [ECIES](https://github.com/informalsystems/noir-ecies) - simple implementation of ECIES on the Baby Jubjub curve
 - [ECDH](https://github.com/privacy-scaling-explorations/zk-kit.noir/tree/main/packages/ecdh) - simple implementation of ECDH on the Baby Jubjub curve
 
 #### Signatures
 
-- [BLS12_381 Elliptic Curve Pairing and Signature Verification Library](https://github.com/onurinanc/noir-bls-signature)
 - [EdDSA](https://github.com/noir-lang/eddsa) - EdDSA signature verification
 - [ECDSA](https://github.com/zkpassport/noir-ecdsa) - ECDSA (NIST and Brainpool curves) signature verification
-- [JWT](https://github.com/saleel/noir-jwt) - Verification of JSON Web Tokens (JWTs) and prove claims
-- [PLUME](https://github.com/signorecello/zk-nullifier-sig/) - ECDSA-based nullifiers
 - [RSA](https://github.com/zkpassport/noir_rsa) - RSA signature verification
 - [Schnorr](https://github.com/noir-lang/schnorr) - Schnorr signature verification
-- [WebAuthn/Passkeys](https://github.com/olehmisar/noir_webauthn) - Verification of WebAuthn/Passkeys signatures; verifies signatures produced by `credentials.get`
 
 #### Merkle Trees
 
 - [ZK-Kit: Merkle Trees](https://github.com/privacy-scaling-explorations/zk-kit.noir/tree/main/packages/merkle-trees) - verification of (non-)membership proofs and add/update/delete leaves
-- [Indexed Merkle Tree](https://github.com/numtel/indexed-merkle-noir) - Generate and verify proofs of inclusion, exclusion, or insert transition, includes complementary NPM package
-- [Merkle Tree](https://github.com/noir-lang/merkle) - Merkle Tree implementations forked from Aztec Packages
-
-#### Message Authentication Code
-
-- [Noir HMAC](https://github.com/zkpersona/noir-hmac) - hash-based message authentication code
-
-#### Randomness
-
-- [Cryptographically Secure Pseudo-Random Number Generator](https://github.com/doctoruber/CSPRNG) - pseudo-random number generation
 
 ### Blockchain Specifics
-
-#### Aztec
-
-- [Aztec Storage proofs](https://github.com/nemi-fi/aztec_storage_proofs) - proving Aztec note inclusion in plain Noir, with verification in JavaScript or Solidity
 
 #### Ethereum
 
@@ -208,23 +156,6 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 - [EIP-712](https://github.com/geovgy/eip712-noir) - A Noir library for EIP-712 typed data hashing
 - [Ethereum MPT Proof](https://github.com/RadNi/mpt-noir) - proving Ethereum Merkle Patricia Trie with recursive proof aggregations
 - [Ethereum Storage Proof](https://github.com/noir-lang/eth-proofs) - proving and verifying historical Ethereum / EVM accounts, storage, logs, receipts & transactions; forked from vlayer-monorepo, updated for compatibility with recent Noir releases, including modernizing outdated patterns
-
-#### Bitcoin
-
-- [op_rand](https://github.com/distributed-lab/op_rand) - VRF on Bitcoin. Proves the correctness of all the actions using Noir circuits with Barretenberg backend
-- [bitcoin-prover](https://github.com/distributed-lab/bitcoin-prover) - proving the validity of the Bitcoin block header chain and the possibility of using the corresponding output as the input of a transaction.
-
-### Social
-
-- [Noir Social Verify](https://github.com/Envoy-VC/noir_social_verify) - zkEmail based proof of GitHub, Google, LinkedIn and X accounts and account details
-- [Noir Semaphore](https://github.com/distributed-lab/noir-semaphore) - Semaphore Protocol adapted to use Noir.
-
-### Machine Learning
-
-- [Convolution](https://github.com/storswiftlabs/convolution) - Convolutional Neural Network (CNN) library, including Convolutional layers, Pooling layers, and Linear (fully connected) layers
-- [ML](https://github.com/metavind/noir-ml) - neural networks
-- [SKProof](https://github.com/0x3327/skproof) - Scikit-learn compatible Python library for generating ZK proofs of execution
-- [zkML-Noir](https://github.com/storswiftlabs/zkml-noir) - Python ML model Noir transcoding, including various algorithms such as Decision tree, K-Means, XGBoost, FNN, CNN
 
 ## Developer Tools
 
