@@ -13,31 +13,27 @@ A curated list of resources for learning and programming in Noir.
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 
 - [Useful Resources](#useful-resources)
-- [Projects](#projects)
+- [Applications](#applications)
    * [Finance](#finance)
-   * [Gaming](#gaming)
    * [Social](#social)
-   * [Wallet](#wallet)
-   * [SDK](#sdk)
-   * [Unique Inspirations](#unique-inspirations)
 - [Benchmarks](#benchmarks)
 - [Learning](#learning)
    * [Interactive Tutorials](#interactive-tutorials)
    * [Educational Curriculums](#educational-curriculums)
    * [Examples](#examples)
-   * [Talks & Workshops](#talks-workshops)
+   * [Talks & Workshops](#talks--workshops)
       + [Coding in Noir](#coding-in-noir)
       + [Coding with Noir Projects](#coding-with-noir-projects)
       + [Project walkthroughs](#project-walkthroughs)
       + [Security](#security)
-   * [Blog Posts & Articles](#blog-posts-articles)
+   * [Blog Posts & Articles](#blog-posts--articles)
    * [International Resources](#international-resources)
 - [Boilerplates](#boilerplates)
 - [Libraries](#libraries)
    * [General](#general)
    * [Data Types](#data-types)
       + [Numerics](#numerics)
-      + [Dates & Times](#dates-times)
+      + [Dates & Times](#dates--times)
    * [Data Type Manipulation](#data-type-manipulation)
       + [General](#general-1)
       + [Numerics](#numerics-1)
@@ -59,6 +55,8 @@ A curated list of resources for learning and programming in Noir.
    * [Social](#social-1)
    * [Machine Learning](#machine-learning)
 - [Developer Tools](#developer-tools)
+   * [SDK](#sdk)
+   * [Infrastructure](#infrastructure)
    * [AI Agentic Skills](#ai-agentic-skills)
    * [IDE](#ide)
    * [Linting](#linting)
@@ -87,49 +85,16 @@ A curated list of resources for learning and programming in Noir.
 - [Discord](https://discord.gg/RJdCBN373S)
 - [Community Job Board](https://www.notion.so/aztecnetwork/Noir-Community-Job-Board-1a1a1f6b0e3580a58515ecae879c8cf2)
 
-## Projects
+## Applications
 
 ### Finance
 
-- [Mist Cash](https://mist.cash/) - private token transfers on StarkNet
-- [Private Tokenised Bonds](https://github.com/Meyanis95/private-tokenised-bonds/) - private institutional bond issuance and settlement
-- [ZK-Flexor](https://zk-flexor.xyz/) - private proofs of EVM asset balances
-- [ZK Proof of Liabilities](https://github.com/ndavd/zk-proof-of-liabilities) - prove to each user of a CEX that their balance is included in the total liabilities without revealing any data from the other users
-
-### Gaming
-
-- [ZK-AntiCheat](https://github.com/pop-eax/ZK-AntiCheat) - privacy-preserving anticheat engine 
+- [Payy](https://payy.network/) - private stablecoin payments
 
 ### Social
 
-- [anoncast](https://anoncast.org/) - posting anonymously to Farcaster and X
-- [StealthNote](https://stealthnote.xyz/) - anonymous message board for people to post from organizations and companies
-- [OpenStoa](https://www.openstoa.xyz/) - ZK-gated community where humans and AI agents coexist; topics gated by Coinbase KYC, Country, Google Workspace, or Microsoft 365 proofs
-
-### Wallet
-
-- [Payy](https://payy.link/) - private stablecoin wallet
-- [zkLogin](https://zklogin.shield-labs.xyz/) - EVM wallet based on cryptographic proofs of Google account authentication
-- [zkSafe](https://zksafe.1kx.io/) - private Safe multi-sig signing
-
-### SDK
-
-- [Anon-Aadhaar](https://github.com/anon-aadhaar/anon-aadhaar-noir) - proving information on Aadhaars (Indian residence ID)
-- [Rarimo zk Passport](https://rarimo.com/#zk-passport) - proving information in national passports
-- [Shielded x402](https://github.com/nhestrompia/shielded-x402/) - TypeScript SDK for privacy-preserving x402 payments
-- [ZKPassport](https://zkpassport.id/) - proving information in national passports
-- [ZK Email](https://zk.email/) - proving email contents
-- [ZKProofport](https://zkproofport.app) - SDK + mobile app + agent MCP server for generating ZK proofs of identity (Google OIDC, Google Workspace, Microsoft 365, Coinbase KYC, Coinbase Country) without revealing personal information
-
-### Unique Inspirations
-
-- [GitClaim](https://github.com/saleel/gitclaim) - private airdrop claims via proof of GitHub contributions 
-- [Mezcal](https://github.com/nemi-fi/mezcal) - on-chain limit order book dark pool
-- [Nouns Anonymous Voting](https://github.com/aragonzkresearch/nouns-anonymous-voting) - private voting research project for NounsDAO
-- [Rate Limiting Nullifiers](https://github.com/curryrasul/rln.nr) - spam regulation and rate-limiting for anonymous environments
-- [Terry Escape](https://github.com/fatlabsxyz/terry-escape) - Multiplayer faction warfare
-- [z-imburse](https://github.com/Mach-34/z-imburse) - private expense reimbursements
-- [ZK Blackjack](https://github.com/eerkaijun/zk-blackjack/) - on-chain blackjack with collaborative randomness seeding and Fisher-Yates shuffling
+- [anoncast](https://anoncast.org/) - anonymous X and Farcaster posting
+- [Openbands](https://openbands.xyz/) - pseudonymous posting by company, nationality or age
 
 ## Benchmarks
 
@@ -352,6 +317,16 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 - [zkML-Noir](https://github.com/storswiftlabs/zkml-noir) - Python ML model Noir transcoding, including various algorithms such as Decision tree, K-Means, XGBoost, FNN, CNN
 
 ## Developer Tools
+
+### SDK
+
+- [ZKPassport](https://zkpassport.id/) - proving information in national passports
+- [ZKProofport](https://zkproofport.app) - proving Coinbase attestations, Google Workspace and Microsoft 365 memberships
+- [ZK Email](https://zk.email/) - proving email senders and/or contents
+
+### Infrastructure
+
+- [Aztec](https://aztec.network/) - privacy-first blockchain supporting smart contracts in Noir
 
 ### AI Agentic Skills
 
