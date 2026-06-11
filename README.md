@@ -68,20 +68,19 @@ A curated list of resources for programming with Noir.
 
 ### Finance
 
-- [Payy](https://payy.network/) - private stablecoin payments
+- [Payy](https://payy.network/) ([source code](https://github.com/polybase/payy)) - private stablecoin payments
+- Zerosats ([source code](https://github.com/zerosats/zerosats)) - private Bitcoin payments
 
 ### Social
 
-- [anoncast](https://anoncast.org/) - anonymous X and Farcaster posting
-- [Openbands](https://openbands.xyz/) - pseudonymous posting by company, nationality or age
+- [anoncast](https://anoncast.org/) ([source code](https://github.com/Slokh/anoncast)) - anonymous X and Farcaster posting
 
 ### Infrastructure
 
-- [Aztec](https://aztec.network/) - privacy-first blockchain supporting smart contracts in Noir
+- [Aztec](https://aztec.network/) ([source code](https://github.com/AztecProtocol/aztec-packages)) - privacy-first blockchain supporting smart contracts in Noir
+- [Interfold](https://www.theinterfold.com/) ([source code](https://github.com/gnosisguild/interfold)) - private shared state protocol
 
 ## Libraries
-
-For library tooling (e.g. input generators, TypeScript implementations), refer to the [library-related tooling](#library-related) section.
 
 ### General
 
@@ -132,6 +131,7 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 - [ECDSA](https://github.com/zkpassport/noir-ecdsa) - ECDSA (NIST and Brainpool curves) signature verification
 - [RSA](https://github.com/zkpassport/noir_rsa) - RSA signature verification
 - [Schnorr](https://github.com/noir-lang/schnorr) - Schnorr signature verification
+- [zkQES](https://github.com/d3mage/zk-QES/) - PDF and XML document signature verification
 
 #### Merkle Trees
 
@@ -175,11 +175,11 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 
 ### IDE
 
-- [Noir Playground](https://www.noir-playground.app/), [Source Code](https://github.com/0xandee/noir-playground) - in-browser development environment
-- [VS Code Extension](https://marketplace.visualstudio.com/items?itemName=noir-lang.vscode-noir), [Source Code](https://github.com/noir-lang/vscode-noir)
+- [Noir Playground](https://www.noir-playground.app/) ([source code](https://github.com/0xandee/noir-playground)) - in-browser development environment
+- [VS Code Extension](https://marketplace.visualstudio.com/items?itemName=noir-lang.vscode-noir) ([source code](https://github.com/noir-lang/vscode-noir))
 - [Neovim Plugin](https://github.com/noir-lang/noir-nvim)
 - [Zed Plugin](https://github.com/shuklaayush/zed-noir)
-- [Emacs Tree-sitter Plugin](https://melpa.org/#/noir-ts-mode), [Source Code](https://github.com/hhamud/noir-ts-mode)
+- [Emacs Tree-sitter Plugin](https://melpa.org/#/noir-ts-mode) ([source code](https://github.com/hhamud/noir-ts-mode))
 - [tree_sitter_noir](https://github.com/tsujp/tree_sitter_noir) - tree-sitter grammar
 
 ### Linting & debugging
@@ -209,7 +209,9 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 
 ### Proving Backends
 
-- [Barretenberg (UltraHonk / MegaHonk)](https://github.com/AztecProtocol/barretenberg) by Aztec Labs
+- [Barretenberg (UltraHonk / MegaHonk)](https://github.com/AztecProtocol/barretenberg) by Aztec Foundation
+  - [Solidity verifier](https://barretenberg.aztec.network/docs/how_to_guides/how-to-solidity-verifier) by Aztec Foundation
+  - [Rust verifier](https://github.com/NethermindEth/rs-soroban-ultrahonk) by Nethermind and Stellar Development Foundation
 - [coSNARKs](https://github.com/TaceoLabs/co-snarks) by Taceo Labs
 - [ProveKit (Spartan + WHIR)](https://github.com/worldfnd/ProveKit) by World
 - [Sonobe (Nova, HyperNova)](https://github.com/privacy-scaling-explorations/sonobe) by 0xPARC and PSE
