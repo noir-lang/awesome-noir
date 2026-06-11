@@ -75,6 +75,10 @@ A curated list of resources for programming with Noir.
 - [anoncast](https://anoncast.org/) - anonymous X and Farcaster posting
 - [Openbands](https://openbands.xyz/) - pseudonymous posting by company, nationality or age
 
+### Infrastructure
+
+- [Aztec](https://aztec.network/) - privacy-first blockchain supporting smart contracts in Noir
+
 ## Libraries
 
 For library tooling (e.g. input generators, TypeScript implementations), refer to the [library-related tooling](#library-related) section.
@@ -142,16 +146,6 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 
 ## Developer Tools
 
-### SDK
-
-- [ZKPassport](https://zkpassport.id/) - proving information in national passports
-- [ZKProofport](https://zkproofport.app) - proving Coinbase attestations, Google Workspace and Microsoft 365 memberships
-- [ZK Email](https://zk.email/) - proving email senders and/or contents
-
-### Infrastructure
-
-- [Aztec](https://aztec.network/) - privacy-first blockchain supporting smart contracts in Noir
-
 ### AI Agentic Skills
 
 - [Privacy Apps with Noir](https://ethskills.com/noir/SKILL.md) by ETHSKILLS
@@ -159,27 +153,11 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 - [ACIR Optimization Loop](https://github.com/noir-lang/noir/blob/master/.claude/skills/noir-optimize-acir/SKILL.md) by the Noir team
 - [Noir Circuit Auditor](https://github.com/0xVikasRushi/noir-claude-auditor) by 0xVikasRushi
 
-### IDE
+### SDK
 
-- [Noir Playground](https://www.noir-playground.app/) - A browser-based Noir zero-knowledge proof development environment. ([Source Code](https://github.com/0xandee/noir-playground))
-- [VS Code Extension](https://marketplace.visualstudio.com/items?itemName=noir-lang.vscode-noir) - Syntax highlight, error highlight, codelens, etc. ([Source Code](https://github.com/noir-lang/vscode-noir))
-- [Neovim Plugin](https://github.com/noir-lang/noir-nvim) - Syntax highlight, error highlight, etc.
-- [Zed Plugin](https://github.com/shuklaayush/zed-noir) - Syntax highlight, LSP support
-- [tree_sitter_noir](https://github.com/tsujp/tree_sitter_noir) - Tree-sitter grammar for Noir
-- [Emacs Tree-sitter Plugin](https://melpa.org/#/noir-ts-mode) - Syntax highlight ([Source Code](https://github.com/hhamud/noir-ts-mode))
-
-### Linting
-
-- [aztec-lint](https://github.com/NethermindEth/aztec-lint) by Nethermind - static analyzer for Aztec.nr contracts, also works with vanilla Noir programs
-
-### Debugging
-
-- [CodeTracer](https://github.com/metacraft-labs/codetracer) - A visual time-travelling debugger for Linux and MacOS with support for Noir
-
-### Performance
-
-- [Noir + Barretenberg Profiler](https://github.com/noir-lang/noir/tree/master/tooling/profiler) - flamegraph opcode, execution and proving costs
-- [noir-web](https://github.com/gnosisguild/noir-web) – benchmark proving and verification of Noir programs on the browser
+- [ZKPassport](https://zkpassport.id/) - proving information in national passports
+- [ZKProofport](https://zkproofport.app) - proving Coinbase attestations, Google Workspace and Microsoft 365 memberships
+- [ZK Email](https://zk.email/) - proving email senders and/or contents
 
 ### Cross-platform
 
@@ -195,24 +173,39 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 - [Swoir](https://github.com/Swoir/swoir) by ZKPassport - prove and verify Noir programs with Swift on iOS and MacOS
 - [Noir Android](https://github.com/madztheo/noir_android) by ZKPassport - prove and verify Noir programs with Kotlin on Android
 
-### EVM
+### IDE
 
-- [hardhat-noir](https://www.npmjs.com/package/hardhat-noir) - Hardhat plugin ([Source Code](https://github.com/olehmisar/hardhat-noir))
-- [foundry-noir-helper](https://github.com/0xnonso/foundry-noir-helper) - helper library for working with Noir circuits within Foundry.
+- [Noir Playground](https://www.noir-playground.app/), [Source Code](https://github.com/0xandee/noir-playground) - in-browser development environment
+- [VS Code Extension](https://marketplace.visualstudio.com/items?itemName=noir-lang.vscode-noir), [Source Code](https://github.com/noir-lang/vscode-noir)
+- [Neovim Plugin](https://github.com/noir-lang/noir-nvim)
+- [Zed Plugin](https://github.com/shuklaayush/zed-noir)
+- [Emacs Tree-sitter Plugin](https://melpa.org/#/noir-ts-mode), [Source Code](https://github.com/hhamud/noir-ts-mode)
+- [tree_sitter_noir](https://github.com/tsujp/tree_sitter_noir) - tree-sitter grammar
 
-### Private shared states
+### Linting & debugging
 
-- [coSNARKs](https://github.com/TaceoLabs/co-snarks) - generate witness and prove Noir programs in a Multi-Party Computation network
-- [Kalypso](https://docs.kalypso.org/tutorials/noir-circuits/) - generate witness and prove Noir programs in Trusted Execution Environments
+- [aztec-lint](https://github.com/NethermindEth/aztec-lint) by Nethermind - static analyzer for Aztec.nr contracts, also works with vanilla Noir programs
+- [VS Code Debugger](https://noir-lang.org/docs/tooling/debugger)
+- [CodeTracer](https://github.com/metacraft-labs/codetracer) - time-travelling debugger with Noir support
+
+### Performance analysis
+
+- [Noir + Barretenberg Profiler](https://github.com/noir-lang/noir/tree/master/tooling/profiler) - flamegraph opcode, execution and proving costs
+- [noir-web](https://github.com/gnosisguild/noir-web) – benchmark proving and verification of Noir programs on the browser
+
+### Security
+
+- [Lampe](https://github.com/reilabs/lampe) by Reilabs - formal verification of Noir programs with Lean
 
 ### Library-related
 
 - [Merkle Tree Generator](https://github.com/eyalron33/mpz/) - generate Noir-library-friendly Pedersen based Merkle trees
 - [Poseidon2 in TypeScript](https://github.com/zkpassport/poseidon2) - a Poseidon2 library in pure TypeScript with support for the implementation used by Noir (over BN254)
 
-### Security
+### Private Shared States
 
-- [Lampe](https://github.com/reilabs/lampe) by Reilabs - formal verification of Noir programs with Lean
+- [coSNARKs](https://github.com/TaceoLabs/co-snarks) - generate witness and prove Noir programs in a Multi-Party Computation network
+- [Kalypso](https://docs.kalypso.org/tutorials/noir-circuits/) - generate witness and prove Noir programs in Trusted Execution Environments
 
 ### Proving Backends
 
