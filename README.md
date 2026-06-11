@@ -164,11 +164,9 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 - [Noir Playground](https://www.noir-playground.app/) - A browser-based Noir zero-knowledge proof development environment. ([Source Code](https://github.com/0xandee/noir-playground))
 - [VS Code Extension](https://marketplace.visualstudio.com/items?itemName=noir-lang.vscode-noir) - Syntax highlight, error highlight, codelens, etc. ([Source Code](https://github.com/noir-lang/vscode-noir))
 - [Neovim Plugin](https://github.com/noir-lang/noir-nvim) - Syntax highlight, error highlight, etc.
-- [Emacs Plugin](https://melpa.org/#/noir-mode) - Syntax highlight ([Source Code](https://github.com/hhamud/noir-mode))
 - [Zed Plugin](https://github.com/shuklaayush/zed-noir) - Syntax highlight, LSP support
 - [tree_sitter_noir](https://github.com/tsujp/tree_sitter_noir) - Tree-sitter grammar for Noir
 - [Emacs Tree-sitter Plugin](https://melpa.org/#/noir-ts-mode) - Syntax highlight ([Source Code](https://github.com/hhamud/noir-ts-mode))
-- [JetBrains Noir Language Support](https://plugins.jetbrains.com/plugin/29753-noir-language-support) - Syntax highlight and extended context features ([Source Code](https://github.com/ZKLSOL/JetBrains-Noir-Syntax-Highlight-Plugin))
 
 ### Linting
 
@@ -180,7 +178,7 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 
 ### Performance
 
-- [Noir + Barretenberg Profiler](https://github.com/noir-lang/noir/tree/master/tooling/profiler) - Opcode, execution and proving costs flamegraphing tool
+- [Noir + Barretenberg Profiler](https://github.com/noir-lang/noir/tree/master/tooling/profiler) - flamegraph opcode, execution and proving costs
 - [noir-web](https://github.com/gnosisguild/noir-web) – benchmark proving and verification of Noir programs on the browser
 
 ### Cross-platform
@@ -205,19 +203,16 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 ### Private shared states
 
 - [coSNARKs](https://github.com/TaceoLabs/co-snarks) - generate witness and prove Noir programs in a Multi-Party Computation network
-- [Kalypso](https://docs.marlin.org/user-guides/kalypso/tutorials/noir-circuits/) - generate witness and prove Noir programs in Trusted Execution Environments
+- [Kalypso](https://docs.kalypso.org/tutorials/noir-circuits/) - generate witness and prove Noir programs in Trusted Execution Environments
 
 ### Library-related
 
 - [Merkle Tree Generator](https://github.com/eyalron33/mpz/) - generate Noir-library-friendly Pedersen based Merkle trees
-- [Safecat](https://neimanslab.org/2024-02-19/safecat.html) - generate Noir-library-friendly EdDSA Baby Jubjub Elliptic Curve signatures
 - [Poseidon2 in TypeScript](https://github.com/zkpassport/poseidon2) - a Poseidon2 library in pure TypeScript with support for the implementation used by Noir (over BN254)
 
 ### Security
 
 - [Lampe](https://github.com/reilabs/lampe) by Reilabs - formal verification of Noir programs with Lean
-- [zk-mutant](https://github.com/mutorium/zk-mutant) - mutation testing for Noir programs
-- [noir-metrics](https://github.com/mutorium/noir-metrics) - source code metrics for Noir programs with machine-friendly JSON outputs
 
 ### Proving Backends
 
@@ -225,18 +220,7 @@ For library tooling (e.g. input generators, TypeScript implementations), refer t
 - [coSNARKs](https://github.com/TaceoLabs/co-snarks) by Taceo Labs
 - [ProveKit (Spartan + WHIR)](https://github.com/worldfnd/ProveKit) by World
 - [Sonobe (Nova, HyperNova)](https://github.com/privacy-scaling-explorations/sonobe) by 0xPARC and PSE
-- [Sunspot (Gnark Groth16)](https://github.com/reilabs/sunspot) by Reilabs
-
-#### Needs updating
-
-- [Plonky2](https://github.com/blocksense-network/noir) by Blocksense
-- [Edge (Supernova)](https://github.com/pluto/edge) by Pluto
-- [Gnark](https://github.com/lambdaclass/noir_backend_using_gnark) by Lambdaclass
-- [Groth16](https://github.com/TomAFrench/acvm-backend-groth16) by Tom
-- [Halo2](https://github.com/Ethan-000/halo2_backend) by Ethan
-- [Marlin](https://github.com/noir-lang/marlin_arkworks_backend) by Noir team
-- [Plonky2](https://github.com/eryxcoop/acvm-backend-plonky2) by Eryx
-- [Plonky3](https://github.com/vacekj/air-fried-gyatt) by Josef
+- [Sunspot (Groth16)](https://github.com/reilabs/sunspot) by Reilabs
 
 ## Contribute
 
