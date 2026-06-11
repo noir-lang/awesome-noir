@@ -30,6 +30,7 @@ A curated list of resources for programming with Noir.
     - [Signatures](#signatures)
     - [Merkle Trees](#merkle-trees)
   - [Ethereum](#ethereum)
+  - [Media](#media)
 - [Developer Tools](#developer-tools)
   - [AI Agentic Skills](#ai-agentic-skills)
   - [SDK](#sdk)
@@ -140,6 +141,10 @@ A curated list of resources for programming with Noir.
 - [EIP-712](https://github.com/geovgy/eip712-noir) - A Noir library for EIP-712 typed data hashing
 - [Ethereum MPT Proof](https://github.com/RadNi/mpt-noir) - proving Ethereum Merkle Patricia Trie with recursive proof aggregations
 - [Ethereum Storage Proof](https://github.com/noir-lang/eth-proofs) - proving and verifying historical Ethereum / EVM accounts, storage, logs, receipts & transactions; forked from vlayer-monorepo, updated for compatibility with recent Noir releases, including modernizing outdated patterns
+
+### Media
+
+- [Apertrue](https://github.com/Apertrue/circuits) - proving authenticity of photos and videos through C2PA signatures from trusted devices
 
 ## Developer Tools
 
