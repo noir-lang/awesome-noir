@@ -122,6 +122,8 @@ A curated list of resources for programming with Noir.
 #### Encryption
 
 - [ECDH](https://github.com/privacy-scaling-explorations/zk-kit.noir/tree/main/packages/ecdh) - simple implementation of ECDH on the Baby Jubjub curve
+- [RLWE Gadgets](https://github.com/aryaethn/noir-rlwe-gadgets) - gadgets for verifying Ring-LWE / BFV encryption correctness (secret-key and public-key) in-circuit via Schwartz-Zippel, with an on-chain UltraHonk verifier (UNAUDITED)
+
 
 #### Signatures
 
