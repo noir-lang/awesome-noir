@@ -29,6 +29,7 @@ A curated list of resources for programming with Noir.
     - [Encryption](#encryption)
     - [Signatures](#signatures)
     - [Merkle Trees](#merkle-trees)
+    - [Privacy Primitives](#privacy-primitives)
   - [Ethereum](#ethereum)
   - [Media](#media)
 - [Developer Tools](#developer-tools)
@@ -115,6 +116,7 @@ A curated list of resources for programming with Noir.
 - [Keccak256](https://github.com/noir-lang/keccak256) - Keccak256 hashes
 - [MiMC](https://github.com/noir-lang/mimc) - MiMC hashes
 - [Poseidon](https://github.com/noir-lang/poseidon) - Poseidon and Poseidon2 hashes
+- [Poseidon2 Interop Kit](https://github.com/Mimir-Collective/poseidon2-interop-kit) - domain-separated Poseidon2 hashing with Rust and Noir interoperability
 - [RIPEMD160](https://github.com/distributed-lab/noir-ripemd160) - RIPEMD160 hashes
 - [SHA256](https://github.com/noir-lang/sha256) - SHA256 hashes
 - [SHA512](https://github.com/noir-lang/sha512) - SHA512 and SHA384 hashes
@@ -135,7 +137,12 @@ A curated list of resources for programming with Noir.
 
 #### Merkle Trees
 
+- [Sparse Merkle Tree](https://github.com/Mimir-Collective/noir-sparse-merkle) - sparse Merkle tree with membership and non-membership proofs using Poseidon2
 - [ZK-Kit: Merkle Trees](https://github.com/privacy-scaling-explorations/zk-kit.noir/tree/main/packages/merkle-trees) - verification of (non-)membership proofs and add/update/delete leaves
+
+#### Privacy Primitives
+
+- [Nullifier Circuits](https://github.com/Mimir-Collective/noir-nullifier) - complete spend/reveal circuits combining commitment membership with nullifier non-membership for UTXO-based private state
 
 ### Ethereum
 
