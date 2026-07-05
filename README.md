@@ -90,7 +90,7 @@ A curated list of resources for programming with Noir.
 ### Data Types
 
 - [BigNum](https://github.com/noir-lang/noir-bignum) - arithmetic computations of large unsigned integers of any length
-- [IEEE754 Floating-point](https://github.com/jeswr/noir_IEEE754) - IEEE 754-compliant floating-point arithmetic library supporting single and double precision
+- [IEEE754 Floating-point](https://github.com/sparq-org/noir_IEEE754) - IEEE 754-compliant floating-point arithmetic library supporting single and double precision
 - [wad.nr Fixed-point](https://github.com/merkle-groot/wad.nr) - 18-decimal fixed-point arithmetics
 - [Noir Dates](https://github.com/madztheo/noir-date) - A Noir library to parse and abstract away Dates
 
@@ -99,6 +99,7 @@ A curated list of resources for programming with Noir.
 - [Base64](https://github.com/noir-lang/noir_base64) - a library for base64 encoding
 - [JSON parser](https://github.com/noir-lang/noir_json_parser) - JSON string parsing, adheres to [IETF RFC 8259](https://datatracker.ietf.org/doc/html/rfc8259)
 - [String Search](https://github.com/noir-lang/noir_string_search) - proof of substring existence within a larger string
+- [XPath 2.0 Functions](https://github.com/sparq-org/noir_XPath) - XPath 2.0 functions and operations (string, numeric, date/time, boolean); conformance-tested against W3C test-suite-derived cases
 
 ### Collections
 
