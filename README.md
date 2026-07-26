@@ -193,6 +193,7 @@ A curated list of resources for programming with Noir.
 - [aztec-lint](https://github.com/NethermindEth/aztec-lint) by Nethermind - static analyzer for Aztec.nr contracts, also works with vanilla Noir programs
 - [VS Code Debugger](https://noir-lang.org/docs/tooling/debugger)
 - [CodeTracer](https://github.com/metacraft-labs/codetracer) - time-travelling debugger with Noir support
+- [o1js-scan](https://github.com/auditinfra-io/o1js-scan) by Proofplay Logic - dependency-free static analyzer for circuit soundness bugs: unconstrained `unsafe` hints, unconstrained public/private inputs, missing range checks on narrowing casts, discarded checks and vacuous constraints. SARIF + GitHub Action.
 
 ### Performance analysis
 
