@@ -207,6 +207,7 @@ A curated list of resources for programming with Noir.
 
 - [Merkle Tree Generator](https://github.com/eyalron33/mpz/) - generate Noir-library-friendly Pedersen based Merkle trees
 - [Poseidon2 in TypeScript](https://github.com/zkpassport/poseidon2) - a Poseidon2 library in pure TypeScript with support for the implementation used by Noir (over BN254)
+- [Poseidon2 in Solidity](https://github.com/platus-xyz/poseidon2-solidity) - for the BN254 scalar field, implemented in Solidity with inline Yul for gas efficiency.
 
 ### Private Shared States
 
