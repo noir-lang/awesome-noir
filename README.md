@@ -61,6 +61,7 @@ A curated list of resources for programming with Noir.
 
 - [Ethproofs' Benchmarks](https://ethproofs.org/csp-benchmarks) - benchmarks of hashes and signature verifications in Noir with Barretenberg amongst other ZK stacks
 - [tsujp's Hash Benchmarks](https://observablehq.com/d/83efd5e7d136c471) - benchmarks of Poseidon2, Keccak256 and SHA256 at various input sizes and iterations
+- [ProveBench](https://github.com/agnij-dutta/provebench) - Poseidon chain, Merkle membership, SHA-256 and a spend-cap check in both Noir/UltraHonk and Circom/Groth16 (plus ECDSA in Noir), measured natively and in the browser, with a page to run the suite on your own device
 
 ## Applications
 
